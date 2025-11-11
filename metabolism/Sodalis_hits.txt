@@ -1,0 +1,669 @@
+enzyme	genome_name	gene_caller_id	contig	modules_with_enzyme	enzyme_definition
+K01810	contigs_clean	840	c_000000000022	M00001,M00004,M00892,M00909	glucose-6-phosphate isomerase [EC:5.3.1.9]
+K01624	contigs_clean	303	c_000000000008	M00001,M00003,M00165,M00167,M00345,M00344,M00611,M00612	fructose-bisphosphate aldolase, class II [EC:4.1.2.13]
+K01803	contigs_clean	231	c_000000000005	M00001,M00002,M00003	triosephosphate isomerase (TIM) [EC:5.3.1.1]
+K00134	contigs_clean	455	c_000000000011	M00001,M00002,M00003,M00308,M00552,M00165,M00166,M00611,M00612	glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12]
+K00927	contigs_clean	304	c_000000000008	M00001,M00002,M00003,M00308,M00552,M00165,M00166,M00611,M00612	phosphoglycerate kinase [EC:2.7.2.3]
+K01834	contigs_clean	64	c_000000000003	M00001,M00002,M00003	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]
+K01689	contigs_clean	87	c_000000000003	M00001,M00002,M00003,M00346	enolase [EC:4.2.1.11]
+K00873	contigs_clean	13	c_000000000002	M00001,M00002	pyruvate kinase [EC:2.7.1.40]
+K00163	contigs_clean	770	c_000000000018	M00307	pyruvate dehydrogenase E1 component [EC:1.2.4.1]
+K00627	contigs_clean	769	c_000000000018	M00307	pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase) [EC:2.3.1.12]
+K00382	contigs_clean	768	c_000000000018	M00307,M00009,M00011,M00532,M00621,M00036,M00032	dihydrolipoyl dehydrogenase [EC:1.8.1.4]
+K00164	contigs_clean	537	c_000000000011	M00009,M00011	2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]
+K00658	contigs_clean	536	c_000000000011	M00009,M00011,M00032	2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]
+K01902	contigs_clean	534	c_000000000011	M00009,M00011,M00173,M00374,M00620,M00614	succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]
+K01903	contigs_clean	535	c_000000000011	M00009,M00011,M00173,M00374,M00620,M00614	succinyl-CoA synthetase beta subunit [EC:6.2.1.5]
+K01783	contigs_clean	751	c_000000000017	M00004,M00007	ribulose-phosphate 3-epimerase [EC:5.1.3.1]
+K01807	contigs_clean	677	c_000000000016	M00004,M00007,M00580,M00165,M00167,M00611,M00612	ribose 5-phosphate isomerase A [EC:5.3.1.6]
+K00615	contigs_clean	607	c_000000000013	M00004,M00007,M00165,M00167,M00611,M00612	transketolase [EC:2.2.1.1]
+K00616	contigs_clean	606	c_000000000013	M00004,M00007	transaldolase [EC:2.2.1.2]
+K00948	contigs_clean	90	c_000000000003	M00005	ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+K00012	contigs_clean	564	c_000000000013	M00014,M00129	UDPglucose 6-dehydrogenase [EC:1.1.1.22]
+K00963	contigs_clean	565	c_000000000013	M00129,M00854,M00549	UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]
+K01835	contigs_clean	0	c_000000000001	M00855,M00549	phosphoglucomutase [EC:5.4.2.2]
+K00820	contigs_clean	710	c_000000000016	M00892,M00909	glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16]
+K03431	contigs_clean	850	c_000000000022	M00909	phosphoglucosamine mutase [EC:5.4.2.10]
+K04042	contigs_clean	709	c_000000000016	M00909	bifunctional UDP-N-acetylglucosamine pyrophosphorylase / glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]
+K10011	contigs_clean	180	c_000000000005	M00761	UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating) [EC:2.1.2.13 1.1.1.305]
+K07806	contigs_clean	178	c_000000000005	M00761	UDP-4-amino-4-deoxy-L-arabinose-oxoglutarate aminotransferase [EC:2.6.1.87]
+K10012	contigs_clean	179	c_000000000005	M00761	undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase [EC:2.4.2.53]
+K13014	contigs_clean	182	c_000000000005	M00761	undecaprenyl phosphate-alpha-L-ara4FN deformylase [EC:3.5.1.-]
+K00600	contigs_clean	810	c_000000000020	M00532,M00346,M00140,M00141	glycine hydroxymethyltransferase [EC:2.1.2.1]
+K01092	contigs_clean	824	c_000000000020	M00131	myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]
+K01961	contigs_clean	131	c_000000000004	M00376,M00082,M00613	acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14]
+K01962	contigs_clean	738	c_000000000017	M00376,M00082,M00613	acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15]
+K01963	contigs_clean	83	c_000000000003	M00376,M00082,M00613	acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2 2.1.3.15]
+K02160	contigs_clean	130	c_000000000004	M00376,M00082,M00613	acetyl-CoA carboxylase biotin carboxyl carrier protein
+K01491	contigs_clean	466	c_000000000011	M00377,M00140,M00618	methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]
+K13788	contigs_clean	274	c_000000000006	M00579,M00617,M00618	phosphate acetyltransferase [EC:2.3.1.8]
+K00925	contigs_clean	273	c_000000000006	M00579,M00357,M00617,M00618	acetate kinase [EC:2.7.2.1]
+K02257	contigs_clean	196	c_000000000005	M00154	heme o synthase [EC:2.5.1.141]
+K02297	contigs_clean	200	c_000000000005	M00417	cytochrome o ubiquinol oxidase subunit II [EC:7.1.1.3]
+K02298	contigs_clean	199	c_000000000005	M00417	cytochrome o ubiquinol oxidase subunit I [EC:7.1.1.3]
+K02299	contigs_clean	198	c_000000000005	M00417	cytochrome o ubiquinol oxidase subunit III
+K02300	contigs_clean	197	c_000000000005	M00417	cytochrome o ubiquinol oxidase subunit IV
+K02111	contigs_clean	705	c_000000000016	M00157	F-type H+/Na+-transporting ATPase subunit alpha [EC:7.1.2.2 7.2.2.1]
+K02112	contigs_clean	707	c_000000000016	M00157	F-type H+/Na+-transporting ATPase subunit beta [EC:7.1.2.2 7.2.2.1]
+K02113	contigs_clean	704	c_000000000016	M00157	F-type H+-transporting ATPase subunit delta
+K02114	contigs_clean	708	c_000000000016	M00157	F-type H+-transporting ATPase subunit epsilon
+K02115	contigs_clean	706	c_000000000016	M00157	F-type H+-transporting ATPase subunit gamma
+K02108	contigs_clean	701	c_000000000016	M00157	F-type H+-transporting ATPase subunit a
+K02109	contigs_clean	703	c_000000000016	M00157	F-type H+-transporting ATPase subunit b
+K02110	contigs_clean	702	c_000000000016	M00157	F-type H+-transporting ATPase subunit c
+K00645	contigs_clean	244	c_000000000005	M00082,M00873,M00874	[acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]
+K00648	contigs_clean	243	c_000000000005	M00082	3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]
+K00647	contigs_clean	520	c_000000000011	M00083,M00572	3-oxoacyl-[acyl-carrier-protein] synthase I [EC:2.3.1.41]
+K00059	contigs_clean	245	c_000000000005	M00083,M00874,M00572	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]
+K02372	contigs_clean	734	c_000000000017	M00083,M00572	3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]
+K01716	contigs_clean	653	c_000000000015	M00083	3-hydroxyacyl-[acyl-carrier protein] dehydratase / trans-2-decenoyl-[acyl-carrier protein] isomerase [EC:4.2.1.59 5.3.3.14]
+K00208	contigs_clean	635	c_000000000013	M00083,M00572	enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]
+K00655	contigs_clean	577	c_000000000013	M00089	1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]
+K00981	contigs_clean	729	c_000000000017	M00093	phosphatidate cytidylyltransferase [EC:2.7.7.41]
+K00998	contigs_clean	448	c_000000000011	M00093	CDP-diacylglycerol---serine O-phosphatidyltransferase [EC:2.7.8.8]
+K01613	contigs_clean	79	c_000000000003	M00093	phosphatidylserine decarboxylase [EC:4.1.1.65]
+K01756	contigs_clean	763	c_000000000018	M00048,M00049	adenylosuccinate lyase [EC:4.3.2.2]
+K01939	contigs_clean	259	c_000000000005	M00049	adenylosuccinate synthase [EC:6.3.4.4]
+K00939	contigs_clean	531	c_000000000011	M00049	adenylate kinase [EC:2.7.4.3]
+K00940	contigs_clean	819	c_000000000020	M00049,M00050,M00053,M00052,M00938	nucleoside-diphosphate kinase [EC:2.7.4.6]
+K00088	contigs_clean	1	c_000000000001	M00050	IMP dehydrogenase [EC:1.1.1.205]
+K01951	contigs_clean	2	c_000000000001	M00050	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]
+K00942	contigs_clean	517	c_000000000011	M00050	guanylate kinase [EC:2.7.4.8]
+K00525	contigs_clean	150	c_000000000004	M00053,M00938	ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]
+K00526	contigs_clean	151	c_000000000004	M00053,M00938	ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1]
+K05810	contigs_clean	127	c_000000000003	M00958,M00959,M00034	purine-nucleoside/S-methyl-5'-thioadenosine phosphorylase / adenosine deaminase [EC:2.4.2.1 2.4.2.28 3.5.4.4]
+K03784	contigs_clean	233	c_000000000005	M00958,M00959	purine-nucleoside phosphorylase [EC:2.4.2.1]
+K01955	contigs_clean	365	c_000000000008	M00051	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]
+K01956	contigs_clean	366	c_000000000008	M00051	carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]
+K00254	contigs_clean	429	c_000000000011	M00051	dihydroorotate dehydrogenase [EC:1.3.5.2]
+K00762	contigs_clean	664	c_000000000016	M00051	orotate phosphoribosyltransferase [EC:2.4.2.10]
+K01591	contigs_clean	544	c_000000000012	M00051	orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]
+K09903	contigs_clean	725	c_000000000017	M00052	uridylate kinase [EC:2.7.4.22]
+K01937	contigs_clean	86	c_000000000003	M00052	CTP synthase [EC:6.3.4.2]
+K01520	contigs_clean	675	c_000000000016	M00938	dUTP diphosphatase [EC:3.6.1.23]
+K00560	contigs_clean	748	c_000000000017	M00938	thymidylate synthase [EC:2.1.1.45]
+K00943	contigs_clean	237	c_000000000005	M00938	dTMP kinase [EC:2.7.4.9]
+K00831	contigs_clean	41	c_000000000003	M00020,M00124	phosphoserine aminotransferase [EC:2.6.1.52]
+K00928	contigs_clean	56	c_000000000003	M00018,M00033,M00017,M00016,M00525,M00526,M00527	aspartate kinase [EC:2.7.2.4]
+K00133	contigs_clean	665	c_000000000016	M00018,M00033,M00017,M00016,M00525,M00526,M00527	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]
+K00789	contigs_clean	651	c_000000000015	M00609,M00034,M00035,M00368,M00953	S-adenosylmethionine synthetase [EC:2.5.1.6]
+K01243	contigs_clean	128	c_000000000004	M00609,M00034	adenosylhomocysteine nucleosidase [EC:3.2.2.9]
+K01714	contigs_clean	7	c_000000000002	M00016,M00525,M00526,M00527	4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]
+K00215	contigs_clean	335	c_000000000008	M00016,M00525,M00526,M00527	4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]
+K00674	contigs_clean	398	c_000000000010	M00016	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117]
+K01439	contigs_clean	107	c_000000000003	M00016	succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]
+K01778	contigs_clean	680	c_000000000016	M00016,M00525,M00527	diaminopimelate epimerase [EC:5.1.1.7]
+K01586	contigs_clean	211	c_000000000005	M00016,M00525,M00526,M00527	diaminopimelate decarboxylase [EC:4.1.1.20]
+K00657	contigs_clean	829	c_000000000021	M00135	diamine N-acetyltransferase [EC:2.3.1.57]
+K01626	contigs_clean	21	c_000000000003	M00022	3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]
+K01626	contigs_clean	22	c_000000000003	M00022	3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]
+K03786	contigs_clean	129	c_000000000004	M00022	3-dehydroquinate dehydratase II [EC:4.2.1.10]
+K00891	contigs_clean	217	c_000000000005	M00022	shikimate kinase [EC:2.7.1.71]
+K00800	contigs_clean	799	c_000000000020	M00022	3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]
+K01736	contigs_clean	698	c_000000000016	M00022	chorismate synthase [EC:4.2.3.5]
+K00766	contigs_clean	166	c_000000000005	M00023	anthranilate phosphoribosyltransferase [EC:2.4.2.18]
+K13498	contigs_clean	165	c_000000000005	M00023	indole-3-glycerol phosphate synthase / phosphoribosylanthranilate isomerase [EC:4.1.1.48 5.3.1.24]
+K01695	contigs_clean	163	c_000000000005	M00023	tryptophan synthase alpha chain [EC:4.2.1.20]
+K01696	contigs_clean	164	c_000000000005	M00023	tryptophan synthase beta chain [EC:4.2.1.20]
+K01919	contigs_clean	409	c_000000000011	M00118	glutamate--cysteine ligase [EC:6.3.2.2]
+K01920	contigs_clean	743	c_000000000017	M00118	glutathione synthase [EC:6.3.2.3]
+K00677	contigs_clean	735	c_000000000017	M00060,M00866	UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]
+K02535	contigs_clean	513	c_000000000011	M00060,M00866	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3.5.1.108]
+K02536	contigs_clean	733	c_000000000017	M00060,M00866	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]
+K03269	contigs_clean	521	c_000000000011	M00060,M00866	UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]
+K00748	contigs_clean	736	c_000000000017	M00060,M00866	lipid-A-disaccharide synthase [EC:2.4.1.182]
+K00912	contigs_clean	522	c_000000000011	M00060,M00866	tetraacyldisaccharide 4'-kinase [EC:2.7.1.130]
+K02527	contigs_clean	116	c_000000000003	M00060,M00866	3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15]
+K02517	contigs_clean	390	c_000000000009	M00060,M00866	Kdo2-lipid IVA lauroyltransferase/acyltransferase [EC:2.3.1.241 2.3.1.-]
+K02560	contigs_clean	137	c_000000000004	M00060	lauroyl-Kdo2-lipid IVA myristoyltransferase [EC:2.3.1.243]
+K06041	contigs_clean	20	c_000000000003	M00063	arabinose-5-phosphate isomerase [EC:5.3.1.13]
+K01627	contigs_clean	37	c_000000000003	M00063	2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]
+K00979	contigs_clean	453	c_000000000011	M00063	3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]
+K03271	contigs_clean	272	c_000000000006	M00064	D-sedoheptulose 7-phosphate isomerase [EC:5.3.1.28]
+K03272	contigs_clean	444	c_000000000011	M00064	D-beta-D-heptose 7-phosphate kinase / D-beta-D-heptose 1-phosphate adenosyltransferase [EC:2.7.1.167 2.7.7.70]
+K03274	contigs_clean	713	c_000000000017	M00064	ADP-L-glycero-D-manno-heptose 6-epimerase [EC:5.1.3.20]
+K00946	contigs_clean	553	c_000000000013	M00127,M00895,M00896	thiamine-monophosphate kinase [EC:2.7.4.16]
+K01497	contigs_clean	573	c_000000000013	M00125,M00911	GTP cyclohydrolase II [EC:3.5.4.25]
+K11752	contigs_clean	556	c_000000000013	M00125	diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]
+K21064	contigs_clean	383	c_000000000009	M00125	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase [EC:3.1.3.104]
+K02858	contigs_clean	431	c_000000000011	M00125,M00911	3,4-dihydroxy 2-butanone 4-phosphate synthase [EC:4.1.99.12]
+K00794	contigs_clean	555	c_000000000013	M00125,M00911	6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]
+K00793	contigs_clean	202	c_000000000005	M00125,M00911	riboflavin synthase [EC:2.5.1.9]
+K11753	contigs_clean	339	c_000000000008	M00125	riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2]
+K00969	contigs_clean	190	c_000000000005	M00115,M00912	nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18]
+K01916	contigs_clean	407	c_000000000011	M00115,M00912	NAD+ synthase [EC:6.3.1.5]
+K00606	contigs_clean	92	c_000000000003	M00119,M00913,M00914	3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]
+K00077	contigs_clean	372	c_000000000009	M00119,M00913,M00914	2-dehydropantoate 2-reductase [EC:1.1.1.169]
+K01918	contigs_clean	91	c_000000000003	M00119,M00913	pantoate--beta-alanine ligase [EC:6.3.2.1]
+K00867	contigs_clean	284	c_000000000006	M00120	type I pantothenate kinase [EC:2.7.1.33]
+K13038	contigs_clean	674	c_000000000016	M00120,M00914	phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase [EC:4.1.1.36 6.3.2.5]
+K00954	contigs_clean	118	c_000000000003	M00120	pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]
+K00859	contigs_clean	663	c_000000000016	M00120	dephospho-CoA kinase [EC:2.7.1.24]
+K00833	contigs_clean	110	c_000000000003	M00123,M00577	adenosylmethionine---8-amino-7-oxononanoate aminotransferase [EC:2.6.1.62]
+K01935	contigs_clean	112	c_000000000003	M00123,M00950,M00573,M00577	dethiobiotin synthetase [EC:6.3.3.3]
+K01012	contigs_clean	111	c_000000000003	M00123,M00950,M00573,M00577	biotin synthase [EC:2.8.1.6]
+K03801	contigs_clean	271	c_000000000006	M00881	lipoyl(octanoyl) transferase [EC:2.3.1.181]
+K03644	contigs_clean	265	c_000000000006	M00881,M00882,M00883,M00884	lipoyl synthase [EC:2.8.1.8]
+K01495	contigs_clean	161	c_000000000005	M00126,M00841,M00842,M00843	GTP cyclohydrolase IA [EC:3.5.4.16]
+K01633	contigs_clean	320	c_000000000008	M00126,M00840	7,8-dihydroneopterin aldolase/epimerase/oxygenase [EC:4.1.2.25 5.1.99.8 1.13.11.81]
+K00950	contigs_clean	382	c_000000000009	M00126	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:2.7.6.3]
+K00796	contigs_clean	851	c_000000000022	M00126	dihydropteroate synthase [EC:2.5.1.15]
+K11754	contigs_clean	82	c_000000000003	M00126,M00841	dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17]
+K00287	contigs_clean	364	c_000000000008	M00126,M00840	dihydrofolate reductase [EC:1.5.1.3]
+K01737	contigs_clean	89	c_000000000003	M00842,M00843	6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50]
+K02496	contigs_clean	685	c_000000000016	M00846	uroporphyrin-III C-methyltransferase [EC:2.1.1.107]
+K01885	contigs_clean	450	c_000000000011	M00121	glutamyl-tRNA synthetase [EC:6.1.1.17]
+K03179	contigs_clean	548	c_000000000012	M00117	4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39]
+K03182	contigs_clean	667	c_000000000016	M00117	4-hydroxy-3-polyprenylbenzoate decarboxylase [EC:4.1.1.98]
+K03185	contigs_clean	610	c_000000000013	M00117	2-octaprenyl-6-methoxyphenol hydroxylase [EC:1.14.13.-]
+K03183	contigs_clean	671	c_000000000016	M00117,M00116	demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]
+K03184	contigs_clean	417	c_000000000011	M00117	3-demethoxyubiquinol 3-hydroxylase [EC:1.14.99.60]
+K01662	contigs_clean	591	c_000000000013	M00096	1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]
+K00099	contigs_clean	727	c_000000000017	M00096	1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267]
+K00991	contigs_clean	45	c_000000000003	M00096	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]
+K00919	contigs_clean	19	c_000000000003	M00096	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148]
+K01770	contigs_clean	46	c_000000000003	M00096	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12]
+K03526	contigs_clean	815	c_000000000020	M00096	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]
+K03527	contigs_clean	336	c_000000000008	M00096	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]
+K00795	contigs_clean	592	c_000000000013	M00364	farnesyl diphosphate synthase [EC:2.5.1.1 2.5.1.10]
+K02078	contigs_clean	246	c_000000000005	M00848	acyl carrier protein
+K09476	contigs_clean	598	c_000000000013	M00746	outer membrane pore protein F
+K02904	contigs_clean	477	c_000000000011	None	large subunit ribosomal protein L29
+K02906	contigs_clean	469	c_000000000011	None	large subunit ribosomal protein L3
+K03610	contigs_clean	461	c_000000000011	None	septum site-determining protein MinC
+K02874	contigs_clean	479	c_000000000011	None	large subunit ribosomal protein L14
+K02965	contigs_clean	473	c_000000000011	None	small subunit ribosomal protein S19
+K01883	contigs_clean	467	c_000000000011	None	cysteinyl-tRNA synthetase [EC:6.1.1.16]
+K01893	contigs_clean	462	c_000000000011	None	asparaginyl-tRNA synthetase [EC:6.1.1.22]
+K02961	contigs_clean	478	c_000000000011	None	small subunit ribosomal protein S17
+K02946	contigs_clean	468	c_000000000011	None	small subunit ribosomal protein S10
+K02982	contigs_clean	475	c_000000000011	None	small subunit ribosomal protein S3
+K02954	contigs_clean	482	c_000000000011	None	small subunit ribosomal protein S14
+K02994	contigs_clean	483	c_000000000011	None	small subunit ribosomal protein S8
+K02878	contigs_clean	476	c_000000000011	None	large subunit ribosomal protein L16
+K02886	contigs_clean	472	c_000000000011	None	large subunit ribosomal protein L2
+K02892	contigs_clean	471	c_000000000011	None	large subunit ribosomal protein L23
+K02931	contigs_clean	481	c_000000000011	None	large subunit ribosomal protein L5
+K03608	contigs_clean	459	c_000000000011	None	cell division topological specificity factor
+K02933	contigs_clean	484	c_000000000011	None	large subunit ribosomal protein L6
+K02890	contigs_clean	474	c_000000000011	None	large subunit ribosomal protein L22
+K02926	contigs_clean	470	c_000000000011	None	large subunit ribosomal protein L4
+K03609	contigs_clean	460	c_000000000011	None	septum site-determining protein MinD
+K02881	contigs_clean	485	c_000000000011	None	large subunit ribosomal protein L18
+K02895	contigs_clean	480	c_000000000011	None	large subunit ribosomal protein L24
+K02939	contigs_clean	32	c_000000000003	None	large subunit ribosomal protein L9
+K02871	contigs_clean	29	c_000000000003	None	large subunit ribosomal protein L13
+K11991	contigs_clean	43	c_000000000003	None	tRNA(adenine34) deaminase [EC:3.5.4.33]
+K06194	contigs_clean	42	c_000000000003	None	lipoprotein NlpD
+K03402	contigs_clean	53	c_000000000003	None	transcriptional regulator of arginine metabolism
+K03599	contigs_clean	27	c_000000000003	None	stringent starvation protein A
+K02686	contigs_clean	34	c_000000000003	None	primosomal replication protein N
+K02493	contigs_clean	39	c_000000000003	None	release factor glutamine methyltransferase [EC:2.1.1.297]
+K05589	contigs_clean	44	c_000000000003	None	cell division protein FtsB
+K03100	contigs_clean	50	c_000000000003	None	signal peptidase I [EC:3.4.21.89]
+K02963	contigs_clean	33	c_000000000003	None	small subunit ribosomal protein S18
+K02990	contigs_clean	35	c_000000000003	None	small subunit ribosomal protein S6
+K00799	contigs_clean	27	c_000000000003	None	glutathione S-transferase [EC:2.5.1.18]
+K00799	contigs_clean	326	c_000000000008	None	glutathione S-transferase [EC:2.5.1.18]
+K03685	contigs_clean	51	c_000000000003	None	ribonuclease III [EC:3.1.26.3]
+K02996	contigs_clean	28	c_000000000003	None	small subunit ribosomal protein S9
+K02835	contigs_clean	40	c_000000000003	None	peptide chain release factor 1
+K02968	contigs_clean	31	c_000000000003	None	small subunit ribosomal protein S20
+K03596	contigs_clean	49	c_000000000003	None	GTP-binding protein LepA
+K01141	contigs_clean	47	c_000000000003	None	exodeoxyribonuclease I [EC:3.1.11.1]
+K03595	contigs_clean	52	c_000000000003	None	GTPase
+K02911	contigs_clean	241	c_000000000005	None	large subunit ribosomal protein L32
+K04754	contigs_clean	232	c_000000000005	None	phospholipid-binding lipoprotein MlaA
+K03980	contigs_clean	224	c_000000000005	None	putative peptidoglycan lipid II flippase
+K08154	contigs_clean	229	c_000000000005	None	MFS transporter, DHA1 family, 2-module integral membrane pump EmrD
+K07566	contigs_clean	228	c_000000000005	None	L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]
+K03500	contigs_clean	220	c_000000000005	None	16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176]
+K03499	contigs_clean	221	c_000000000005	None	trk/ktr system potassium uptake protein
+K02341	contigs_clean	236	c_000000000005	None	DNA polymerase III subunit delta' [EC:2.7.7.7]
+K01462	contigs_clean	218	c_000000000005	None	peptide deformylase [EC:3.5.1.88]
+K00604	contigs_clean	219	c_000000000005	None	methionyl-tRNA formyltransferase [EC:2.1.2.9]
+K07186	contigs_clean	234	c_000000000005	None	membrane protein
+K03282	contigs_clean	225	c_000000000005	None	large conductance mechanosensitive channel
+K07082	contigs_clean	238	c_000000000005	None	UPF0755 protein
+K03424	contigs_clean	235	c_000000000005	None	TatD DNase family protein [EC:3.1.21.-]
+K02343	contigs_clean	691	c_000000000016	None	DNA polymerase III subunit gamma/tau [EC:2.7.7.7]
+K00759	contigs_clean	692	c_000000000016	None	adenine phosphoribosyltransferase [EC:2.4.2.7]
+K09747	contigs_clean	690	c_000000000016	None	nucleoid-associated protein EbfC
+K06980	contigs_clean	696	c_000000000016	None	tRNA-modifying protein YgfZ
+K02498	contigs_clean	686	c_000000000016	None	HemY protein
+K03168	contigs_clean	694	c_000000000016	None	DNA topoisomerase I [EC:5.6.2.1]
+K21449	contigs_clean	194	c_000000000005	None	trimeric autotransporter adhesin
+K02622	contigs_clean	206	c_000000000005	None	topoisomerase IV subunit B [EC:5.6.2.2]
+K02340	contigs_clean	189	c_000000000005	None	DNA polymerase III subunit delta [EC:2.7.7.7]
+K03498	contigs_clean	204	c_000000000005	None	trk/ktr system potassium uptake protein
+K05805	contigs_clean	212	c_000000000005	None	CreA protein
+K01669	contigs_clean	191	c_000000000005	None	deoxyribodipyrimidine photo-lyase [EC:4.1.99.3]
+K03624	contigs_clean	203	c_000000000005	None	transcription elongation factor GreA
+K04773	contigs_clean	192	c_000000000005	None	protease IV [EC:3.4.21.-]
+K03210	contigs_clean	560	c_000000000013	None	preprotein translocase subunit YajC
+K07738	contigs_clean	557	c_000000000013	None	transcriptional repressor NrdR
+K03571	contigs_clean	543	c_000000000011	None	rod shape-determining protein MreD
+K03570	contigs_clean	542	c_000000000011	None	rod shape-determining protein MreC
+K03072	contigs_clean	559	c_000000000013	None	preprotein translocase subunit SecD
+K00631	contigs_clean	546	c_000000000012	None	glycerol-3-phosphate O-acyltransferase [EC:2.3.1.15]
+K03074	contigs_clean	558	c_000000000013	None	preprotein translocase subunit SecF
+K08679	contigs_clean	563	c_000000000013	None	UDP-glucuronate 4-epimerase [EC:5.1.3.6]
+K01095	contigs_clean	552	c_000000000013	None	phosphatidylglycerophosphatase A [EC:3.1.3.27]
+K00773	contigs_clean	561	c_000000000013	None	queuine tRNA-ribosyltransferase [EC:2.4.2.29]
+K03322	contigs_clean	551	c_000000000013	None	manganese transport protein
+K07568	contigs_clean	562	c_000000000013	None	S-adenosylmethionine:tRNA ribosyltransferase-isomerase [EC:2.4.99.17]
+K03569	contigs_clean	541	c_000000000011	None	rod shape-determining protein MreB and related proteins
+K03625	contigs_clean	554	c_000000000013	None	transcription antitermination protein NusB
+K07277	contigs_clean	731	c_000000000017	None	outer membrane protein insertion porin family
+K06223	contigs_clean	750	c_000000000017	None	DNA adenine methylase [EC:2.1.1.72]
+K11749	contigs_clean	730	c_000000000017	None	regulator of sigma E protease [EC:3.4.24.-]
+K06142	contigs_clean	732	c_000000000017	None	outer membrane protein
+K02337	contigs_clean	737	c_000000000017	None	DNA polymerase III subunit alpha [EC:2.7.7.7]
+K03673	contigs_clean	754	c_000000000017	None	protein dithiol oxidoreductase (disulfide-forming) [EC:1.8.4.15]
+K07038	contigs_clean	746	c_000000000017	None	inner membrane protein
+K10773	contigs_clean	749	c_000000000017	None	endonuclease III [EC:3.2.2.- 4.2.99.18]
+K01867	contigs_clean	753	c_000000000017	None	tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+K13292	contigs_clean	747	c_000000000017	None	phosphatidylglycerol---prolipoprotein diacylglyceryl transferase [EC:2.5.1.145]
+K03820	contigs_clean	333	c_000000000008	None	apolipoprotein N-acyltransferase [EC:2.3.1.269]
+K09908	contigs_clean	340	c_000000000008	None	uncharacterized protein
+K00790	contigs_clean	342	c_000000000008	None	UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]
+K19000	contigs_clean	347	c_000000000008	None	Rho-binding antiterminator
+K03101	contigs_clean	337	c_000000000008	None	signal peptidase II [EC:3.4.23.36]
+K02356	contigs_clean	350	c_000000000008	None	elongation factor P
+K02342	contigs_clean	345	c_000000000008	None	DNA polymerase III subunit epsilon [EC:2.7.7.7]
+K02221	contigs_clean	330	c_000000000008	None	YggT family protein
+K03469	contigs_clean	344	c_000000000008	None	ribonuclease HI [EC:3.1.26.4]
+K03086	contigs_clean	325	c_000000000008	None	RNA polymerase primary sigma factor
+K01870	contigs_clean	338	c_000000000008	None	isoleucyl-tRNA synthetase [EC:6.1.1.5]
+K04075	contigs_clean	348	c_000000000008	None	tRNA(Ile)-lysidine synthase [EC:6.3.4.19]
+K19810	contigs_clean	349	c_000000000008	None	L-lysine 2,3-aminomutase [EC:5.4.3.-]
+K06997	contigs_clean	332	c_000000000008	None	PLP dependent protein
+K07042	contigs_clean	328	c_000000000008	None	probable rRNA maturation factor
+K11209	contigs_clean	326	c_000000000008	None	GSH-dependent disulfide-bond oxidoreductase [EC:1.8.4.-]
+K04771	contigs_clean	656	c_000000000016	None	serine protease Do [EC:3.4.21.107]
+K04771	contigs_clean	341	c_000000000008	None	serine protease Do [EC:3.4.21.107]
+K05527	contigs_clean	615	c_000000000013	None	BolA family transcriptional regulator, general stress-responsive regulator
+K05527	contigs_clean	343	c_000000000008	None	BolA family transcriptional regulator, general stress-responsive regulator
+K02316	contigs_clean	324	c_000000000008	None	DNA primase [EC:2.7.7.101]
+K04772	contigs_clean	656	c_000000000016	None	serine protease DegQ [EC:3.4.21.-]
+K04772	contigs_clean	341	c_000000000008	None	serine protease DegQ [EC:3.4.21.-]
+K09897	contigs_clean	456	c_000000000011	None	uncharacterized protein
+K23773	contigs_clean	457	c_000000000011	None	LysR family transcriptional regulator, flagellar master operon regulator
+K01876	contigs_clean	451	c_000000000011	None	aspartyl-tRNA synthetase [EC:6.1.1.12]
+K09791	contigs_clean	454	c_000000000011	None	uncharacterized protein
+K07447	contigs_clean	447	c_000000000011	None	putative pre-16S rRNA nuclease [EC:3.1.-.-]
+K09893	contigs_clean	132	c_000000000004	None	regulator of ribonuclease activity B
+K02899	contigs_clean	123	c_000000000003	None	large subunit ribosomal protein L27
+K02913	contigs_clean	122	c_000000000003	None	large subunit ribosomal protein L33
+K02888	contigs_clean	124	c_000000000003	None	large subunit ribosomal protein L21
+K02902	contigs_clean	121	c_000000000003	None	large subunit ribosomal protein L28
+K03564	contigs_clean	120	c_000000000003	None	thioredoxin-dependent peroxiredoxin [EC:1.11.1.24]
+K03704	contigs_clean	126	c_000000000003	None	cold shock protein
+K03657	contigs_clean	113	c_000000000003	None	ATP-dependent DNA helicase UvrD/PcrA [EC:5.6.2.4]
+K03284	contigs_clean	114	c_000000000003	None	magnesium transporter
+K12984	contigs_clean	117	c_000000000003	None	(heptosyl)LPS beta-1,4-glucosyltransferase [EC:2.4.1.-]
+K09817	contigs_clean	134	c_000000000004	None	zinc transport system ATP-binding protein [EC:7.2.2.20]
+K01494	contigs_clean	109	c_000000000003	None	dCTP deaminase [EC:3.5.4.13]
+K09816	contigs_clean	133	c_000000000004	None	zinc transport system permease protein
+K02844	contigs_clean	115	c_000000000003	None	UDP-glucose:(heptosyl)LPS alpha-1,3-glucosyltransferase [EC:2.4.1.-]
+K03975	contigs_clean	108	c_000000000003	None	membrane-associated protein
+K02469	contigs_clean	154	c_000000000004	None	DNA gyrase subunit A [EC:5.6.2.2]
+K19304	contigs_clean	136	c_000000000004	None	murein DD-endopeptidase [EC:3.4.24.-]
+K03572	contigs_clean	146	c_000000000004	None	DNA mismatch repair protein MutL
+K01776	contigs_clean	156	c_000000000004	None	glutamate racemase [EC:5.1.1.3]
+K11927	contigs_clean	159	c_000000000005	None	ATP-dependent RNA helicase RhlE [EC:3.6.4.13]
+K04087	contigs_clean	141	c_000000000004	None	modulator of FtsH protease HflC
+K00791	contigs_clean	145	c_000000000004	None	tRNA dimethylallyltransferase [EC:2.5.1.75]
+K01448	contigs_clean	147	c_000000000004	None	N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]
+K03666	contigs_clean	144	c_000000000004	None	host factor-I protein
+K11102	contigs_clean	149	c_000000000004	None	proton glutamate symport protein
+K06925	contigs_clean	148	c_000000000004	None	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+K06890	contigs_clean	155	c_000000000004	None	uncharacterized protein
+K04088	contigs_clean	142	c_000000000004	None	modulator of FtsH protease HflK
+K15539	contigs_clean	816	c_000000000020	None	cytoskeleton protein RodZ
+K17713	contigs_clean	812	c_000000000020	None	outer membrane protein assembly factor BamB
+K04487	contigs_clean	823	c_000000000020	None	cysteine desulfurase [EC:2.8.1.7]
+K01892	contigs_clean	814	c_000000000020	None	histidyl-tRNA synthetase [EC:6.1.1.21]
+K02355	contigs_clean	832	c_000000000022	None	elongation factor G
+K02358	contigs_clean	283	c_000000000006	None	elongation factor Tu
+K02358	contigs_clean	831	c_000000000022	None	elongation factor Tu
+K07751	contigs_clean	822	c_000000000020	None	PepB aminopeptidase [EC:3.4.11.23]
+K02950	contigs_clean	834	c_000000000022	None	small subunit ribosomal protein S12
+K03723	contigs_clean	825	c_000000000021	None	transcription-repair coupling factor (superfamily II helicase) [EC:5.6.2.4]
+K07237	contigs_clean	835	c_000000000022	None	tRNA 2-thiouridine synthesizing protein B
+K07236	contigs_clean	836	c_000000000022	None	tRNA 2-thiouridine synthesizing protein C
+K02992	contigs_clean	833	c_000000000022	None	small subunit ribosomal protein S7
+K03297	contigs_clean	830	c_000000000021	None	small multidrug resistance pump
+K06941	contigs_clean	818	c_000000000020	None	23S rRNA (adenine2503-C2)-methyltransferase [EC:2.1.1.192]
+K03977	contigs_clean	811	c_000000000020	None	GTPase
+K04564	contigs_clean	828	c_000000000021	None	superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+K01000	contigs_clean	505	c_000000000011	None	phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]
+K03588	contigs_clean	507	c_000000000011	None	cell division protein FtsW
+K03589	contigs_clean	510	c_000000000011	None	cell division protein FtsQ
+K02907	contigs_clean	487	c_000000000011	None	large subunit ribosomal protein L30
+K06190	contigs_clean	498	c_000000000011	None	intracellular septation protein
+K02876	contigs_clean	488	c_000000000011	None	large subunit ribosomal protein L15
+K03438	contigs_clean	499	c_000000000011	None	16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]
+K01925	contigs_clean	506	c_000000000011	None	UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]
+K02948	contigs_clean	492	c_000000000011	None	small subunit ribosomal protein S11
+K01924	contigs_clean	509	c_000000000011	None	UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8]
+K02988	contigs_clean	486	c_000000000011	None	small subunit ribosomal protein S5
+K03076	contigs_clean	489	c_000000000011	None	preprotein translocase subunit SecY
+K02952	contigs_clean	491	c_000000000011	None	small subunit ribosomal protein S13
+K02563	contigs_clean	508	c_000000000011	None	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]
+K01929	contigs_clean	504	c_000000000011	None	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10]
+K02986	contigs_clean	493	c_000000000011	None	small subunit ribosomal protein S4
+K01928	contigs_clean	503	c_000000000011	None	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]
+K03040	contigs_clean	494	c_000000000011	None	DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]
+K03531	contigs_clean	512	c_000000000011	None	cell division protein FtsZ
+K07146	contigs_clean	496	c_000000000011	None	UPF0176 protein
+K02879	contigs_clean	495	c_000000000011	None	large subunit ribosomal protein L17
+K02919	contigs_clean	490	c_000000000011	None	large subunit ribosomal protein L36
+K03590	contigs_clean	511	c_000000000011	None	cell division protein FtsA
+K03587	contigs_clean	502	c_000000000011	None	cell division protein FtsI (penicillin-binding protein 3) [EC:3.4.16.4]
+K03586	contigs_clean	500	c_000000000011	None	cell division protein FtsL
+K02967	contigs_clean	723	c_000000000017	None	small subunit ribosomal protein S2
+K02838	contigs_clean	726	c_000000000017	None	ribosome recycling factor
+K02357	contigs_clean	724	c_000000000017	None	elongation factor Ts
+K06131	contigs_clean	711	c_000000000016	None	cardiolipin synthase A/B [EC:2.7.8.-]
+K00806	contigs_clean	728	c_000000000017	None	undecaprenyl diphosphate synthase [EC:2.5.1.31]
+K01265	contigs_clean	722	c_000000000017	None	methionyl aminopeptidase [EC:3.4.11.18]
+K01866	contigs_clean	717	c_000000000017	None	tyrosyl-tRNA synthetase [EC:6.1.1.1]
+K00868	contigs_clean	718	c_000000000017	None	pyridoxine kinase [EC:2.7.1.35]
+K02843	contigs_clean	714	c_000000000017	None	lipopolysaccharide heptosyltransferase II [EC:2.4.99.24]
+K02841	contigs_clean	715	c_000000000017	None	lipopolysaccharide heptosyltransferase I [EC:2.4.99.23]
+K06207	contigs_clean	712	c_000000000017	None	GTP-binding protein
+K03313	contigs_clean	17	c_000000000002	None	Na+:H+ antiporter, NhaA family
+K04043	contigs_clean	15	c_000000000002	None	molecular chaperone DnaK
+K03495	contigs_clean	11	c_000000000002	None	tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+K01874	contigs_clean	25	c_000000000003	None	methionyl-tRNA synthetase [EC:6.1.1.10]
+K06879	contigs_clean	18	c_000000000002	None	7-cyano-7-deazaguanine reductase [EC:1.7.1.13]
+K03686	contigs_clean	16	c_000000000002	None	molecular chaperone DnaJ
+K02836	contigs_clean	4	c_000000000001	None	peptide chain release factor 2
+K03839	contigs_clean	9	c_000000000002	None	flavodoxin I
+K06205	contigs_clean	12	c_000000000002	None	MioC protein
+K02314	contigs_clean	10	c_000000000002	None	replicative DNA helicase [EC:5.6.2.3]
+K04567	contigs_clean	3	c_000000000001	None	lysyl-tRNA synthetase, class II [EC:6.1.1.6]
+K02897	contigs_clean	23	c_000000000003	None	large subunit ribosomal protein L25
+K03575	contigs_clean	370	c_000000000008	None	A/G-specific adenine glycosylase [EC:3.2.2.31]
+K06195	contigs_clean	362	c_000000000008	None	ApaG protein
+K04744	contigs_clean	357	c_000000000008	None	LPS-assembly protein
+K03771	contigs_clean	358	c_000000000008	None	peptidyl-prolyl cis-trans isomerase SurA [EC:5.2.1.8]
+K03439	contigs_clean	367	c_000000000008	None	tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33]
+K09774	contigs_clean	375	c_000000000009	None	lipopolysaccharide export system protein LptA
+K03110	contigs_clean	352	c_000000000008	None	fused signal recognition particle receptor
+K06861	contigs_clean	374	c_000000000009	None	lipopolysaccharide export system ATP-binding protein [EC:7.5.2.5]
+K01921	contigs_clean	354	c_000000000008	None	D-alanine-D-alanine ligase [EC:6.3.2.4]
+K03089	contigs_clean	353	c_000000000008	None	RNA polymerase sigma-32 factor
+K08306	contigs_clean	368	c_000000000008	None	membrane-bound lytic murein transglycosylase C [EC:4.2.2.-]
+K01525	contigs_clean	363	c_000000000008	None	bis(5'-nucleosyl)-tetraphosphatase (symmetrical) [EC:3.6.1.41]
+K05801	contigs_clean	356	c_000000000008	None	DnaJ like chaperone protein
+K11719	contigs_clean	376	c_000000000009	None	lipopolysaccharide export system protein LptC
+K02528	contigs_clean	361	c_000000000008	None	16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]
+K03978	contigs_clean	305	c_000000000008	None	GTP-binding protein
+K07113	contigs_clean	316	c_000000000008	None	UPF0716 protein FxsA
+K02796	contigs_clean	301	c_000000000007	None	mannose PTS system EIID component
+K02795	contigs_clean	300	c_000000000007	None	mannose PTS system EIIC component
+K25706	contigs_clean	322	c_000000000008	None	tRNA N6-adenosine threonylcarbamoyltransferase [EC:2.3.1.234]
+K04078	contigs_clean	314	c_000000000008	None	chaperonin GroES
+K02970	contigs_clean	323	c_000000000008	None	small subunit ribosomal protein S21
+K02794	contigs_clean	299	c_000000000007	None	mannose PTS system EIIAB component [EC:2.7.1.191]
+K02793	contigs_clean	299	c_000000000007	None	mannose PTS system EIIA component [EC:2.7.1.191]
+K03694	contigs_clean	302	c_000000000008	None	ATP-dependent Clp protease ATP-binding subunit ClpA
+K04077	contigs_clean	313	c_000000000008	None	chaperonin GroEL [EC:5.6.1.7]
+K07323	contigs_clean	307	c_000000000008	None	phospholipid transport system substrate-binding protein
+K02065	contigs_clean	310	c_000000000008	None	phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein
+K03555	contigs_clean	311	c_000000000008	None	DNA mismatch repair protein MutS
+K15724	contigs_clean	317	c_000000000008	None	iron-sulfur cluster insertion protein
+K02066	contigs_clean	309	c_000000000008	None	phospholipid/cholesterol/gamma-HCH transport system permease protein
+K07122	contigs_clean	306	c_000000000008	None	phospholipid transport system transporter-binding protein
+K02067	contigs_clean	308	c_000000000008	None	phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein
+K09760	contigs_clean	672	c_000000000016	None	DNA recombination protein RmuC
+K00384	contigs_clean	658	c_000000000016	None	thioredoxin reductase (NADPH) [EC:1.8.1.9]
+K01875	contigs_clean	655	c_000000000016	None	seryl-tRNA synthetase [EC:6.1.1.11]
+K00364	contigs_clean	657	c_000000000016	None	GMP reductase [EC:1.7.1.7]
+K05368	contigs_clean	666	c_000000000016	None	NAD(P)H-flavin reductase [EC:1.5.1.41]
+K07337	contigs_clean	660	c_000000000016	None	penicillin-binding protein activator
+K02503	contigs_clean	659	c_000000000016	None	histidine triad (HIT) family protein
+K07251	contigs_clean	661	c_000000000016	None	thiamine kinase [EC:2.7.1.89]
+K04770	contigs_clean	652	c_000000000015	None	Lon-like ATP-dependent protease [EC:3.4.21.-]
+K09862	contigs_clean	662	c_000000000016	None	uncharacterized protein
+K02470	contigs_clean	650	c_000000000015	None	DNA gyrase subunit B [EC:5.6.2.2]
+K02335	contigs_clean	807	c_000000000020	None	DNA polymerase I [EC:2.7.7.7]
+K03573	contigs_clean	795	c_000000000020	None	DNA mismatch repair protein MutH
+K02860	contigs_clean	802	c_000000000020	None	16S rRNA processing protein RimM
+K02344	contigs_clean	809	c_000000000020	None	DNA polymerase III subunit psi [EC:2.7.7.7]
+K03106	contigs_clean	804	c_000000000020	None	signal recognition particle subunit SRP54 [EC:3.6.5.4]
+K02959	contigs_clean	803	c_000000000020	None	small subunit ribosomal protein S16
+K05788	contigs_clean	796	c_000000000020	None	integration host factor subunit beta
+K00554	contigs_clean	801	c_000000000020	None	tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]
+K01887	contigs_clean	806	c_000000000020	None	arginyl-tRNA synthetase [EC:6.1.1.19]
+K09808	contigs_clean	792	c_000000000020	None	lipoprotein-releasing system permease protein
+K09808	contigs_clean	794	c_000000000020	None	lipoprotein-releasing system permease protein
+K02004	contigs_clean	792	c_000000000020	None	putative ABC transport system permease protein
+K02004	contigs_clean	794	c_000000000020	None	putative ABC transport system permease protein
+K02945	contigs_clean	797	c_000000000020	None	small subunit ribosomal protein S1
+K09810	contigs_clean	793	c_000000000020	None	lipoprotein-releasing system ATP-binding protein [EC:7.6.2.-]
+K03524	contigs_clean	783	c_000000000019	None	BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]
+K00763	contigs_clean	788	c_000000000020	None	nicotinate phosphoribosyltransferase [EC:6.3.4.21]
+K00945	contigs_clean	798	c_000000000020	None	CMP/dCMP kinase [EC:2.7.4.25]
+K02217	contigs_clean	786	c_000000000020	None	ferritin [EC:1.16.3.2]
+K02003	contigs_clean	793	c_000000000020	None	putative ABC transport system ATP-binding protein
+K02837	contigs_clean	808	c_000000000020	None	peptide chain release factor 3
+K02884	contigs_clean	800	c_000000000020	None	large subunit ribosomal protein L19
+K03386	contigs_clean	789	c_000000000020	None	peroxiredoxin 2/4 [EC:1.11.1.24]
+K06942	contigs_clean	791	c_000000000020	None	ribosome-binding ATPase
+K01358	contigs_clean	617	c_000000000013	None	ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+K04085	contigs_clean	602	c_000000000013	None	tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]
+K03648	contigs_clean	594	c_000000000013	None	uracil-DNA glycosylase [EC:3.2.2.27]
+K18691	contigs_clean	603	c_000000000013	None	membrane-bound lytic murein transglycosylase F [EC:4.2.2.-]
+K03702	contigs_clean	605	c_000000000013	None	excinuclease ABC subunit B
+K03071	contigs_clean	597	c_000000000013	None	preprotein translocase subunit SecB
+K01262	contigs_clean	611	c_000000000013	None	Xaa-Pro aminopeptidase [EC:3.4.11.9]
+K01338	contigs_clean	619	c_000000000013	None	ATP-dependent Lon protease [EC:3.4.21.53]
+K03530	contigs_clean	620	c_000000000013	None	DNA-binding protein HU-beta
+K09802	contigs_clean	595	c_000000000013	None	uncharacterized protein
+K09888	contigs_clean	612	c_000000000013	None	cell division protein ZapA
+K01972	contigs_clean	601	c_000000000013	None	DNA ligase (NAD+) [EC:6.5.1.2]
+K03544	contigs_clean	618	c_000000000013	None	ATP-dependent Clp protease ATP-binding subunit ClpX
+K03545	contigs_clean	616	c_000000000013	None	trigger factor
+K19302	contigs_clean	184	c_000000000005	None	undecaprenyl-diphosphatase [EC:3.6.1.27]
+K03628	contigs_clean	172	c_000000000005	None	transcription termination factor Rho
+K07264	contigs_clean	183	c_000000000005	None	4-amino-4-deoxy-L-arabinose transferase [EC:2.4.2.43]
+K01869	contigs_clean	187	c_000000000005	None	leucyl-tRNA synthetase [EC:6.1.1.4]
+K03671	contigs_clean	171	c_000000000005	None	thioredoxin 1
+K03643	contigs_clean	188	c_000000000005	None	LPS-assembly lipoprotein
+K03582	contigs_clean	176	c_000000000005	None	exodeoxyribonuclease V beta subunit [EC:3.1.11.5]
+K03583	contigs_clean	177	c_000000000005	None	exodeoxyribonuclease V gamma subunit [EC:3.1.11.5]
+K02851	contigs_clean	173	c_000000000005	None	UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K03581	contigs_clean	175	c_000000000005	None	exodeoxyribonuclease V alpha subunit [EC:3.1.11.5]
+K04568	contigs_clean	77	c_000000000003	None	elongation factor P--(R)-beta-lysine ligase [EC:6.3.1.-]
+K02518	contigs_clean	58	c_000000000003	None	translation initiation factor IF-1
+K01507	contigs_clean	70	c_000000000003	None	inorganic pyrophosphatase [EC:3.6.1.1]
+K13288	contigs_clean	80	c_000000000003	None	oligoribonuclease [EC:3.1.-.-]
+K08483	contigs_clean	60	c_000000000003	None	phosphoenolpyruvate-protein phosphotransferase (PTS system enzyme I) [EC:2.7.3.9]
+K02784	contigs_clean	59	c_000000000003	None	phosphocarrier protein HPr
+K22051	contigs_clean	78	c_000000000003	None	miniconductance mechanosensitive channel
+K03324	contigs_clean	55	c_000000000003	None	phosphate:Na+ symporter
+K08311	contigs_clean	71	c_000000000003	None	putative (di)nucleoside polyphosphate hydrolase [EC:3.6.1.-]
+K09768	contigs_clean	72	c_000000000003	None	uncharacterized protein
+K00997	contigs_clean	74	c_000000000003	None	holo-[acyl-carrier protein] synthase [EC:2.7.8.7]
+K09800	contigs_clean	63	c_000000000003	None	translocation and assembly module TamB
+K06173	contigs_clean	73	c_000000000003	None	tRNA pseudouridine38-40 synthase [EC:5.4.99.12]
+K07278	contigs_clean	62	c_000000000003	None	translocation and assembly module TamA
+K03770	contigs_clean	621	c_000000000013	None	peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]
+K02914	contigs_clean	629	c_000000000013	None	large subunit ribosomal protein L34
+K03217	contigs_clean	631	c_000000000013	None	YidC/Oxa1 family membrane protein insertase
+K06186	contigs_clean	628	c_000000000013	None	outer membrane protein assembly factor BamE
+K02444	contigs_clean	639	c_000000000014	None	DeoR family transcriptional regulator, glycerol-3-phosphate regulon repressor
+K00858	contigs_clean	643	c_000000000014	None	NAD+ kinase [EC:2.7.1.23]
+K02621	contigs_clean	645	c_000000000014	None	topoisomerase IV subunit A [EC:5.6.2.2]
+K16322	contigs_clean	633	c_000000000013	None	low-affinity inorganic phosphate transporter
+K03664	contigs_clean	626	c_000000000013	None	SsrA-binding protein
+K03536	contigs_clean	630	c_000000000013	None	ribonuclease P protein component [EC:3.1.26.5]
+K06920	contigs_clean	622	c_000000000013	None	7-cyano-7-deazaguanine synthase [EC:6.3.4.20]
+K03650	contigs_clean	632	c_000000000013	None	tRNA modification GTPase [EC:3.6.-.-]
+K03687	contigs_clean	644	c_000000000014	None	molecular chaperone GrpE
+K11179	contigs_clean	641	c_000000000014	None	tRNA 2-thiouridine synthesizing protein E [EC:2.8.1.-]
+K02313	contigs_clean	646	c_000000000015	None	chromosomal replication initiator protein
+K02064	contigs_clean	623	c_000000000013	None	thiamine transport system substrate-binding protein
+K02338	contigs_clean	647	c_000000000015	None	DNA polymerase III subunit beta [EC:2.7.7.7]
+K18588	contigs_clean	627	c_000000000013	None	coenzyme Q-binding protein COQ10
+K02063	contigs_clean	624	c_000000000013	None	thiamine transport system permease protein
+K00111	contigs_clean	637	c_000000000014	None	glycerol-3-phosphate dehydrogenase [EC:1.1.5.3]
+K01839	contigs_clean	642	c_000000000014	None	phosphopentomutase [EC:5.4.2.7]
+K06180	contigs_clean	394	c_000000000009	None	23S rRNA pseudouridine1911/1915/1917 synthase [EC:5.4.99.23]
+K06958	contigs_clean	379	c_000000000009	None	RNase adapter protein RapZ
+K05539	contigs_clean	388	c_000000000009	None	tRNA-dihydrouridine synthase A [EC:1.-.-.-]
+K02806	contigs_clean	378	c_000000000009	None	nitrogen PTS system EIIA component [EC:2.7.1.-]
+K03701	contigs_clean	387	c_000000000009	None	excinuclease ABC subunit A
+K12974	contigs_clean	390	c_000000000009	None	KDO2-lipid IV(A) palmitoleoyltransferase [EC:2.3.1.242]
+K02346	contigs_clean	395	c_000000000009	None	DNA polymerase IV [EC:2.7.7.7]
+K03111	contigs_clean	386	c_000000000009	None	single-strand DNA-binding protein
+K05834	contigs_clean	385	c_000000000009	None	homoserine/homoserine lactone efflux protein
+K00970	contigs_clean	381	c_000000000009	None	poly(A) polymerase [EC:2.7.7.19]
+K05807	contigs_clean	393	c_000000000009	None	outer membrane protein assembly factor BamD
+K03695	contigs_clean	392	c_000000000009	None	ATP-dependent Clp protease ATP-binding subunit ClpB
+K00760	contigs_clean	380	c_000000000009	None	hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+K15256	contigs_clean	403	c_000000000011	None	tRNA (cmo5U34)-methyltransferase [EC:2.1.1.-]
+K07258	contigs_clean	269	c_000000000006	None	serine-type D-Ala-D-Ala carboxypeptidase (penicillin-binding protein 5/6) [EC:3.4.16.4]
+K01414	contigs_clean	262	c_000000000006	None	oligopeptidase A [EC:3.4.24.70]
+K15984	contigs_clean	263	c_000000000006	None	16S rRNA (guanine1516-N2)-methyltransferase [EC:2.1.1.242]
+K03683	contigs_clean	249	c_000000000005	None	ribonuclease T [EC:3.1.13.-]
+K12573	contigs_clean	260	c_000000000005	None	ribonuclease R [EC:3.1.13.1]
+K11720	contigs_clean	253	c_000000000005	None	lipopolysaccharide export system permease protein
+K06075	contigs_clean	252	c_000000000005	None	MarR family transcriptional regulator, transcriptional regulator for hemolysin
+K05794	contigs_clean	267	c_000000000006	None	tellurite resistance protein TerC
+K07390	contigs_clean	248	c_000000000005	None	monothiol glutaredoxin
+K01873	contigs_clean	257	c_000000000005	None	valyl-tRNA synthetase [EC:6.1.1.9]
+K03218	contigs_clean	261	c_000000000005	None	23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]
+K04761	contigs_clean	247	c_000000000005	None	LysR family transcriptional regulator, hydrogen peroxide-inducible genes activator
+K02339	contigs_clean	256	c_000000000005	None	DNA polymerase III subunit chi [EC:2.7.7.7]
+K07091	contigs_clean	254	c_000000000005	None	lipopolysaccharide export system permease protein
+K06020	contigs_clean	569	c_000000000013	None	energy-dependent translational throttle protein EttA
+K03602	contigs_clean	593	c_000000000013	None	exodeoxyribonuclease VII small subunit [EC:3.1.11.6]
+K03561	contigs_clean	587	c_000000000013	None	biopolymer transport protein ExbB
+K03562	contigs_clean	587	c_000000000013	None	biopolymer transport protein TolQ
+K03559	contigs_clean	588	c_000000000013	None	biopolymer transport protein ExbD
+K14742	contigs_clean	584	c_000000000013	None	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+K02030	contigs_clean	580	c_000000000013	None	polar amino acid transport system substrate-binding protein
+K07400	contigs_clean	590	c_000000000013	None	Fe/S biogenesis protein NfuA
+K09999	contigs_clean	579	c_000000000013	None	arginine transport system permease protein
+K09998	contigs_clean	578	c_000000000013	None	arginine transport system permease protein
+K03646	contigs_clean	589	c_000000000013	None	colicin import membrane protein
+K10000	contigs_clean	581	c_000000000013	None	arginine transport system ATP-binding protein [EC:7.4.2.1]
+K04758	contigs_clean	575	c_000000000013	None	ferrous iron transport protein A
+K04759	contigs_clean	576	c_000000000013	None	ferrous iron transport protein B
+K01147	contigs_clean	568	c_000000000013	None	exoribonuclease II [EC:3.1.13.1]
+K05515	contigs_clean	287	c_000000000006	None	penicillin-binding protein 2 [EC:3.4.16.4]
+K03979	contigs_clean	294	c_000000000007	None	GTPase [EC:3.6.5.-]
+K02864	contigs_clean	278	c_000000000006	None	large subunit ribosomal protein L10
+K02867	contigs_clean	280	c_000000000006	None	large subunit ribosomal protein L11
+K00325	contigs_clean	295	c_000000000007	None	H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+K02863	contigs_clean	279	c_000000000006	None	large subunit ribosomal protein L1
+K00324	contigs_clean	296	c_000000000007	None	H+-translocating NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2 7.1.1.1]
+K03073	contigs_clean	282	c_000000000006	None	preprotein translocase subunit SecE
+K01881	contigs_clean	293	c_000000000007	None	prolyl-tRNA synthetase [EC:6.1.1.15]
+K09158	contigs_clean	270	c_000000000006	None	uncharacterized protein
+K05837	contigs_clean	288	c_000000000006	None	rod shape determining protein RodA
+K03046	contigs_clean	275	c_000000000006	None	DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]
+K02601	contigs_clean	281	c_000000000006	None	transcription termination/antitermination protein NusG
+K03043	contigs_clean	276	c_000000000006	None	DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+K05590	contigs_clean	285	c_000000000006	None	ATP-dependent RNA helicase SrmB [EC:3.6.4.13]
+K03634	contigs_clean	289	c_000000000006	None	outer membrane lipoprotein carrier protein
+K02935	contigs_clean	277	c_000000000006	None	large subunit ribosomal protein L7/L12
+K02523	contigs_clean	98	c_000000000003	None	octaprenyl-diphosphate synthase [EC:2.5.1.90]
+K03749	contigs_clean	81	c_000000000003	None	DedD protein
+K11940	contigs_clean	93	c_000000000003	None	heat shock protein HspQ
+K18889	contigs_clean	94	c_000000000003	None	ATP-binding cassette, subfamily B, multidrug efflux pump
+K10026	contigs_clean	88	c_000000000003	None	7-carboxy-7-deazaguanine synthase [EC:4.3.99.3]
+K03699	contigs_clean	99	c_000000000003	None	magnesium and cobalt exporter, CNNM family
+K10763	contigs_clean	100	c_000000000003	None	DnaA-homolog protein
+K01354	contigs_clean	85	c_000000000003	None	oligopeptidase B [EC:3.4.21.83]
+K03563	contigs_clean	411	c_000000000011	None	carbon storage regulator
+K15738	contigs_clean	430	c_000000000011	None	ABC transport system ATP-binding/permease protein
+K01775	contigs_clean	428	c_000000000011	None	alanine racemase [EC:5.1.1.1]
+K05365	contigs_clean	408	c_000000000011	None	penicillin-binding protein 1B [EC:2.4.1.129 3.4.16.4]
+K01879	contigs_clean	415	c_000000000011	None	glycyl-tRNA synthetase beta chain [EC:6.1.1.14]
+K01878	contigs_clean	416	c_000000000011	None	glycyl-tRNA synthetase alpha chain [EC:6.1.1.14]
+K03640	contigs_clean	424	c_000000000011	None	peptidoglycan-associated lipoprotein
+K03641	contigs_clean	423	c_000000000011	None	TolB protein
+K01872	contigs_clean	412	c_000000000011	None	alanyl-tRNA synthetase [EC:6.1.1.7]
+K03797	contigs_clean	421	c_000000000011	None	carboxyl-terminal processing protease [EC:3.4.21.102]
+K03745	contigs_clean	414	c_000000000011	None	SlyX protein
+K09892	contigs_clean	772	c_000000000018	None	cell division protein ZapB
+K02494	contigs_clean	774	c_000000000019	None	outer membrane lipoprotein LolB
+K06179	contigs_clean	759	c_000000000017	None	23S rRNA pseudouridine955/2504/2580 synthase [EC:5.4.99.24]
+K06178	contigs_clean	775	c_000000000019	None	23S rRNA pseudouridine2605 synthase [EC:5.4.99.22]
+K00864	contigs_clean	771	c_000000000018	None	glycerol kinase [EC:2.7.1.30]
+K03885	contigs_clean	762	c_000000000018	None	NADH:quinone reductase (non-electrogenic) [EC:1.6.5.9]
+K20866	contigs_clean	760	c_000000000017	None	glucose-1-phosphatase [EC:3.1.3.10]
+K11066	contigs_clean	767	c_000000000018	None	N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]
+K11105	contigs_clean	756	c_000000000017	None	potassium/hydrogen antiporter
+K03667	contigs_clean	777	c_000000000019	None	ATP-dependent HslUV protease ATP-binding subunit HslU
+K01447	contigs_clean	767	c_000000000018	None	N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]
+K04066	contigs_clean	780	c_000000000019	None	primosomal protein N' (replication factor Y) (superfamily II helicase) [EC:5.6.2.4]
+K00566	contigs_clean	765	c_000000000018	None	tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]
+K19804	contigs_clean	773	c_000000000018	None	lipopolysaccharide assembly protein B
+K07153	contigs_clean	764	c_000000000018	None	high frequency lysogenization protein
+K08300	contigs_clean	758	c_000000000017	None	ribonuclease E [EC:3.1.26.12]
+K08159	contigs_clean	757	c_000000000017	None	MFS transporter, DHA1 family, L-arabinose/isopropyl-beta-D-thiogalactopyranoside export protein
+K00075	contigs_clean	782	c_000000000019	None	UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]
+K01419	contigs_clean	778	c_000000000019	None	ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]
+K18189	contigs_clean	776	c_000000000019	None	translational activator of cytochrome c oxidase 1
+K02909	contigs_clean	781	c_000000000019	None	large subunit ribosomal protein L31
+K06141	contigs_clean	526	c_000000000011	None	MFS transporter, TsgA protein
+K03070	contigs_clean	515	c_000000000011	None	preprotein translocase subunit SecA [EC:7.4.2.8]
+K04079	contigs_clean	530	c_000000000011	None	molecular chaperone HtpG
+K03703	contigs_clean	527	c_000000000011	None	excinuclease ABC subunit C
+K01139	contigs_clean	519	c_000000000011	None	GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase [EC:2.7.6.5 3.1.7.2]
+K03060	contigs_clean	518	c_000000000011	None	DNA-directed RNA polymerase subunit omega [EC:2.7.7.6]
+K11085	contigs_clean	523	c_000000000011	None	ATP-binding cassette, subfamily B, bacterial MsbA [EC:7.5.2.6]
+K00995	contigs_clean	528	c_000000000011	None	CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]
+K08301	contigs_clean	529	c_000000000011	None	ribonuclease G [EC:3.1.26.-]
+K01142	contigs_clean	525	c_000000000011	None	exodeoxyribonuclease III [EC:3.1.11.2]
+K02520	contigs_clean	867	c_000000000022	None	translation initiation factor IF-3
+K02916	contigs_clean	866	c_000000000022	None	large subunit ribosomal protein L35
+K03177	contigs_clean	844	c_000000000022	None	tRNA pseudouridine55 synthase [EC:5.4.99.25]
+K02519	contigs_clean	846	c_000000000022	None	translation initiation factor IF-2
+K03798	contigs_clean	852	c_000000000022	None	cell division protease FtsH [EC:3.4.24.-]
+K09748	contigs_clean	848	c_000000000022	None	ribosome maturation factor RimP
+K09013	contigs_clean	858	c_000000000022	None	Fe-S cluster assembly ATP-binding protein
+K00962	contigs_clean	842	c_000000000022	None	polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+K01868	contigs_clean	868	c_000000000022	None	threonyl-tRNA synthetase [EC:6.1.1.3]
+K11717	contigs_clean	860	c_000000000022	None	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]
+K09014	contigs_clean	857	c_000000000022	None	Fe-S cluster assembly protein SufB
+K03075	contigs_clean	849	c_000000000022	None	preprotein translocase subunit SecG
+K09015	contigs_clean	859	c_000000000022	None	Fe-S cluster assembly protein SufD
+K05997	contigs_clean	856	c_000000000022	None	Fe-S cluster assembly protein SufA
+K02426	contigs_clean	861	c_000000000022	None	cysteine desulfuration protein SufE
+K00557	contigs_clean	854	c_000000000022	None	tRNA (uracil-5-)-methyltransferase [EC:2.1.1.35]
+K02427	contigs_clean	853	c_000000000022	None	23S rRNA (uridine2552-2'-O)-methyltransferase [EC:2.1.1.166]
+K01890	contigs_clean	863	c_000000000022	None	phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+K02600	contigs_clean	847	c_000000000022	None	transcription termination/antitermination protein NusA
+K01889	contigs_clean	864	c_000000000022	None	phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+K07235	contigs_clean	837	c_000000000022	None	tRNA 2-thiouridine synthesizing protein D [EC:2.8.1.-]
+K05592	contigs_clean	841	c_000000000022	None	ATP-dependent RNA helicase DeaD [EC:3.6.4.13]
+K02834	contigs_clean	845	c_000000000022	None	ribosome-binding factor A
+K02956	contigs_clean	843	c_000000000022	None	small subunit ribosomal protein S15
+K02887	contigs_clean	865	c_000000000022	None	large subunit ribosomal protein L20
+K04764	contigs_clean	862	c_000000000022	None	integration host factor subunit alpha
+K03746	contigs_clean	839	c_000000000022	None	DNA-binding protein H-NS
+K02777	contigs_clean	61	c_000000000003	None	sugar PTS system EIIA component [EC:2.7.1.-]
+K09815	contigs_clean	135	c_000000000004	None	zinc transport system substrate-binding protein
+K01255	contigs_clean	255	c_000000000005	None	leucyl aminopeptidase [EC:3.4.11.1]
+K06889	contigs_clean	351	c_000000000008	None	uncharacterized protein
+K15257	contigs_clean	405	c_000000000011	None	tRNA (mo5U34)-methyltransferase [EC:2.1.1.-]
+K01091	contigs_clean	435	c_000000000011	None	phosphoglycolate phosphatase [EC:3.1.3.18]
+K09690	contigs_clean	438	c_000000000011	None	lipopolysaccharide transport system permease protein
+K06204	contigs_clean	463	c_000000000011	None	RNA polymerase-binding transcription factor
+K15973	contigs_clean	516	c_000000000011	None	MarR family transcriptional regulator, 2-MHQ and catechol-resistance regulon repressor
+K07285	contigs_clean	582	c_000000000013	None	outer membrane lipoprotein
+K00974	contigs_clean	586	c_000000000013	None	tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72 3.1.3.- 3.1.4.-]
+K02439	contigs_clean	596	c_000000000013	None	thiosulfate sulfurtransferase [EC:2.8.1.1]
+K05779	contigs_clean	625	c_000000000013	None	putative thiamine transport system ATP-binding protein
+K03688	contigs_clean	670	c_000000000016	None	ubiquinone biosynthesis protein
+K09921	contigs_clean	679	c_000000000016	None	uncharacterized protein
+K04067	contigs_clean	693	c_000000000016	None	primosomal replication protein N''
+K04065	contigs_clean	721	c_000000000017	None	hyperosmotically inducible periplasmic protein
+K00951	contigs_clean	784	c_000000000019	None	GTP pyrophosphokinase [EC:2.7.6.5]

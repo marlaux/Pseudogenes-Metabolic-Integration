@@ -1,0 +1,737 @@
+KEGG_ko,ko_symbol,ko_name
+K01835,pgm,phosphoglucomutase [EC:5.4.2.2]
+K00088,"IMPDH, guaB",IMP dehydrogenase [EC:1.1.1.205]
+K01951,"guaA, GMPS",GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]
+K04567,"KARS, lysS","lysyl-tRNA synthetase, class II [EC:6.1.1.6]"
+K02836,prfB,peptide chain release factor 2
+K00826,"E2.6.1.42, ilvE",branched-chain amino acid aminotransferase [EC:2.6.1.42]
+K01714,dapA,4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]
+K07287,bamC,outer membrane protein assembly factor BamC
+K03839,"fldA, nifF, isiB",flavodoxin I
+K02314,dnaB,replicative DNA helicase [EC:5.6.2.3]
+K03495,"gidA, mnmG, MTO1",tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+K06205,mioC,MioC protein
+K00873,"PK, pyk",pyruvate kinase [EC:2.7.1.40]
+K07071,K07071,uncharacterized protein
+K04043,"dnaK, HSPA9",molecular chaperone DnaK
+K03686,dnaJ,molecular chaperone DnaJ
+K03313,nhaA,"Na+:H+ antiporter, NhaA family"
+K06879,queF,7-cyano-7-deazaguanine reductase [EC:1.7.1.13]
+K09457,queF,7-cyano-7-deazaguanine reductase [EC:1.7.1.13]
+K00919,ispE,4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148]
+K06041,"kdsD, kpsF",arabinose-5-phosphate isomerase [EC:5.3.1.13]
+K01626,"E2.5.1.54, aroF, aroG, aroH",3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]
+K02897,"RP-L25, rplY",large subunit ribosomal protein L25
+K01874,"MARS, metG",methionyl-tRNA synthetase [EC:6.1.1.10]
+K03599,"sspA, mglA",stringent starvation protein A
+K02996,"RP-S9, MRPS9, rpsI",small subunit ribosomal protein S9
+K02871,"RP-L13, MRPL13, rplM",large subunit ribosomal protein L13
+K02968,"RP-S20, rpsT",small subunit ribosomal protein S20
+K02939,"RP-L9, MRPL9, rplI",large subunit ribosomal protein L9
+K02963,"RP-S18, MRPS18, rpsR",small subunit ribosomal protein S18
+K02686,priB,primosomal replication protein N
+K02990,"RP-S6, MRPS6, rpsF",small subunit ribosomal protein S6
+K01627,kdsA,2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]
+K02493,"hemK, prmC, HEMK",release factor glutamine methyltransferase [EC:2.1.1.297]
+K02835,"prfA, MTRF1, MRF1",peptide chain release factor 1
+K00831,"serC, PSAT1",phosphoserine aminotransferase [EC:2.6.1.52]
+K06194,nlpD,lipoprotein NlpD
+K11991,tadA,tRNA(adenine34) deaminase [EC:3.5.4.33]
+K05589,ftsB,cell division protein FtsB
+K00991,ispD,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]
+K01770,ispF,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12]"
+K01141,"sbcB, exoI",exodeoxyribonuclease I [EC:3.1.11.1]
+K03088,rpoE,"RNA polymerase sigma-70 factor, ECF subfamily"
+K03596,lepA,GTP-binding protein LepA
+K03100,lepB,signal peptidase I [EC:3.4.21.89]
+K03685,"rnc, DROSHA, RNT1",ribonuclease III [EC:3.1.26.3]
+K03595,"era, ERAL1",GTPase
+K03402,"argR, ahrC",transcriptional regulator of arginine metabolism
+K03324,yjbB,phosphate:Na+ symporter
+K00928,lysC,aspartate kinase [EC:2.7.2.4]
+K02518,infA,translation initiation factor IF-1
+K02784,ptsH,phosphocarrier protein HPr
+K08483,ptsI,phosphoenolpyruvate-protein phosphotransferase (PTS system enzyme I) [EC:2.7.3.9]
+K02777,crr,sugar PTS system EIIA component [EC:2.7.1.-]
+K07278,tamA,translocation and assembly module TamA
+K09800,tamB,translocation and assembly module TamB
+K01834,"PGAM, gpmA","2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]"
+K03719,lrp,"Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein"
+K03466,"ftsK, spoIIIE","DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family"
+K01507,ppa,inorganic pyrophosphatase [EC:3.6.1.1]
+K08311,nudH,putative (di)nucleoside polyphosphate hydrolase [EC:3.6.1.-]
+K09768,K09768,uncharacterized protein
+K06173,"truA, PUS1",tRNA pseudouridine38-40 synthase [EC:5.4.99.12]
+K00997,acpS,holo-[acyl-carrier protein] synthase [EC:2.7.8.7]
+K03474,pdxJ,pyridoxine 5-phosphate synthase [EC:2.6.99.2]
+K04568,"epmA, poxA",elongation factor P--(R)-beta-lysine ligase [EC:6.3.1.-]
+K05802,"mscK, kefA, aefA",potassium-dependent mechanosensitive channel
+K22051,"mscM, bspA",miniconductance mechanosensitive channel
+K01613,"psd, PISD",phosphatidylserine decarboxylase [EC:4.1.1.65]
+K13288,"orn, REX2, REXO2",oligoribonuclease [EC:3.1.-.-]
+K03749,dedD,DedD protein
+K11754,folC,dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17]
+K01963,accD,acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2 2.1.3.15]
+K01354,ptrB,oligopeptidase B [EC:3.4.21.83]
+K01937,"pyrG, CTPS",CTP synthase [EC:6.3.4.2]
+K01689,"ENO1_2_3, eno",enolase 1/2/3 [EC:4.2.1.11]
+K10026,queE,7-carboxy-7-deazaguanine synthase [EC:4.3.99.3]
+K01737,"queD, ptpS, PTS",6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50]
+K00948,"PRPS, prsA",ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+K01918,panC,pantoate--beta-alanine ligase [EC:6.3.2.1]
+K00606,panB,3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]
+K11940,hspQ,heat shock protein HspQ
+K06147,ABCB-BAC,"ATP-binding cassette, subfamily B, bacterial"
+K18889,"mdlA, smdA","ATP-binding cassette, subfamily B, multidrug efflux pump"
+K18104,"abcA, bmrA","ATP-binding cassette, subfamily B, bacterial AbcA/BmrA [EC:7.6.2.2]"
+K18890,"mdlB, smdB","ATP-binding cassette, subfamily B, multidrug efflux pump"
+K02523,ispB,octaprenyl-diphosphate synthase [EC:2.5.1.90]
+K10763,hda,DnaA-homolog protein
+K12981,"waaZ, rfaZ",KDO transferase III [EC:2.4.99.-]
+K00537,arsC,arsenate reductase (glutaredoxin) [EC:1.20.4.1]
+K01439,dapE,succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]
+K01494,dcd,dCTP deaminase [EC:3.5.4.13]
+K00833,bioA,adenosylmethionine---8-amino-7-oxononanoate aminotransferase [EC:2.6.1.62]
+K01012,bioB,biotin synthase [EC:2.8.1.6]
+K01935,bioD,dethiobiotin synthetase [EC:6.3.3.3]
+K03657,"uvrD, pcrA",ATP-dependent DNA helicase UvrD/PcrA [EC:5.6.2.4]
+K03284,corA,magnesium transporter
+K02844,"waaG, rfaG","UDP-glucose:(heptosyl)LPS alpha-1,3-glucosyltransferase [EC:2.4.1.-]"
+K02527,"kdtA, waaA",3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15]
+K12984,"waaE, kdtX","(heptosyl)LPS beta-1,4-glucosyltransferase [EC:2.4.1.-]"
+K00954,"E2.7.7.3A, coaD, kdtB",pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]
+K03564,"BCP, PRXQ, DOT5",thioredoxin-dependent peroxiredoxin [EC:1.11.1.24]
+K02902,"RP-L28, MRPL28, rpmB",large subunit ribosomal protein L28
+K02913,"RP-L33, MRPL33, rpmG",large subunit ribosomal protein L33
+K02899,"RP-L27, MRPL27, rpmA",large subunit ribosomal protein L27
+K02888,"RP-L21, MRPL21, rplU",large subunit ribosomal protein L21
+K03704,cspA,cold shock protein
+K01243,"mtnN, mtn, pfs",adenosylhomocysteine nucleosidase [EC:3.2.2.9]
+K03786,"aroQ, qutE",3-dehydroquinate dehydratase II [EC:4.2.1.10]
+K02160,"accB, bccP",acetyl-CoA carboxylase biotin carboxyl carrier protein
+K01961,accC,"acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14]"
+K09893,rraB,regulator of ribonuclease activity B
+K09816,znuB,zinc transport system permease protein
+K09817,znuC,zinc transport system ATP-binding protein [EC:7.2.2.20]
+K09815,znuA,zinc transport system substrate-binding protein
+K19304,mepM,murein DD-endopeptidase [EC:3.4.24.-]
+K02560,"lpxM, msbB",lauroyl-Kdo2-lipid IVA myristoyltransferase [EC:2.3.1.243]
+K04087,hflC,modulator of FtsH protease HflC
+K04088,hflK,modulator of FtsH protease HflK
+K03666,hfq,host factor-I protein
+K00791,"miaA, TRIT1",tRNA dimethylallyltransferase [EC:2.5.1.75]
+K03572,mutL,DNA mismatch repair protein MutL
+K01448,amiABC,N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]
+K06925,tsaE,tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+K11102,"gltP, gltT",proton glutamate symport protein
+K00525,"E1.17.4.1A, nrdA, nrdE",ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]
+K00526,"E1.17.4.1B, nrdB, nrdF",ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1]
+K02469,gyrA,DNA gyrase subunit A [EC:5.6.2.2]
+K06890,K06890,uncharacterized protein
+K01776,murI,glutamate racemase [EC:5.1.1.3]
+K11927,rhlE,ATP-dependent RNA helicase RhlE [EC:5.6.2.7]
+K01495,"GCH1, folE",GTP cyclohydrolase IA [EC:3.5.4.16]
+K03186,"ubiX, bsdB, PAD1",flavin prenyltransferase [EC:2.5.1.129]
+K01695,trpA,tryptophan synthase alpha chain [EC:4.2.1.20]
+K01696,trpB,tryptophan synthase beta chain [EC:4.2.1.20]
+K13498,trpCF,indole-3-glycerol phosphate synthase / phosphoribosylanthranilate isomerase [EC:4.1.1.48 5.3.1.24]
+K00766,trpD,anthranilate phosphoribosyltransferase [EC:2.4.2.18]
+K13497,trpGD,anthranilate synthase/phosphoribosyltransferase [EC:4.1.3.27 2.4.2.18]
+K01658,trpG,anthranilate synthase component II [EC:4.1.3.27]
+K01664,pabA,para-aminobenzoate synthetase component II [EC:2.6.1.85]
+K01657,trpE,anthranilate synthase component I [EC:4.1.3.27]
+K01665,pabB,para-aminobenzoate synthetase component I [EC:2.6.1.85]
+K13950,pabAB,para-aminobenzoate synthetase [EC:2.6.1.85]
+K03671,"TXN, trxA",thioredoxin
+K03628,rho,transcription termination factor Rho
+K02851,"wecA, tagO, rfe",UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K03581,recD,exodeoxyribonuclease V alpha subunit [EC:3.1.11.5]
+K03582,recB,exodeoxyribonuclease V beta subunit [EC:3.1.11.5]
+K03583,recC,exodeoxyribonuclease V gamma subunit [EC:3.1.11.5]
+K07806,"arnB, pmrH",UDP-4-amino-4-deoxy-L-arabinose-oxoglutarate aminotransferase [EC:2.6.1.87]
+K10012,"arnC, pmrF",undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase [EC:2.4.2.53]
+K01784,"galE, GALE",UDP-glucose 4-epimerase [EC:5.1.3.2]
+K10011,"arnA, pmrI",UDP-4-amino-4-deoxy-L-arabinose formyltransferase / UDP-glucuronic acid dehydrogenase (UDP-4-keto-hexauronic acid decarboxylating) [EC:2.1.2.13 1.1.1.305]
+K13014,arnD,undecaprenyl phosphate-alpha-L-ara4FN deformylase [EC:3.5.1.-]
+K07264,"arnT, pmrK",4-amino-4-deoxy-L-arabinose transferase [EC:2.4.2.43]
+K19302,bcrC,undecaprenyl-diphosphatase [EC:3.6.1.27]
+K01465,"URA4, pyrC",dihydroorotase [EC:3.5.2.3]
+K01869,"LARS, leuS",leucyl-tRNA synthetase [EC:6.1.1.4]
+K03643,"lptE, rlpB",LPS-assembly lipoprotein
+K02340,holA,DNA polymerase III subunit delta [EC:2.7.7.7]
+K00969,nadD,nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18]
+K01488,"add, ADA",adenosine deaminase [EC:3.5.4.4]
+K01669,"phr, PHR1",deoxyribodipyrimidine photo-lyase [EC:4.1.99.3]
+K04773,sppA,protease IV [EC:3.4.21.-]
+K02257,"COX10, ctaB, cyoE",heme o synthase [EC:2.5.1.141]
+K02300,cyoD,cytochrome o ubiquinol oxidase subunit IV
+K02299,cyoC,cytochrome o ubiquinol oxidase subunit III
+K02298,cyoB,cytochrome o ubiquinol oxidase subunit I [EC:7.1.1.3]
+K02297,cyoA,cytochrome o ubiquinol oxidase subunit II [EC:7.1.1.3]
+K00793,"ribE, RIB5",riboflavin synthase [EC:2.5.1.9]
+K03624,greA,transcription elongation factor GreA
+K03498,"trkH, trkG, ktrB, ktrD",trk/ktr system potassium uptake protein
+K02622,parE,topoisomerase IV subunit B [EC:5.6.2.2]
+K01586,lysA,diaminopimelate decarboxylase [EC:4.1.1.20]
+K05805,creA,CreA protein
+K15634,gpmB,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]"
+K01735,aroB,3-dehydroquinate synthase [EC:4.2.3.4]
+K00891,"aroK, aroL",shikimate kinase [EC:2.7.1.71]
+K01462,"PDF, def",peptide deformylase [EC:3.5.1.88]
+K00604,"MTFMT, fmt",methionyl-tRNA formyltransferase [EC:2.1.2.9]
+K03500,"rsmB, sun",16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176]
+K03499,"trkA, ktrA, ktrC",trk/ktr system potassium uptake protein
+K00014,aroE,shikimate dehydrogenase [EC:1.1.1.25]
+K03747,smg,Smg protein
+K03980,"murJ, mviN",putative peptidoglycan lipid II flippase
+K03282,mscL,large conductance mechanosensitive channel
+K07566,"tsaC, rimN, SUA5, YRDC",L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]
+K07552,"bcr, tcaB","MFS transporter, DHA1 family, multidrug resistance protein"
+K08154,emrD,"MFS transporter, DHA1 family, 2-module integral membrane pump EmrD"
+K00528,fpr,ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]
+K01803,"TPI, tpiA",triosephosphate isomerase (TIM) [EC:5.3.1.1]
+K04754,"mlaA, vacJ",phospholipid-binding lipoprotein MlaA
+K03784,deoD,purine-nucleoside phosphorylase [EC:2.4.2.1]
+K07186,smp,membrane protein
+K03424,tatD,TatD DNase family protein [EC:3.1.21.-]
+K02341,holB,DNA polymerase III subunit delta' [EC:2.7.7.7]
+K00943,"tmk, DTYMK",dTMP kinase [EC:2.7.4.9]
+K07082,mltG,peptidoglycan lytic transglycosylase G [EC:4.2.2.29]
+K02619,pabC,4-amino-4-deoxychorismate lyase [EC:4.1.3.38]
+K02911,"RP-L32, MRPL32, rpmF",large subunit ribosomal protein L32
+K03621,plsX,phosphate acyltransferase [EC:2.3.1.274]
+K00648,fabH,3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]
+K00645,"fabD, MCAT, MCT1",[acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]
+K00059,"fabG, OAR1",3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]
+K02078,"acpP, acpM",acyl carrier protein
+K04761,oxyR,"LysR family transcriptional regulator, hydrogen peroxide-inducible genes activator"
+K07390,"grxD, GLRX5",monothiol glutaredoxin
+K03683,rnt,ribonuclease T [EC:3.1.13.-]
+K06075,slyA,"MarR family transcriptional regulator, transcriptional regulator for hemolysin"
+K11720,lptG,lipopolysaccharide export system permease protein
+K07091,lptF,lipopolysaccharide export system permease protein
+K01255,"CARP, pepA",leucyl aminopeptidase [EC:3.4.11.1]
+K02339,holC,DNA polymerase III subunit chi [EC:2.7.7.7]
+K01873,"VARS, valS",valyl-tRNA synthetase [EC:6.1.1.9]
+K01939,"purA, ADSS",adenylosuccinate synthase [EC:6.3.4.4]
+K12573,"rnr, vacB",ribonuclease R [EC:3.1.13.1]
+K03218,rlmB,23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]
+K01414,prlC,oligopeptidase A [EC:3.4.24.70]
+K15984,rsmJ,16S rRNA (guanine1516-N2)-methyltransferase [EC:2.1.1.242]
+K03644,"lipA, LIAS, LIP1, LIP5",lipoyl synthase [EC:2.8.1.8]
+K05794,terC,tellurite resistance protein TerC
+K07258,"dacC, dacA, dacD",serine-type D-Ala-D-Ala carboxypeptidase (penicillin-binding protein 5/6) [EC:3.4.16.4]
+K09158,K09158,uncharacterized protein
+K03801,lipB,lipoyl(octanoyl) transferase [EC:2.3.1.181]
+K03271,"gmhA, lpcA",D-sedoheptulose 7-phosphate isomerase [EC:5.3.1.28]
+K12961,diaA,DnaA initiator-associating protein
+K00925,ackA,acetate kinase [EC:2.7.2.1]
+K13788,pta,phosphate acetyltransferase [EC:2.3.1.8]
+K03046,rpoC,DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]
+K03043,rpoB,DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+K02935,"RP-L7, MRPL12, rplL",large subunit ribosomal protein L7/L12
+K02864,"RP-L10, MRPL10, rplJ",large subunit ribosomal protein L10
+K02863,"RP-L1, MRPL1, rplA",large subunit ribosomal protein L1
+K02867,"RP-L11, MRPL11, rplK",large subunit ribosomal protein L11
+K02601,nusG,transcription termination/antitermination protein NusG
+K03073,secE,preprotein translocase subunit SecE
+K02358,"tuf, TUFM",elongation factor Tu
+K00867,coaA,type I pantothenate kinase [EC:2.7.1.33]
+K05590,srmB,ATP-dependent RNA helicase SrmB [EC:5.6.2.7]
+K00783,rlmH,23S rRNA (pseudouridine1915-N3)-methyltransferase [EC:2.1.1.177]
+K05515,mrdA,penicillin-binding protein 2 [EC:3.4.16.4]
+K05837,"rodA, mrdB",peptidoglycan glycosyltransferase [EC:2.4.99.28]
+K03634,lolA,outer membrane lipoprotein carrier protein
+K01881,"PARS, proS",prolyl-tRNA synthetase [EC:6.1.1.15]
+K03979,"obgE, cgtA, MTG2",GTPase [EC:3.6.5.-]
+K00325,pntB,proton-translocating NAD(P)+ transhydrogenase subunit beta [EC:7.1.1.1]
+K00324,pntA,proton-translocating NAD(P)+ transhydrogenase subunit alpha [EC:7.1.1.1]
+K00568,ubiG,2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9 3-methyltransferase [EC:2.1.1.222 2.1.1.64]
+K02793,manXa,mannose PTS system EIIA component [EC:2.7.1.191]
+K02794,manX,mannose PTS system EIIAB component [EC:2.7.1.191]
+K02746,agaW,N-acetylgalactosamine PTS system EIIC component
+K02795,manY,mannose PTS system EIIC component
+K02796,manZ,mannose PTS system EIID component
+K03694,clpA,ATP-dependent Clp protease ATP-binding subunit ClpA
+K01624,"FBA, fbaA","fructose-bisphosphate aldolase, class II [EC:4.1.2.13]"
+K00927,"PGK, pgk",phosphoglycerate kinase [EC:2.7.2.3]
+K03978,engB,GTP-binding protein
+K07122,mlaB,phospholipid transport system transporter-binding protein
+K07323,mlaC,phospholipid transport system substrate-binding protein
+K02067,"mlaD, linM",phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein
+K02066,"mlaE, linK",phospholipid/cholesterol/gamma-HCH transport system permease protein
+K02065,"mlaF, linL, mkl",phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein
+K03555,mutS,DNA mismatch repair protein MutS
+K04077,"groEL, HSPD1, HSP60, CPN60",chaperonin GroEL [EC:5.6.1.7]
+K04078,"groES, HSPE1",chaperonin GroES
+K07113,fxsA,UPF0716 protein FxsA
+K15724,erpA,iron-sulfur cluster insertion protein
+K01633,folB,"7,8-dihydroneopterin aldolase/epimerase/oxygenase [EC:4.1.2.25 5.1.99.8 1.13.11.81]"
+K08591,plsY,acyl phosphate:glycerol-3-phosphate acyltransferase [EC:2.3.1.275]
+K01409,"OSGEP, KAE1, QRI7",N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]
+K02970,"RP-S21, MRPS21, rpsU",small subunit ribosomal protein S21
+K02316,dnaG,DNA primase [EC:2.7.7.101]
+K03086,rpoD,RNA polymerase primary sigma factor
+K11209,"yghU, yfcG",GSH-dependent disulfide-bond oxidoreductase [EC:1.8.4.-]
+K07042,"ybeY, yqfG",probable rRNA maturation factor
+K02221,yggT,YggT family protein
+K06997,"yggS, PROSC",PLP dependent protein
+K03820,lnt,apolipoprotein N-acyltransferase [EC:2.3.1.269]
+K06189,"corC, tlyC",hemolysin (HlyC) family protein
+K00215,dapB,4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]
+K03527,"ispH, lytB",4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]
+K03101,lspA,signal peptidase II [EC:3.4.23.36]
+K01870,"IARS, ileS",isoleucyl-tRNA synthetase [EC:6.1.1.5]
+K11753,ribF,riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2]
+K09908,K09908,uncharacterized protein
+K04771,"degP, htrA",serine protease Do [EC:3.4.21.107]
+K04772,"degQ, hhoA",serine protease DegQ [EC:3.4.21.-]
+K08070,E1.3.1.74,2-alkenal reductase [EC:1.3.1.74]
+K00790,murA,UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]
+K03469,"rnhA, RNASEH1",ribonuclease HI [EC:3.1.26.4]
+K02342,dnaQ,DNA polymerase III subunit epsilon [EC:2.7.7.7]
+K14159,rnhA-dnaQ,ribonuclease HI / DNA polymerase III subunit epsilon [EC:3.1.26.4 2.7.7.7]
+K19000,rof,Rho-binding antiterminator
+K04075,"tilS, mesJ",tRNA(Ile)-lysidine synthase [EC:6.3.4.19]
+K01843,kamA,"lysine 2,3-aminomutase [EC:5.4.3.2]"
+K19810,epmB,"L-lysine 2,3-aminomutase [EC:5.4.3.-]"
+K02356,efp,elongation factor P
+K06889,K06889,uncharacterized protein
+K03110,ftsY,fused signal recognition particle receptor
+K03089,rpoH,RNA polymerase sigma-32 factor
+K01921,ddl,D-alanine-D-alanine ligase [EC:6.3.2.4]
+K05801,djlA,DnaJ like chaperone protein
+K04744,"lptD, imp, ostA",LPS-assembly protein
+K03771,surA,peptidyl-prolyl cis-trans isomerase SurA [EC:5.2.1.8]
+K02528,ksgA,16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]
+K06195,apaG,ApaG protein
+K01525,apaH,bis(5'-nucleosyl)-tetraphosphatase (symmetrical) [EC:3.6.1.41]
+K00287,"DHFR, folA",dihydrofolate reductase [EC:1.5.1.3]
+K18590,"dfrA12, dhfr",dihydrofolate reductase (trimethoprim resistance protein) [EC:1.5.1.3]
+K01955,"carB, CPA2",carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]
+K01956,"carA, CPA1",carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]
+K03439,"trmB, METTL1, TRM8",tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33]
+K08306,mltC,peptidoglycan lytic transglycosylase C [EC:4.2.2.29]
+K03575,mutY,A/G-specific adenine glycosylase [EC:3.2.2.31]
+K00077,"panE, apbA",2-dehydropantoate 2-reductase [EC:1.1.1.169]
+K06861,lptB,lipopolysaccharide export system ATP-binding protein [EC:7.5.2.5]
+K09774,lptA,lipopolysaccharide export system protein LptA
+K11719,lptC,lipopolysaccharide export system protein LptC
+K02806,ptsN,nitrogen PTS system EIIA component [EC:2.7.1.-]
+K06958,rapZ,RNase adapter protein RapZ
+K00760,"hprT, hpt, HPRT1",hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+K00970,pcnB,poly(A) polymerase [EC:2.7.7.19]
+K00950,folK,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:2.7.6.3]
+K03286,TC.OOP,"OmpA-OmpF porin, OOP family"
+K05834,rhtB,homoserine/homoserine lactone efflux protein
+K03111,ssb,single-strand DNA-binding protein
+K03701,uvrA,excinuclease ABC subunit A
+K05539,dusA,tRNA-dihydrouridine synthase A [EC:1.-.-.-]
+K02517,"lpxL, htrB",Kdo2-lipid IVA lauroyltransferase/acyltransferase [EC:2.3.1.241 2.3.1.-]
+K12974,lpxP,KDO2-lipid IV(A) palmitoleoyltransferase [EC:2.3.1.242]
+K03695,clpB,ATP-dependent Clp protease ATP-binding subunit ClpB
+K05807,bamD,outer membrane protein assembly factor BamD
+K06180,rluD,23S rRNA pseudouridine1911/1915/1917 synthase [EC:5.4.99.23]
+K02346,dinB,DNA polymerase IV [EC:2.7.7.7]
+K00674,dapD,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117]"
+K00850,"pfkA, PFK",6-phosphofructokinase 1 [EC:2.7.1.11]
+K15256,cmoA,tRNA (cmo5U34)-methyltransferase [EC:2.1.1.-]
+K15257,cmoB,tRNA (mo5U34)-methyltransferase [EC:2.1.1.-]
+K01916,nadE,NAD+ synthase [EC:6.3.1.5]
+K05365,mrcB,penicillin-binding protein 1B [EC:2.4.99.28 3.4.16.4]
+K01919,gshA,glutamate--cysteine ligase [EC:6.3.2.2]
+K03563,csrA,carbon storage regulator
+K01872,"AARS, alaS",alanyl-tRNA synthetase [EC:6.1.1.7]
+K03745,slyX,SlyX protein
+K01879,glyS,glycyl-tRNA synthetase beta chain [EC:6.1.1.14]
+K01878,glyQ,glycyl-tRNA synthetase alpha chain [EC:6.1.1.14]
+K03184,ubiF,3-demethoxyubiquinol 3-hydroxylase [EC:1.14.99.60]
+K03797,"E3.4.21.102, prc, ctpA",carboxyl-terminal processing protease [EC:3.4.21.102]
+K03641,tolB,TolB protein
+K03640,pal,peptidoglycan-associated lipoprotein
+K01775,alr,alanine racemase [EC:5.1.1.1]
+K00254,"DHODH, pyrD",dihydroorotate dehydrogenase [EC:1.3.5.2]
+K15738,uup,ABC transport system ATP-binding/permease protein
+K02858,"ribB, RIB3","3,4-dihydroxy 2-butanone 4-phosphate synthase [EC:4.1.99.12]"
+K14652,ribBA,"3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25]"
+K09691,"wzt, rfbB",homopolymeric O-antigen transport system ATP-binding protein [EC:7.5.2.14]
+K09690,"wzm, rfbA",homopolymeric O-antigen transport system permease protein
+K03272,"gmhC, hldE, waaE, rfaE",D-beta-D-heptose 7-phosphate kinase / D-beta-D-heptose 1-phosphate adenosyltransferase [EC:2.7.1.167 2.7.7.70]
+K21344,rfaE1,D-glycero-beta-D-manno-heptose-7-phosphate kinase [EC:2.7.1.167]
+K07447,ruvX,putative pre-16S rRNA nuclease [EC:3.1.-.-]
+K00998,pssA,CDP-diacylglycerol---serine O-phosphatidyltransferase [EC:2.7.8.8]
+K01885,"EARS, gltX",glutamyl-tRNA synthetase [EC:6.1.1.17]
+K01876,"DARS2, aspS",aspartyl-tRNA synthetase [EC:6.1.1.12]
+K00979,kdsB,3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]
+K09791,K09791,uncharacterized protein
+K00134,"GAPDH, gapA",glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12]
+K09897,K09897,uncharacterized protein
+K03608,minE,cell division topological specificity factor
+K03609,minD,septum site-determining protein MinD
+K03610,minC,septum site-determining protein MinC
+K01893,"NARS, asnS",asparaginyl-tRNA synthetase [EC:6.1.1.22]
+K06204,dksA,RNA polymerase-binding transcription factor
+K01491,folD,methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]
+K01883,"CARS, cysS",cysteinyl-tRNA synthetase [EC:6.1.1.16]
+K02946,"RP-S10, MRPS10, rpsJ",small subunit ribosomal protein S10
+K02906,"RP-L3, MRPL3, rplC",large subunit ribosomal protein L3
+K02926,"RP-L4, MRPL4, rplD",large subunit ribosomal protein L4
+K02892,"RP-L23, MRPL23, rplW",large subunit ribosomal protein L23
+K02886,"RP-L2, MRPL2, RML2, rplB",large subunit ribosomal protein L2
+K02965,"RP-S19, RSM19, rpsS",small subunit ribosomal protein S19
+K02890,"RP-L22, MRPL22, rplV",large subunit ribosomal protein L22
+K02982,"RP-S3, rpsC",small subunit ribosomal protein S3
+K02878,"RP-L16, MRPL16, rplP",large subunit ribosomal protein L16
+K02904,"RP-L29, rpmC",large subunit ribosomal protein L29
+K02961,"RP-S17, MRPS17, rpsQ",small subunit ribosomal protein S17
+K02874,"RP-L14, MRPL14, rplN",large subunit ribosomal protein L14
+K02895,"RP-L24, MRPL24, rplX",large subunit ribosomal protein L24
+K02931,"RP-L5, MRPL5, rplE",large subunit ribosomal protein L5
+K02954,"RP-S14, MRPS14, rpsN",small subunit ribosomal protein S14
+K02994,"RP-S8, MRPS8, rpsH",small subunit ribosomal protein S8
+K02933,"RP-L6, MRPL6, rplF",large subunit ribosomal protein L6
+K02881,"RP-L18, MRPL18, rplR",large subunit ribosomal protein L18
+K02988,"RP-S5, MRPS5, rpsE",small subunit ribosomal protein S5
+K02907,"RP-L30, MRPL30, rpmD",large subunit ribosomal protein L30
+K02876,"RP-L15, MRPL15, rplO",large subunit ribosomal protein L15
+K03076,secY,preprotein translocase subunit SecY
+K02919,"RP-L36, MRPL36, rpmJ",large subunit ribosomal protein L36
+K02952,"RP-S13, rpsM",small subunit ribosomal protein S13
+K02948,"RP-S11, MRPS11, rpsK",small subunit ribosomal protein S11
+K02986,"RP-S4, NAM9, rpsD",small subunit ribosomal protein S4
+K03040,rpoA,DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]
+K02879,"RP-L17, MRPL17, rplQ",large subunit ribosomal protein L17
+K07146,K07146,UPF0176 protein
+K06190,ispZ,intracellular septation protein
+K03438,"mraW, rsmH",16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]
+K03586,ftsL,cell division protein FtsL
+K03587,ftsI,cell division protein FtsI (penicillin-binding protein 3) [EC:3.4.16.4]
+K01928,murE,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]"
+K01929,murF,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10]
+K01000,mraY,phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]
+K01925,murD,UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]
+K03588,"ftsW, spoVE, rodA",peptidoglycan glycosyltransferase [EC:2.4.99.28]
+K02563,murG,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]
+K01924,murC,UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8]
+K03589,ftsQ,cell division protein FtsQ
+K03590,ftsA,cell division protein FtsA
+K03531,ftsZ,cell division protein FtsZ
+K02535,lpxC,UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3.5.1.108]
+K03070,secA,preprotein translocase subunit SecA [EC:7.4.2.8]
+K00942,"gmk, GUK1",guanylate kinase [EC:2.7.4.8]
+K03060,rpoZ,DNA-directed RNA polymerase subunit omega [EC:2.7.7.6]
+K00951,relA,GTP pyrophosphokinase [EC:2.7.6.5]
+K01139,spoT,"GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase [EC:2.7.6.5 3.1.7.2]"
+K00647,fabB,3-oxoacyl-[acyl-carrier-protein] synthase I [EC:2.3.1.41]
+K03269,lpxH,"UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]"
+K00912,lpxK,tetraacyldisaccharide 4'-kinase [EC:2.7.1.130]
+K11085,msbA,"ATP-binding cassette, subfamily B, bacterial MsbA [EC:7.5.2.6]"
+K01142,"xthA, xth",exodeoxyribonuclease III [EC:3.1.11.2]
+K06141,tsgA,"MFS transporter, TsgA protein"
+K03703,uvrC,excinuclease ABC subunit C
+K00995,"PGS1, pgsA",CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]
+K08744,CRLS,cardiolipin synthase (CMP-forming) [EC:2.7.8.41]
+K08301,"rng, cafA",ribonuclease G [EC:3.1.26.-]
+K04079,"HSP90A, htpG",molecular chaperone HtpG
+K00939,"adk, AK",adenylate kinase [EC:2.7.4.3]
+K01902,sucD,succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]
+K01903,sucC,succinyl-CoA synthetase beta subunit [EC:6.2.1.5]
+K00658,"DLST, sucB",2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]
+K00164,"OGDH, sucA",2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]
+K00239,"sdhA, frdA",succinate dehydrogenase flavoprotein subunit [EC:1.3.5.1]
+K03569,mreB,rod shape-determining protein MreB and related proteins
+K03570,mreC,rod shape-determining protein MreC
+K03571,mreD,rod shape-determining protein MreD
+K01591,pyrF,orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]
+K00631,plsB,glycerol-3-phosphate O-acyltransferase [EC:2.3.1.15]
+K03179,ubiA,4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39]
+K03322,mntH,manganese transport protein
+K01095,pgpA,phosphatidylglycerophosphatase A [EC:3.1.3.27]
+K00946,thiL,thiamine-monophosphate kinase [EC:2.7.4.16]
+K03625,nusB,transcription antitermination protein NusB
+K00794,"ribH, RIB4","6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]"
+K01498,ribD1,diaminohydroxyphosphoribosylaminopyrimidine deaminase [EC:3.5.4.26]
+K11752,ribD,diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]
+K07738,nrdR,transcriptional repressor NrdR
+K03074,secF,preprotein translocase subunit SecF
+K03072,secD,preprotein translocase subunit SecD
+K03210,yajC,preprotein translocase subunit YajC
+K00773,tgt,queuine tRNA-ribosyltransferase [EC:2.4.2.29]
+K07568,queA,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [EC:2.4.99.17]
+K08679,"GAE, cap1J",UDP-glucuronate 4-epimerase [EC:5.1.3.6]
+K17947,wbiB,dTDP-L-rhamnose 4-epimerase [EC:5.1.3.25]
+K00012,"UGDH, ugd",UDPglucose 6-dehydrogenase [EC:1.1.1.22]
+K00963,"UGP2, galU, galF",UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]
+K01147,rnb,exoribonuclease II [EC:3.1.13.1]
+K06020,ettA,energy-dependent translational throttle protein EttA
+K01497,"ribA, RIB1",GTP cyclohydrolase II [EC:3.5.4.25]
+K04758,feoA,ferrous iron transport protein A
+K04759,feoB,ferrous iron transport protein B
+K00655,plsC,1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]
+K09998,artM,arginine transport system permease protein
+K09999,artQ,arginine transport system permease protein
+K09996,artJ,arginine transport system substrate-binding protein
+K09997,artI,arginine transport system substrate-binding protein
+K10014,hisJ,histidine transport system substrate-binding protein
+K10000,artP,arginine transport system ATP-binding protein [EC:7.4.2.1]
+K07285,slp,outer membrane lipoprotein
+K14742,tsaB,tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+K00974,cca,tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72 3.1.3.- 3.1.4.-]
+K03562,tolQ,biopolymer transport protein TolQ
+K03560,tolR,biopolymer transport protein TolR
+K03646,tolA,colicin import membrane protein
+K07400,nfuA,Fe/S biogenesis protein NfuA
+K01662,dxs,1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]
+K00795,ispA,farnesyl diphosphate synthase [EC:2.5.1.1 2.5.1.10]
+K13789,GGPS,"geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29]"
+K03602,xseB,exodeoxyribonuclease VII small subunit [EC:3.1.11.6]
+K03648,"UNG, UDG",uracil-DNA glycosylase [EC:3.2.2.27]
+K09802,K09802,uncharacterized protein
+K01011,"TST, MPST, sseA",thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]
+K03071,secB,preprotein translocase subunit SecB
+K09475,ompC,outer membrane pore protein C
+K09476,ompF,outer membrane pore protein F
+K14062,ompN,outer membrane protein N
+K03528,zipA,cell division protein ZipA
+K01972,"E6.5.1.2, ligA, ligB",DNA ligase (NAD+) [EC:6.5.1.2]
+K04085,"tusA, sirA",tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]
+K18691,mltF,peptidoglycan lytic transglycosylase F [EC:4.2.2.29]
+K03702,uvrB,excinuclease ABC subunit B
+K00616,"TALDO1, talB, talA",transaldolase [EC:2.2.1.2]
+K00615,"E2.2.1.1, tktA, tktB",transketolase [EC:2.2.1.1]
+K18800,ubiI,2-polyprenylphenol 6-hydroxylase [EC:1.14.13.240]
+K03185,ubiH,2-octaprenyl-6-methoxyphenol hydroxylase [EC:1.14.13.-]
+K01262,pepP,Xaa-Pro aminopeptidase [EC:3.4.11.9]
+K09888,zapA,cell division protein ZapA
+K05527,bolA,"BolA family transcriptional regulator, general stress-responsive regulator"
+K03545,tig,trigger factor
+K01358,"clpP, CLPP","ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]"
+K03544,"clpX, CLPX",ATP-dependent Clp protease ATP-binding subunit ClpX
+K01338,lon,ATP-dependent Lon protease [EC:3.4.21.53]
+K03530,hupB,DNA-binding protein HU-beta
+K03770,ppiD,peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]
+K06920,queC,7-cyano-7-deazaguanine synthase [EC:6.3.4.20]
+K02064,"thiB, tbpA",thiamine transport system substrate-binding protein
+K02063,thiP,thiamine transport system permease protein
+K02062,thiQ,thiamine transport system ATP-binding protein [EC:7.6.2.15]
+K03664,smpB,SsrA-binding protein
+K06186,"bamE, smpA",outer membrane protein assembly factor BamE
+K02914,"RP-L34, MRPL34, rpmH",large subunit ribosomal protein L34
+K03536,rnpA,ribonuclease P protein component [EC:3.1.26.5]
+K03217,"yidC, spoIIIJ, OXA1, ccfA",YidC/Oxa1 family membrane protein insertase
+K03650,"mnmE, trmE, MSS1",tRNA modification GTPase [EC:3.6.-.-]
+K03306,TC.PIT,"inorganic phosphate transporter, PiT family"
+K16322,pit,low-affinity inorganic phosphate transporter
+K00208,fabI,enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]
+K00111,"glpA, glpD",glycerol-3-phosphate dehydrogenase [EC:1.1.5.3]
+K02441,glpG,rhomboid protease GlpG [EC:3.4.21.105]
+K02444,glpR,"DeoR family transcriptional regulator, glycerol-3-phosphate regulon repressor"
+K03721,tyrR,"transcriptional regulator of aroF, aroG, tyrA and aromatic amino acid transport"
+K11179,"tusE, dsrC",tRNA 2-thiouridine synthesizing protein E [EC:2.8.1.-]
+K01839,deoB,phosphopentomutase [EC:5.4.2.7]
+K00858,"ppnK, NADK",NAD+ kinase [EC:2.7.1.23]
+K03687,GRPE,molecular chaperone GrpE
+K02621,parC,topoisomerase IV subunit A [EC:5.6.2.2]
+K02313,dnaA,chromosomal replication initiator protein
+K02338,dnaN,DNA polymerase III subunit beta [EC:2.7.7.7]
+K03629,recF,DNA replication and repair protein RecF
+K02470,gyrB,DNA gyrase subunit B [EC:5.6.2.2]
+K00789,"metK, MAT",S-adenosylmethionine synthetase [EC:2.5.1.6]
+K04770,lonH,Lon-like ATP-dependent protease [EC:3.4.21.-]
+K01716,fabA,3-hydroxyacyl-[acyl-carrier protein] dehydratase / trans-2-decenoyl-[acyl-carrier protein] isomerase [EC:4.2.1.59 5.3.3.14]
+K01875,"SARS, serS",seryl-tRNA synthetase [EC:6.1.1.11]
+K00364,"guaC, GMPR",GMP reductase [EC:1.7.1.7]
+K00384,"trxB, TRR",thioredoxin reductase (NADPH) [EC:1.8.1.9]
+K02503,"HINT1_2, hinT, hit",histidine triad (HIT) family protein [EC:3.9.1.-]
+K07337,K07337,penicillin-binding protein activator
+K07251,thiK,thiamine kinase [EC:2.7.1.89]
+K09862,K09862,uncharacterized protein
+K00859,coaE,dephospho-CoA kinase [EC:2.7.1.24]
+K00762,pyrE,orotate phosphoribosyltransferase [EC:2.4.2.10]
+K00133,asd,aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]
+K00523,"ascD, ddhD, rfbI","CDP-4-dehydro-6-deoxyglucose reductase, E3 [EC:1.17.1.1]"
+K05368,"fre, ubiB",NAD(P)H-flavin reductase [EC:1.5.1.41]
+K20256,luxG,flavin reductase [EC:1.-.-.-]
+K03182,ubiD,4-hydroxy-3-polyprenylbenzoate decarboxylase [EC:4.1.1.98]
+K03688,"ubiB, aarF",ubiquinone biosynthesis protein
+K03183,ubiE,"demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]"
+K09760,rmuC,DNA recombination protein RmuC
+K13038,"coaBC, dfp",phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase [EC:4.1.1.36 6.3.2.5]
+K01520,"dut, DUT",dUTP diphosphatase [EC:3.6.1.23]
+K01807,rpiA,ribose 5-phosphate isomerase A [EC:5.3.1.6]
+K09921,K09921,uncharacterized protein
+K01778,dapF,diaminopimelate epimerase [EC:5.1.1.7]
+K05851,cyaA,"adenylate cyclase, class 1 [EC:4.6.1.1]"
+K01749,"hemC, HMBS",hydroxymethylbilane synthase [EC:2.5.1.61]
+K02496,hemX,uroporphyrin-III C-methyltransferase [EC:2.1.1.107]
+K13543,hemDX,uroporphyrinogen III methyltransferase / synthase [EC:2.1.1.107 4.2.1.75]
+K02498,hemY,HemY protein
+K09747,ebfC,nucleoid-associated protein EbfC
+K02343,dnaX,DNA polymerase III subunit gamma/tau [EC:2.7.7.7]
+K00759,"APRT, apt",adenine phosphoribosyltransferase [EC:2.4.2.7]
+K04067,priC,primosomal replication protein N''
+K03168,topA,DNA topoisomerase I [EC:5.6.2.1]
+K06980,ygfZ,tRNA-modifying protein YgfZ
+K01736,aroC,chorismate synthase [EC:4.2.3.5]
+K02108,"ATPF0A, atpB",F-type H+-transporting ATPase subunit a
+K02110,"ATPF0C, atpE",F-type H+-transporting ATPase subunit c
+K02109,"ATPF0B, atpF",F-type H+-transporting ATPase subunit b
+K02113,"ATPF1D, atpH",F-type H+-transporting ATPase subunit delta
+K02111,"ATPF1A, atpA",F-type H+/Na+-transporting ATPase subunit alpha [EC:7.1.2.2 7.2.2.1]
+K02115,"ATPF1G, atpG",F-type H+-transporting ATPase subunit gamma
+K02112,"ATPF1B, atpD",F-type H+/Na+-transporting ATPase subunit beta [EC:7.1.2.2 7.2.2.1]
+K02114,"ATPF1E, atpC",F-type H+-transporting ATPase subunit epsilon
+K04042,glmU,bifunctional UDP-N-acetylglucosamine pyrophosphorylase / glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]
+K00820,"glmS, GFPT",glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16]
+K06131,clsA_B,cardiolipin synthase A/B [EC:2.7.8.-]
+K06207,"typA, bipA",GTP-binding protein
+K03274,"gmhD, rfaD",ADP-L-glycero-D-manno-heptose 6-epimerase [EC:5.1.3.20]
+K02843,"waaF, rfaF",lipopolysaccharide heptosyltransferase II [EC:2.4.99.24]
+K02841,"waaC, rfaC",lipopolysaccharide heptosyltransferase I [EC:2.4.99.23]
+K01866,"YARS, tyrS",tyrosyl-tRNA synthetase [EC:6.1.1.1]
+K00868,"pdxK, pdxY",pyridoxine kinase [EC:2.7.1.35]
+K01265,map,methionyl aminopeptidase [EC:3.4.11.18]
+K02967,"RP-S2, MRPS2, rpsB",small subunit ribosomal protein S2
+K02357,"tsf, TSFM",elongation factor Ts
+K09903,pyrH,uridylate kinase [EC:2.7.4.22]
+K02838,"frr, MRRF, RRF",ribosome recycling factor
+K00099,dxr,1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267]
+K00806,uppS,undecaprenyl diphosphate synthase [EC:2.5.1.31]
+K00981,"E2.7.7.41, CDS1, CDS2, cdsA",phosphatidate cytidylyltransferase [EC:2.7.7.41]
+K11749,rseP,regulator of sigma E protease [EC:3.4.24.-]
+K07277,"SAM50, TOB55, bamA",outer membrane protein insertion porin family
+K06142,"hlpA, ompH",outer membrane protein
+K02536,lpxD,UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]
+K02372,fabZ,3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]
+K00677,lpxA,UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]
+K00748,lpxB,lipid-A-disaccharide synthase [EC:2.4.1.182]
+K02337,dnaE,DNA polymerase III subunit alpha [EC:2.7.7.7]
+K01962,accA,acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15]
+K01920,gshB,glutathione synthase [EC:6.3.2.3]
+K07038,K07038,inner membrane protein
+K13292,"lgt, umpA",phosphatidylglycerol---prolipoprotein diacylglyceryl transferase [EC:2.5.1.145]
+K00560,"thyA, TYMS",thymidylate synthase [EC:2.1.1.45]
+K10773,"NTHL1, nth",endonuclease III [EC:3.2.2.- 4.2.99.18]
+K06223,dam,DNA adenine methylase [EC:2.1.1.72]
+K01783,"rpe, RPE",ribulose-phosphate 3-epimerase [EC:5.1.3.1]
+K01867,"WARS, trpS",tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+K03673,dsbA,protein dithiol oxidoreductase (disulfide-forming) [EC:1.8.4.15]
+K11105,"cvrA, nhaP2",potassium/hydrogen antiporter
+K03445,nepI,"MFS transporter, DHA1 family, purine ribonucleoside efflux pump"
+K08159,sotB,"MFS transporter, DHA1 family, L-arabinose/isopropyl-beta-D-thiogalactopyranoside export protein"
+K08300,rne,ribonuclease E [EC:3.1.26.12]
+K06179,rluC,23S rRNA pseudouridine955/2504/2580 synthase [EC:5.4.99.24]
+K07025,K07025,putative hydrolase of the HAD superfamily
+K20866,yihX,glucose-1-phosphatase [EC:3.1.3.10]
+K03885,ndh,NADH:quinone reductase (non-electrogenic) [EC:1.6.5.9]
+K01756,"purB, ADSL",adenylosuccinate lyase [EC:4.3.2.2]
+K07153,hflD,high frequency lysogenization protein
+K00566,"mnmA, trmU",tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]
+K01447,xlyAB,N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]
+K11066,amiD,N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]
+K00382,"DLD, lpd, pdhD",dihydrolipoyl dehydrogenase [EC:1.8.1.4]
+K00627,"DLAT, aceF, pdhC",pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase) [EC:2.3.1.12]
+K00163,aceE,pyruvate dehydrogenase E1 component [EC:1.2.4.1]
+K00864,"glpK, GK",glycerol kinase [EC:2.7.1.30]
+K09892,zapB,cell division protein ZapB
+K19804,lapB,lipopolysaccharide assembly protein B
+K02494,lolB,outer membrane lipoprotein LolB
+K06178,rluB,23S rRNA pseudouridine2605 synthase [EC:5.4.99.22]
+K03667,hslU,ATP-dependent HslUV protease ATP-binding subunit HslU
+K01419,"hslV, clpQ","ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]"
+K03591,ftsN,cell division protein FtsN
+K04066,priA,primosomal protein N' (replication factor Y) (superfamily II helicase) [EC:5.6.2.4]
+K02909,"RP-L31, rpmE",large subunit ribosomal protein L31
+K00075,murB,UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]
+K03524,birA,"BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]"
+K02217,"ftnA, ftn",ferritin [EC:1.16.3.2]
+K00763,"pncB, NAPRT1",nicotinate phosphoribosyltransferase [EC:6.3.4.21]
+K03386,"PRDX2_4, ahpC",peroxiredoxin 2/4 [EC:1.11.1.24]
+K06942,ychF,ribosome-binding ATPase
+K09808,lolC_E_F,lipoprotein-releasing system permease protein
+K09810,lolD,lipoprotein-releasing system ATP-binding protein [EC:7.6.2.-]
+K03573,mutH,DNA mismatch repair protein MutH
+K05788,"ihfB, himD",integration host factor subunit beta
+K02945,"RP-S1, rpsA",small subunit ribosomal protein S1
+K00945,cmk,CMP/dCMP kinase [EC:2.7.4.25]
+K00800,aroA,3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]
+K02884,"RP-L19, MRPL19, rplS",large subunit ribosomal protein L19
+K00554,trmD,tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]
+K02860,rimM,16S rRNA processing protein RimM
+K02959,"RP-S16, MRPS16, rpsP",small subunit ribosomal protein S16
+K03106,"SRP54, ffh",signal recognition particle subunit SRP54 [EC:3.6.5.4]
+K01887,"RARS, argS",arginyl-tRNA synthetase [EC:6.1.1.19]
+K02335,polA,DNA polymerase I [EC:2.7.7.7]
+K02837,prfC,peptide chain release factor 3
+K02344,holD,DNA polymerase III subunit psi [EC:2.7.7.7]
+K00600,"glyA, SHMT",glycine hydroxymethyltransferase [EC:2.1.2.1]
+K03977,"engA, der",GTPase
+K17713,bamB,outer membrane protein assembly factor BamB
+K01892,"HARS, hisS",histidyl-tRNA synthetase [EC:6.1.1.21]
+K03526,"gcpE, ispG",(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]
+K15539,rodZ,cytoskeleton protein RodZ
+K06941,rlmN,23S rRNA (adenine2503-C2)-methyltransferase [EC:2.1.1.192]
+K00940,"ndk, NME",nucleoside-diphosphate kinase [EC:2.7.4.6]
+K07751,pepB,PepB aminopeptidase [EC:3.4.11.23]
+K04487,"iscS, NFS1",cysteine desulfurase [EC:2.8.1.7]
+K01092,"E3.1.3.25, IMPA, suhB",myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]
+K03723,mfd,transcription-repair coupling factor (superfamily II helicase) [EC:5.6.2.4]
+K07660,phoP,"two-component system, OmpR family, response regulator PhoP"
+K04564,SOD2,"superoxide dismutase, Fe-Mn family [EC:1.15.1.1]"
+K00657,"speG, SAT",diamine N-acetyltransferase [EC:2.3.1.57]
+K03297,"emrE, qac, mmr, smr",small multidrug resistance pump
+K02355,"fusA, GFM, EFG",elongation factor G
+K02992,"RP-S7, MRPS7, rpsG",small subunit ribosomal protein S7
+K02950,"RP-S12, MRPS12, rpsL",small subunit ribosomal protein S12
+K07237,"tusB, dsrH",tRNA 2-thiouridine synthesizing protein B
+K07236,"tusC, dsrF",tRNA 2-thiouridine synthesizing protein C
+K07235,"tusD, dsrE",tRNA 2-thiouridine synthesizing protein D [EC:2.8.1.-]
+K03746,hns,DNA-binding protein H-NS
+K01810,"GPI, pgi",glucose-6-phosphate isomerase [EC:5.3.1.9]
+K05592,"deaD, cshA",ATP-dependent RNA helicase DeaD [EC:5.6.2.7]
+K00962,"pnp, PNPT1",polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+K02956,"RP-S15, MRPS15, rpsO",small subunit ribosomal protein S15
+K03177,"truB, PUS4, TRUB1",tRNA pseudouridine55 synthase [EC:5.4.99.25]
+K02834,rbfA,ribosome-binding factor A
+K02519,"infB, MTIF2",translation initiation factor IF-2
+K02600,nusA,transcription termination/antitermination protein NusA
+K09748,rimP,ribosome maturation factor RimP
+K03075,secG,preprotein translocase subunit SecG
+K03431,glmM,phosphoglucosamine mutase [EC:5.4.2.10]
+K00796,folP,dihydropteroate synthase [EC:2.5.1.15]
+K03798,"ftsH, hflB",cell division protease FtsH [EC:3.4.24.-]
+K02427,"rlmE, rrmJ, ftsJ",23S rRNA (uridine2552-2'-O)-methyltransferase [EC:2.1.1.166]
+K00557,trmA,tRNA (uracil-5-)-methyltransferase [EC:2.1.1.35]
+K05997,sufA,Fe-S cluster assembly protein SufA
+K13628,iscA,iron-sulfur cluster assembly protein
+K09014,sufB,Fe-S cluster assembly protein SufB
+K09013,sufC,Fe-S cluster assembly ATP-binding protein
+K09015,sufD,Fe-S cluster assembly protein SufD
+K01766,csdA,cysteine sulfinate desulfinase [EC:4.4.1.-]
+K11717,sufS,cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]
+K02426,sufE,cysteine desulfuration protein SufE
+K04764,"ihfA, himA",integration host factor subunit alpha
+K01890,"FARSB, pheT",phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+K01889,"FARSA, pheS",phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+K02887,"RP-L20, MRPL20, rplT",large subunit ribosomal protein L20
+K02916,"RP-L35, MRPL35, rpmI",large subunit ribosomal protein L35
+K02520,"infC, MTIF3",translation initiation factor IF-3
+K01868,"TARS, thrS",threonyl-tRNA synthetase [EC:6.1.1.3]
+K07637,phoQ,"two-component system, OmpR family, sensor histidine kinase PhoQ [EC:2.7.13.3]"
+K11734,aroP,aromatic amino acid transport protein AroP
+K03607,proQ,ProP effector
+K03690,ubiJ,ubiquinone biosynthesis accessory factor UbiJ
+K02492,hemA,glutamyl-tRNA reductase [EC:1.2.1.70]
+K07486,K07486,transposase
+K11107,yfaE,ferredoxin
+K04753,sufI,suppressor of ftsI
+K01845,hemL,"glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]"
+K03612,rnfG,H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit G
+K09812,ftsE,cell division transport system ATP-binding protein
+K03837,sdaC,serine transporter
+K01934,MTHFS,5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]
+K09801,K09801,uncharacterized protein
+K08998,K08998,uncharacterized protein
+K09937,K09937,uncharacterized protein
+K02849,"waaQ, rfaQ",lipopolysaccharide heptosyltransferase III [EC:2.4.99.25]
+K01772,"hemH, FECH",protoporphyrin/coproporphyrin ferrochelatase [EC:4.98.1.1 4.99.1.9]

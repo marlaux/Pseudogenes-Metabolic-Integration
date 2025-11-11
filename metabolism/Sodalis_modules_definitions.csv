@@ -1,0 +1,95 @@
+module,module_name,module_class,module_pathway
+M00549,"UDP-Glc biosynthesis, Glc => UDP-Glc",Pathway modules; Glycan metabolism; Nucleotide sugar biosynthesis,map00520  Amino sugar and nucleotide sugar metabolism
+M00050,"Guanine ribonucleotide biosynthesis, IMP => GDP,GTP",Pathway modules; Nucleotide metabolism; Purine metabolism,map00230  Purine metabolism
+M00019,"Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine",Pathway modules; Amino acid metabolism; Branched-chain amino acid metabolism,"map00290  Valine, leucine and isoleucine biosynthesis"
+M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA",Pathway modules; Amino acid metabolism; Branched-chain amino acid metabolism,"map00280  Valine, leucine and isoleucine degradation"
+M00119,"Pantothenate biosynthesis, valine/L-aspartate => pantothenate",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00770  Pantothenate and CoA biosynthesis
+M00570,"Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine",Pathway modules; Amino acid metabolism; Branched-chain amino acid metabolism,"map00290  Valine, leucine and isoleucine biosynthesis"
+M00016,"Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine",Pathway modules; Amino acid metabolism; Lysine metabolism,map00300  Lysine biosynthesis
+M00525,"Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine",Pathway modules; Amino acid metabolism; Lysine metabolism,map00300  Lysine biosynthesis
+M00526,"Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine",Pathway modules; Amino acid metabolism; Lysine metabolism,map00300  Lysine biosynthesis
+M00527,"Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine",Pathway modules; Amino acid metabolism; Lysine metabolism,map00300  Lysine biosynthesis
+M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate",Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism,map00010  Glycolysis / Gluconeogenesis
+M00002,"Glycolysis, core module involving three-carbon compounds",Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism,map00010  Glycolysis / Gluconeogenesis
+M00049,"Adenine ribonucleotide biosynthesis, IMP => ADP,ATP",Pathway modules; Nucleotide metabolism; Purine metabolism,map00230  Purine metabolism
+M00096,"C5 isoprenoid biosynthesis, non-mevalonate pathway",Pathway modules; Biosynthesis of terpenoids and polyketides; Terpenoid backbone biosynthesis,map00900  Terpenoid backbone biosynthesis
+M00063,"CMP-KDO biosynthesis, ribulose-5P => CMP-KDO",Pathway modules; Glycan metabolism; Nucleotide sugar biosynthesis,map00541  Biosynthesis of various nucleotide sugars
+M00022,"Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate",Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism,"map00400  Phenylalanine, tyrosine and tryptophan biosynthesis"
+M00020,"Serine biosynthesis, glycerate-3P => serine",Pathway modules; Amino acid metabolism; Serine and threonine metabolism,"map00260  Glycine, serine and threonine metabolism"
+M00124,"Pyridoxal-P biosynthesis, erythrose-4P => pyridoxal-P",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00750  Vitamin B6 metabolism
+M00017,"Methionine biosynthesis, aspartate => homoserine => methionine",Pathway modules; Amino acid metabolism; Cysteine and methionine metabolism,map00270  Cysteine and methionine metabolism
+M00018,"Threonine biosynthesis, aspartate => homoserine => threonine",Pathway modules; Amino acid metabolism; Serine and threonine metabolism,"map00260  Glycine, serine and threonine metabolism"
+M00033,"Ectoine biosynthesis, aspartate => ectoine",Pathway modules; Amino acid metabolism; Serine and threonine metabolism,"map00260  Glycine, serine and threonine metabolism"
+M00003,"Gluconeogenesis, oxaloacetate => fructose-6P",Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism,map00010  Glycolysis / Gluconeogenesis
+M00093,"Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE",Pathway modules; Lipid metabolism; Lipid metabolism,map00564  Glycerophospholipid metabolism
+M00126,"Tetrahydrofolate biosynthesis, GTP => THF",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00790  Folate biosynthesis
+M00841,"Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00790  Folate biosynthesis
+M00082,"Fatty acid biosynthesis, initiation",Pathway modules; Lipid metabolism; Fatty acid metabolism,map00061  Fatty acid biosynthesis
+M00376,3-Hydroxypropionate bi-cycle,Pathway modules; Energy metabolism; Carbon fixation,map00720  Other carbon fixation pathways
+M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP",Pathway modules; Nucleotide metabolism; Pyrimidine metabolism,map00240  Pyrimidine metabolism
+M00346,"Formaldehyde assimilation, serine pathway",Pathway modules; Energy metabolism; Methane metabolism,map00680  Methane metabolism
+M00842,"Tetrahydrobiopterin biosynthesis, GTP => BH4",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00790  Folate biosynthesis
+M00843,"L-threo-Tetrahydrobiopterin biosynthesis, GTP => L-threo-BH4",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00790  Folate biosynthesis
+M00005,"PRPP biosynthesis, ribose 5P => PRPP",Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism,map00030  Pentose phosphate pathway
+M00700,"Multidrug resistance, efflux pump AbcA",Signature modules; Gene set; Drug resistance,
+M00053,"Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP",Pathway modules; Nucleotide metabolism; Purine metabolism,map00230  Purine metabolism
+M00123,"Biotin biosynthesis, pimeloyl-ACP/CoA => biotin",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00780  Biotin metabolism
+M00573,"Biotin biosynthesis, BioI pathway, long-chain-acyl-ACP => pimeloyl-ACP => biotin",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00780  Biotin metabolism
+M00577,"Biotin biosynthesis, BioW pathway, pimelate => pimeloyl-CoA => biotin",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00780  Biotin metabolism
+M00060,"KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type",Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism,map00540  Lipopolysaccharide biosynthesis
+M00120,"Coenzyme A biosynthesis, pantothenate => CoA",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00770  Pantothenate and CoA biosynthesis
+M00034,Methionine salvage pathway,Pathway modules; Amino acid metabolism; Cysteine and methionine metabolism,map00270  Cysteine and methionine metabolism
+M00609,"Cysteine biosynthesis, methionine => cysteine",Pathway modules; Amino acid metabolism; Cysteine and methionine metabolism,map00270  Cysteine and methionine metabolism
+M00117,"Ubiquinone biosynthesis, prokaryotes, chorismate (+ polyprenyl-PP) => ubiquinol",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00130  Ubiquinone and other terpenoid-quinone biosynthesis
+M00023,"Tryptophan biosynthesis, chorismate => tryptophan",Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism,"map00400  Phenylalanine, tyrosine and tryptophan biosynthesis"
+M00761,"Und-P-alpha-L-Ara4N biosynthesis, UDP-Glc => UDP-L-Ara4FN => Und-P-alpha-L-Ara4N",Pathway modules; Glycan metabolism; Nucleotide sugar biosynthesis,map00541  Biosynthesis of various nucleotide sugars
+M00632,"Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P",Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism,map00052  Galactose metabolism
+M00051,"De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP",Pathway modules; Nucleotide metabolism; Pyrimidine metabolism,map00240  Pyrimidine metabolism
+M00115,"NAD biosynthesis, aspartate => quinolinate => NAD",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00760  Nicotinate and nicotinamide metabolism
+M00154,Cytochrome c oxidase,Pathway modules; Energy metabolism; ATP synthesis,map00190  Oxidative phosphorylation
+M00417,Cytochrome o ubiquinol oxidase,Pathway modules; Energy metabolism; ATP synthesis,map00190  Oxidative phosphorylation
+M00125,"Riboflavin biosynthesis, plants and bacteria, GTP => riboflavin/FMN/FAD",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00740  Riboflavin metabolism
+M00089,Triacylglycerol biosynthesis,Pathway modules; Lipid metabolism; Lipid metabolism,map00561  Glycerolipid metabolism
+M00083,"Fatty acid biosynthesis, elongation",Pathway modules; Lipid metabolism; Fatty acid metabolism,map00061  Fatty acid biosynthesis
+M00572,"Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00780  Biotin metabolism
+M00064,"ADP-LDmanHep biosynthesis, sedoheptulose-7P => ADP-LDmanHep",Pathway modules; Glycan metabolism; Nucleotide sugar biosynthesis,map00541  Biosynthesis of various nucleotide sugars
+M00357,"Methanogenesis, acetate => methane",Pathway modules; Energy metabolism; Methane metabolism,map00680  Methane metabolism
+M00579,"Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate",Pathway modules; Energy metabolism; Carbon fixation,map00430  Taurine and hypotaurine metabolism
+M00165,Reductive pentose phosphate cycle (Calvin cycle),Pathway modules; Energy metabolism; Carbon fixation,map00710  Carbon fixation by Calvin cycle
+M00344,"Formaldehyde assimilation, xylulose monophosphate pathway",Pathway modules; Energy metabolism; Methane metabolism,map00680  Methane metabolism
+M00345,"Formaldehyde assimilation, ribulose monophosphate pathway",Pathway modules; Energy metabolism; Methane metabolism,map00030  Pentose phosphate pathway
+M00308,"Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P",Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism,map00030  Pentose phosphate pathway
+M00552,"D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P",Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism,map00052  Galactose metabolism
+M00840,"Tetrahydrofolate biosynthesis, mediated by ribA and trpF, GTP => THF",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00790  Folate biosynthesis
+M00118,"Glutathione biosynthesis, glutamate => glutathione",Pathway modules; Amino acid metabolism; Other amino acid metabolism,map00480  Glutathione metabolism
+M00121,"Heme biosynthesis, plants and bacteria, glutamate => heme",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00860  Porphyrin metabolism
+M00140,"C1-unit interconversion, prokaryotes",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00670  One carbon pool by folate
+M00377,Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway),Pathway modules; Energy metabolism; Carbon fixation,map00720  Other carbon fixation pathways
+M00009,"Citrate cycle (TCA cycle, Krebs cycle)",Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism,map00020  Citrate cycle (TCA cycle)
+M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate",Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism,map00020  Citrate cycle (TCA cycle)
+M00173,Reductive citrate cycle (Arnon-Buchanan cycle),Pathway modules; Energy metabolism; Carbon fixation,map00720  Other carbon fixation pathways
+M00374,Dicarboxylate-hydroxybutyrate cycle,Pathway modules; Energy metabolism; Carbon fixation,map00720  Other carbon fixation pathways
+M00620,"Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate",Pathway modules; Energy metabolism; Carbon fixation,map00720  Other carbon fixation pathways
+M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA",Pathway modules; Amino acid metabolism; Lysine metabolism,map00310  Lysine degradation
+M00149,"Succinate dehydrogenase, prokaryotes",Pathway modules; Energy metabolism; ATP synthesis,map00190  Oxidative phosphorylation
+M00127,"Thiamine biosynthesis, prokaryotes, AIR (+ DXP/tyrosine) => TMP/TPP",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00730  Thiamine metabolism
+M00014,Glucuronate pathway (uronate pathway),Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism,map00040  Pentose and glucuronate interconversions
+M00129,"Ascorbate biosynthesis, animals, glucose-1P => ascorbate",Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism,map00040  Pentose and glucuronate interconversions
+M00364,"C10-C20 isoprenoid biosynthesis, bacteria",Pathway modules; Biosynthesis of terpenoids and polyketides; Terpenoid backbone biosynthesis,map00900  Terpenoid backbone biosynthesis
+M00366,"C10-C20 isoprenoid biosynthesis, plants",Pathway modules; Biosynthesis of terpenoids and polyketides; Terpenoid backbone biosynthesis,map00900  Terpenoid backbone biosynthesis
+M00746,"Multidrug resistance, repression of porin OmpF",Signature modules; Gene set; Drug resistance,
+M00004,Pentose phosphate pathway (Pentose phosphate cycle),Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism,map00030  Pentose phosphate pathway
+M00007,"Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P",Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism,map00030  Pentose phosphate pathway
+M00035,Methionine degradation,Pathway modules; Amino acid metabolism; Cysteine and methionine metabolism,map00270  Cysteine and methionine metabolism
+M00368,"Ethylene biosynthesis, methionine => ethylene",Pathway modules; Amino acid metabolism; Cysteine and methionine metabolism,map00270  Cysteine and methionine metabolism
+M00116,"Menaquinone biosynthesis, chorismate (+ polyprenyl-PP) => menaquinol",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00130  Ubiquinone and other terpenoid-quinone biosynthesis
+M00580,"Pentose phosphate pathway, archaea, fructose 6P => ribose 5P",Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism,map00030  Pentose phosphate pathway
+M00157,"F-type ATPase, prokaryotes and chloroplasts",Pathway modules; Energy metabolism; ATP synthesis,map00190  Oxidative phosphorylation
+M00048,"De novo purine biosynthesis, PRPP + glutamine => IMP",Pathway modules; Nucleotide metabolism; Purine metabolism,map00230  Purine metabolism
+M00307,"Pyruvate oxidation, pyruvate => acetyl-CoA",Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism,map00010  Glycolysis / Gluconeogenesis
+M00532,Photorespiration,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism,map00630  Glyoxylate and dicarboxylate metabolism
+M00141,"C1-unit interconversion, eukaryotes",Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism,map00670  One carbon pool by folate
+M00131,"Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol",Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism,map00562  Inositol phosphate metabolism
+M00744,"Cationic antimicrobial peptide (CAMP) resistance, protease PgtE",Signature modules; Gene set; Drug resistance,
+M00135,"GABA biosynthesis, eukaryotes, putrescine => GABA",Pathway modules; Amino acid metabolism; Polyamine biosynthesis,map00330  Arginine and proline metabolism
+M00114,"Ascorbate biosynthesis, plants, fructose-6P => ascorbate",Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism,map00051  Fructose and mannose metabolism
