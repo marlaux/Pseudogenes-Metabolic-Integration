@@ -1,0 +1,225 @@
+query	Disruption	Coverage	Cov_comp	Variant_Type	DP	Preferred_name	COG_category	EC	KEGG_ko	KEGG_Module	Description
+MRSS_00006	Truncated; Frameshift/Internal Stop	17.69	Low Cov	-	-	ilvE	E	2.6.1.42	ko:K00826	M00019,M00036,M00119,M00570	Belongs to the class-IV pyridoxal-phosphate-dependent aminotransferase family
+MRSS_00007	Align length out range	30.54	Mean Cov	INDEL	6.0	ilvE	E	2.6.1.42	ko:K00826	M00019,M00036,M00119,M00570	Belongs to the class-IV pyridoxal-phosphate-dependent aminotransferase family
+MRSS_00009	Align length out range	23.43	Mean Cov	-	-	bamC	M	-	ko:K07287	-	Part of the outer membrane protein assembly complex, which is involved in assembly and insertion of beta-barrel proteins into the outer membrane
+MRSS_00015	Align length out range	18.73	Low Cov	-	-	yfcH	CH	-	ko:K07071	-	epimerase
+MRSS_00020	Align length out range	13.55	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00023	Frameshift/Internal Stop	20.97	Mean Cov	INDEL	4.0	aroF	E	2.5.1.54	ko:K01626	M00022	Stereospecific condensation of phosphoenolpyruvate (PEP) and D-erythrose-4-phosphate (E4P) giving rise to 3-deoxy-D- arabino-heptulosonate-7-phosphate (DAHP)
+MRSS_00024	Frameshift/Internal Stop	20.03	Low Cov	-	-	aroF	E	2.5.1.54	ko:K01626	M00022	Stereospecific condensation of phosphoenolpyruvate (PEP) and D-erythrose-4-phosphate (E4P) giving rise to 3-deoxy-D- arabino-heptulosonate-7-phosphate (DAHP)
+MRSS_00026	Align length out range	7.03	Low Cov	-	-	metG	J	6.1.1.10	ko:K01874	M00359,M00360	Is required not only for elongation of protein synthesis but also for the initiation of all mRNA translation through initiator tRNA(fMet) aminoacylation
+MRSS_00028	Align length out range	18.05	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00032	Align length out range	8.72	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00050	Align length out range	19.14	Low Cov	-	-	rpoE	K	-	ko:K03088	-	Belongs to the sigma-70 factor family. ECF subfamily
+MRSS_00056	Align length out range	2.0	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00067	Align length out range	18.29	Low Cov	Transition	12.0	-	L	-	-	-	ISSoEn1, terminal inverted repeat
+MRSS_00068	Align length out range	19.82	Low Cov	-	-	lrp	K	-	ko:K03719	-	Transcriptional regulator
+MRSS_00069	Align length out range	23.55	Mean Cov	INDEL	4.0	ftsK	D	-	ko:K03466	-	COG1674 DNA segregation ATPase FtsK SpoIIIE and related proteins
+MRSS_00071	Align length out range	11.11	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00077	Align length out range	10.93	Low Cov	-	-	pdxJ	H	2.6.99.2	ko:K03474	M00124	Catalyzes the complicated ring closure reaction between the two acyclic compounds 1-deoxy-D-xylulose-5-phosphate (DXP) and 3-amino-2-oxopropyl phosphate (1-amino-acetone-3-phosphate or AAP) to form pyridoxine 5'-phosphate (PNP) and inorganic phosphate
+MRSS_00078	Align length out range	14.74	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00093	Align length out range	12.29	Low Cov	-	-	panC	H	6.3.2.1	ko:K01918	M00119	Catalyzes the condensation of pantoate with beta-alanine in an ATP-dependent reaction via a pantoyl-adenylate intermediate
+MRSS_00094	Align length out range	33.81	Mean Cov	-	-	panB	H	2.1.2.11	ko:K00606	M00119	Catalyzes the reversible reaction in which hydroxymethyl group from 5,10-methylenetetrahydrofolate is transferred onto alpha-ketoisovalerate to form ketopantoate
+MRSS_00098	Align length out range	12.37	Low Cov	-	-	-	K	-	-	-	PFAM MuA-transposase repressor protein CI DNA-binding
+MRSS_00099	Align length out range	2.54	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00103	Align length out range	10.28	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00108	Align length out range	9.45	Low Cov	-	-	yffB	P	1.20.4.1	ko:K00537	-	Belongs to the ArsC family
+MRSS_00121	Align length out range	10.63	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00140	Align length out range	0.99	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00141	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00142	Align length out range	6.04	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00145	Align length out range	2.93	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00152	Premature Stop		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00154	Premature Stop		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00155	Premature Stop		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00159	Align length out range	13.65	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00163	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00166	Align length out range	13.44	Low Cov	-	-	-	L	-	-	-	ISSoEn1, terminal inverted repeat
+MRSS_00168	Align length out range	2.79	Low Cov	-	-	ubiX	H	2.5.1.129	ko:K03186	M00117	Flavin prenyltransferase that catalyzes the synthesis of the prenylated FMN cofactor (prenyl-FMN) for 4-hydroxy-3- polyprenylbenzoic acid decarboxylase UbiD. The prenyltransferase is metal-independent and links a dimethylallyl moiety from dimethylallyl monophosphate (DMAP) to the flavin N5 and C6 atoms of FMN
+MRSS_00173	Align length out range	22.49	Mean Cov	INDEL	3.0	pabA	EH	2.4.2.18,2.6.1.85,4.1.3.27	ko:K01658,ko:K01664,ko:K13497	M00023	Anthranilate synthase
+MRSS_00174	Align length out range	25.73	Mean Cov	INDEL	2.0	trpE	EH	2.6.1.85,4.1.3.27	ko:K01657,ko:K01665,ko:K13950	M00023	component I
+MRSS_00175	Frameshift/Internal Stop; Frameshift; Low Identity	23.3	Mean Cov	-	-	trpE	EH	2.6.1.85,4.1.3.27	ko:K01657,ko:K01665,ko:K13950	M00023	component I
+MRSS_00183	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00190	Align length out range	17.84	Low Cov	-	-	arnD	G	-	ko:K13014	M00721,M00761	Catalyzes the deformylation of 4-deoxy-4-formamido-L- arabinose-phosphoundecaprenol to 4-amino-4-deoxy-L-arabinose- phosphoundecaprenol. The modified arabinose is attached to lipid A and is required for resistance to polymyxin and cationic antimicrobial peptides
+MRSS_00194	Align length out range	4.98	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00199	Frameshift/Internal Stop	28.87	Mean Cov	INDEL	3.0	nadD	H	2.7.7.18,3.5.4.4	ko:K00969,ko:K01488	M00115	Catalyzes the reversible adenylation of nicotinate mononucleotide (NaMN) to nicotinic acid adenine dinucleotide (NaAD)
+MRSS_00203	Align length out range	9.47	Low Cov	-	-	-	U	3.4.21.72	ko:K01347,ko:K15125	-	domain, Protein
+MRSS_00205	Align length out range	20.97	Mean Cov	INDEL	3.0	-	-	-	-	-	-
+MRSS_00211	Align length out range	14.97	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00212	Premature Stop		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00218	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00219	Align length out range	16.7	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00220	Align length out range	4.15	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00221	Align length out range	6.76	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00223	Align length out range	28.95	Mean Cov	INDEL	4.0	creA	S	-	ko:K05805	-	protein conserved in bacteria
+MRSS_00223	Align length out range	28.95	Mean Cov	INDEL	8.0	creA	S	-	ko:K05805	-	protein conserved in bacteria
+MRSS_00225	Align length out range	8.9	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00226	Frameshift/Internal Stop	30.83	Mean Cov	INDEL	3.0	aroB	E	4.2.3.4	ko:K01735	M00022	Catalyzes the conversion of 3-deoxy-D-arabino- heptulosonate 7-phosphate (DAHP) to dehydroquinate (DHQ)
+MRSS_00227	Align length out range	12.68	Low Cov	-	-	aroB	E	4.2.3.4	ko:K01735	M00022	Catalyzes the conversion of 3-deoxy-D-arabino- heptulosonate 7-phosphate (DAHP) to dehydroquinate (DHQ)
+MRSS_00233	Align length out range	27.93	Mean Cov	-	-	aroE	E	1.1.1.25	ko:K00014	M00022	Involved in the biosynthesis of the chorismate, which leads to the biosynthesis of aromatic amino acids. Catalyzes the reversible NADPH linked reduction of 3-dehydroshikimate (DHSA) to yield shikimate (SA)
+MRSS_00236	Frameshift/Internal Stop; Frameshift	19.51	Low Cov	INDEL	3.0	mscL	M	-	ko:K03282	-	Channel that opens in response to stretch forces in the membrane lipid bilayer. May participate in the regulation of osmotic pressure changes within the cell
+MRSS_00237	Align length out range	7.58	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00238	Align length out range	10.72	Low Cov	-	-	aroE	E	1.1.1.25	ko:K00014	M00022	Involved in the biosynthesis of the chorismate, which leads to the biosynthesis of aromatic amino acids. Catalyzes the reversible NADPH linked reduction of 3-dehydroshikimate (DHSA) to yield shikimate (SA)
+MRSS_00250	Align length out range	15.4	Low Cov	-	-	pabC	EH	4.1.3.38	ko:K02619	-	4-amino-4-deoxychorismate lyase
+MRSS_00251	Align length out range	18.21	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00253	Align length out range	13.17	Low Cov	-	-	plsX	I	2.3.1.15	ko:K03621	M00089	Catalyzes the reversible formation of acyl-phosphate (acyl-PO(4)) from acyl- acyl-carrier-protein (acyl-ACP). This enzyme utilizes acyl-ACP as fatty acyl donor, but not acyl-CoA
+MRSS_00261	Align length out range	5.86	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00262	Align length out range	23.55	Mean Cov	INDEL	4.0	-	L	-	-	-	ISSoEn1, terminal inverted repeat
+MRSS_00269	Align length out range		Mean Cov	-	-	yjeT	S	-	ko:K09937	-	Uncharacterized protein conserved in bacteria (DUF2065)
+MRSS_00275	Align length out range	18.89	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00277	Align length out range	2.0	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00279	Premature Stop		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00280	Align length out range	9.69	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00296	Premature Stop		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00297	Premature Stop		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00298	Premature Stop		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00299	Premature Stop		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00302	Align length out range	19.03	Low Cov	-	-	rlmH	J	2.1.1.177	ko:K00783	-	Specifically methylates the pseudouridine at position 1915 (m3Psi1915) in 23S rRNA
+MRSS_00306	Premature Stop		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00307	Premature Stop	32.24	Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00308	Align length out range	9.71	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00309	Premature Stop	35.38	Mean Cov	INDEL	2.0	-	-	-	-	-	-
+MRSS_00309	Premature Stop	35.38	Mean Cov	Transition	36.0	-	-	-	-	-	-
+MRSS_00331	Align length out range	16.22	Low Cov	-	-	-	L	-	-	-	ISSoEn1, terminal inverted repeat
+MRSS_00335	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00338	Align length out range	11.72	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00339	Align length out range	21.11	Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00341	Align length out range	8.73	Low Cov	-	-	plsY	I	2.3.1.15	ko:K08591	M00089	Catalyzes the transfer of an acyl group from acyl- phosphate (acyl-PO(4)) to glycerol-3-phosphate (G3P) to form lysophosphatidic acid (LPA). This enzyme utilizes acyl-phosphate as fatty acyl donor, but not acyl-CoA or acyl-ACP
+MRSS_00346	Align length out range	20.03	Low Cov	INDEL	6.0	yghU	H	-	ko:K11209	-	glutathione s-transferase
+MRSS_00347	Align length out range	18.19	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00349	Align length out range	7.31	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00351	Align length out range	20.97	Mean Cov	-	-	-	L	-	-	-	ISSoEn1, terminal inverted repeat
+MRSS_00354	Align length out range	16.06	Low Cov	INDEL	2.0	corC	P	-	ko:K06189	-	Mg2 and Co2 transporter CorC
+MRSS_00367	Align length out range	10.86	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00376	Align length out range	16.0	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00380	Align length out range	8.93	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00381	Align length out range	21.32	Mean Cov	INDEL	3.0	-	-	-	-	-	-
+MRSS_00392	Align length out range	15.52	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00393	Align length out range	19.36	Low Cov	INDEL	3.0	panE	H	1.1.1.169	ko:K00077	M00119	Catalyzes the NADPH-dependent reduction of ketopantoate into pantoic acid
+MRSS_00394	Align length out range	6.01	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00398	Align length out range	14.5	Low Cov	-	-	-	L	-	-	-	ISSoEn1, terminal inverted repeat
+MRSS_00405	Align length out range	25.67	Mean Cov	-	-	ompA	M	-	ko:K03286	-	Belongs to the ompA family
+MRSS_00412	Align length out range	4.8	Low Cov	-	-	yedD	S	-	-	-	Lipoprotein
+MRSS_00417	Align length out range	11.44	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00420	Align length out range		Mean Cov	-	-	yaeH	S	-	-	-	Belongs to the UPF0325 family
+MRSS_00422	Align length out range	12.09	Low Cov	-	-	cmoA	M	-	ko:K15256	-	Catalyzes the conversion of S-adenosyl-L-methionine (SAM) to carboxy-S-adenosyl-L-methionine (Cx-SAM)
+MRSS_00423	Frameshift/Internal Stop	19.09	Low Cov	INDEL	2.0	cmoB	J	-	ko:K15257	-	Catalyzes carboxymethyl transfer from carboxy-S- adenosyl-L-methionine (Cx-SAM) to 5-hydroxyuridine (ho5U) to form 5-carboxymethoxyuridine (cmo5U) at position 34 in tRNAs
+MRSS_00424	Align length out range	13.73	Low Cov	-	-	cmoB	J	-	ko:K15257	-	Catalyzes carboxymethyl transfer from carboxy-S- adenosyl-L-methionine (Cx-SAM) to 5-hydroxyuridine (ho5U) to form 5-carboxymethoxyuridine (cmo5U) at position 34 in tRNAs
+MRSS_00425	Align length out range	5.44	Low Cov	-	-	cmoB	J	-	ko:K15257	-	Catalyzes carboxymethyl transfer from carboxy-S- adenosyl-L-methionine (Cx-SAM) to 5-hydroxyuridine (ho5U) to form 5-carboxymethoxyuridine (cmo5U) at position 34 in tRNAs
+MRSS_00432	Premature Stop		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00435	Align length out range	21.07	Mean Cov	-	-	-	L	-	-	-	ISSoEn1, terminal inverted repeat
+MRSS_00439	Frameshift/Internal Stop; Frameshift	20.81	Mean Cov	-	-	ubiF	CH	-	ko:K03184	M00117	ubiquinone biosynthesis hydroxylase, UbiH UbiF VisC COQ6
+MRSS_00440	Truncated; Frameshift/Internal Stop	9.89	Low Cov	-	-	ubiF	CH	-	ko:K03184	M00117	ubiquinone biosynthesis hydroxylase, UbiH UbiF VisC COQ6
+MRSS_00441	Align length out range	8.89	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00442	Frameshift/Internal Stop	21.45	Mean Cov	Transition	5.0	prc	M	3.4.21.102	ko:K03797	-	Belongs to the peptidase S41A family
+MRSS_00443	Align length out range	27.47	Mean Cov	-	-	prc	M	3.4.21.102	ko:K03797	-	Belongs to the peptidase S41A family
+MRSS_00444	Align length out range	8.51	Low Cov	-	-	prc	M	3.4.21.102	ko:K03797	-	Belongs to the peptidase S41A family
+MRSS_00449	Align length out range	11.05	Low Cov	-	-	-	L	-	-	-	ISSoEn1, terminal inverted repeat
+MRSS_00455	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00459	Align length out range	23.69	Mean Cov	-	-	wzt	GM	-	ko:K09691	M00250	ABC transporter
+MRSS_00464	Align length out range	21.93	Mean Cov	-	-	-	M	-	-	-	Nucleotidyl transferase
+MRSS_00465	Align length out range	15.42	Low Cov	-	-	-	S	-	-	-	Cupin 2, conserved barrel domain protein
+MRSS_00467	Align length out range	2.97	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00468	Align length out range	7.14	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00471	Align length out range	7.57	Low Cov	-	-	-	L	-	-	-	ISSoEn1, terminal inverted repeat
+MRSS_00473	Premature Stop		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00476	Align length out range	9.07	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00487	Align length out range	4.65	Low Cov	-	-	dksA	T	-	ko:K06204	-	Transcription factor that acts by binding directly to the RNA polymerase (RNAP). Required for negative regulation of rRNA expression and positive regulation of several amino acid biosynthesis promoters. Also required for regulation of fis expression
+MRSS_00488	Align length out range	14.7	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00489	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00490	Premature Stop		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00493	Premature Stop		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00550	Align length out range	23.67	Mean Cov	-	-	-	L	-	-	-	ISSoEn1, terminal inverted repeat
+MRSS_00556	Premature Stop		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00560	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00561	Align length out range	13.16	Low Cov	-	-	hemH	H	4.99.1.1,4.99.1.9	ko:K01772	M00121	Catalyzes the ferrous insertion into protoporphyrin IX
+MRSS_00566	Align length out range	19.3	Low Cov	INDEL	3.0	sdhA	C	1.3.5.1,1.3.5.4	ko:K00239	M00009,M00011,M00149,M00173,M00374,M00376	Belongs to the FAD-dependent oxidoreductase 2 family. FRD SDH subfamily
+MRSS_00567	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00568	Frameshift/Internal Stop; Frameshift	22.22	Mean Cov	INDEL	4.0	ompA	M	-	ko:K03286	-	Belongs to the ompA family
+MRSS_00573	Align length out range	6.45	Low Cov	-	-	-	L	-	-	-	ISSoEn1, terminal inverted repeat
+MRSS_00575	Align length out range	20.28	Mean Cov	INDEL	5.0	ubiA	H	2.5.1.39	ko:K03179	M00117	Catalyzes the prenylation of para-hydroxybenzoate (PHB) with an all-trans polyprenyl group. Mediates the second step in the final reaction sequence of ubiquinone-8 (UQ-8) biosynthesis, which is the condensation of the polyisoprenoid side chain with PHB, generating the first membrane-bound Q intermediate 3- octaprenyl-4-hydroxybenzoate
+MRSS_00576	Align length out range	20.96	Mean Cov	Transition	7.0	ubiA	H	2.5.1.39	ko:K03179	M00117	Catalyzes the prenylation of para-hydroxybenzoate (PHB) with an all-trans polyprenyl group. Mediates the second step in the final reaction sequence of ubiquinone-8 (UQ-8) biosynthesis, which is the condensation of the polyisoprenoid side chain with PHB, generating the first membrane-bound Q intermediate 3- octaprenyl-4-hydroxybenzoate
+MRSS_00576	Align length out range	20.96	Mean Cov	INDEL	4.0	ubiA	H	2.5.1.39	ko:K03179	M00117	Catalyzes the prenylation of para-hydroxybenzoate (PHB) with an all-trans polyprenyl group. Mediates the second step in the final reaction sequence of ubiquinone-8 (UQ-8) biosynthesis, which is the condensation of the polyisoprenoid side chain with PHB, generating the first membrane-bound Q intermediate 3- octaprenyl-4-hydroxybenzoate
+MRSS_00576	Align length out range	20.96	Mean Cov	INDEL	2.0	ubiA	H	2.5.1.39	ko:K03179	M00117	Catalyzes the prenylation of para-hydroxybenzoate (PHB) with an all-trans polyprenyl group. Mediates the second step in the final reaction sequence of ubiquinone-8 (UQ-8) biosynthesis, which is the condensation of the polyisoprenoid side chain with PHB, generating the first membrane-bound Q intermediate 3- octaprenyl-4-hydroxybenzoate
+MRSS_00578	Align length out range	13.06	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00582	Frameshift/Internal Stop	19.43	Low Cov	-	-	nusB	K	-	ko:K03625	-	Involved in transcription antitermination. Required for transcription of ribosomal RNA (rRNA) genes. Binds specifically to the boxA antiterminator sequence of the ribosomal RNA (rrn) operons
+MRSS_00594	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00595	Align length out range	6.49	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00598	Premature Stop		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00601	Align length out range	17.13	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00603	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00605	Align length out range	9.13	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00613	Align length out range	12.01	Low Cov	-	-	slp	M	-	ko:K07285	-	Outer Membrane Lipoprotein
+MRSS_00614	Align length out range	2.82	Low Cov	-	-	slp	M	-	ko:K07285	-	Outer Membrane Lipoprotein
+MRSS_00616	Align length out range	11.44	Low Cov	-	-	-	L	-	-	-	ISSoEn1, terminal inverted repeat
+MRSS_00630	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00631	Align length out range	10.41	Low Cov	-	-	zipA	D	-	ko:K03528	-	Essential cell division protein that stabilizes the FtsZ protofilaments by cross-linking them and that serves as a cytoplasmic membrane anchor for the Z ring. Also required for the recruitment to the septal ring of downstream cell division proteins
+MRSS_00634	Align length out range	22.46	Mean Cov	Transition	18.0	mltF	M	-	ko:K18691	-	Murein-degrading enzyme that degrades murein glycan strands and insoluble, high-molecular weight murein sacculi, with the concomitant formation of a 1,6-anhydromuramoyl product. Lytic transglycosylases (LTs) play an integral role in the metabolism of the peptidoglycan (PG) sacculus. Their lytic action creates space within the PG sacculus to allow for its expansion as well as for the insertion of various structures such as secretion systems and flagella
+MRSS_00635	Align length out range	21.66	Mean Cov	-	-	mltF	M	-	ko:K18691	-	Murein-degrading enzyme that degrades murein glycan strands and insoluble, high-molecular weight murein sacculi, with the concomitant formation of a 1,6-anhydromuramoyl product. Lytic transglycosylases (LTs) play an integral role in the metabolism of the peptidoglycan (PG) sacculus. Their lytic action creates space within the PG sacculus to allow for its expansion as well as for the insertion of various structures such as secretion systems and flagella
+MRSS_00639	Align length out range	22.93	Mean Cov	Transition	22.0	visC	CH	-	ko:K18800	M00117	ubiquinone biosynthesis hydroxylase, UbiH UbiF VisC COQ6
+MRSS_00639	Align length out range	22.93	Mean Cov	Transition	10.0	visC	CH	-	ko:K18800	M00117	ubiquinone biosynthesis hydroxylase, UbiH UbiF VisC COQ6
+MRSS_00640	Frameshift/Internal Stop; Frameshift	15.91	Low Cov	-	-	visC	CH	-	ko:K18800	M00117	ubiquinone biosynthesis hydroxylase, UbiH UbiF VisC COQ6
+MRSS_00644	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00645	Align length out range	9.65	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00657	Premature Stop	25.26	Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00669	Align length out range	24.29	Mean Cov	-	-	glpG	S	-	ko:K02441	-	Rhomboid-type serine protease that catalyzes intramembrane proteolysis
+MRSS_00671	Align length out range	17.58	Low Cov	-	-	tyrR	K	-	ko:K03721	-	Transcriptional regulator of aromatic amino acids metabolism
+MRSS_00679	Align length out range	16.37	Low Cov	-	-	-	L	-	-	-	ISSoEn1, terminal inverted repeat
+MRSS_00680	Align length out range	13.12	Low Cov	-	-	recF	L	-	ko:K03629	-	it is required for DNA replication and normal SOS inducibility. RecF binds preferentially to single-stranded, linear DNA. It also seems to bind ATP
+MRSS_00685	Align length out range	15.9	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00688	-	26.96	Mean Cov	Transversion	22.0	guaC	F	1.1.1.205,1.7.1.7	ko:K00088,ko:K00364	M00050	Catalyzes the irreversible NADPH-dependent deamination of GMP to IMP. It functions in the conversion of nucleobase, nucleoside and nucleotide derivatives of G to A nucleotides, and in maintaining the intracellular balance of A and G nucleotides
+MRSS_00699	Align length out range	20.22	Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00700	Frameshift/Internal Stop	21.29	Mean Cov	INDEL	4.0	ubiB	S	-	ko:K03688	-	Is probably a protein kinase regulator of UbiI activity which is involved in aerobic coenzyme Q (ubiquinone) biosynthesis
+MRSS_00700	Frameshift/Internal Stop	21.29	Mean Cov	Transversion	10.0	ubiB	S	-	ko:K03688	-	Is probably a protein kinase regulator of UbiI activity which is involved in aerobic coenzyme Q (ubiquinone) biosynthesis
+MRSS_00701	Frameshift/Internal Stop	26.21	Mean Cov	INDEL	5.0	ubiB	S	-	ko:K03688	-	Is probably a protein kinase regulator of UbiI activity which is involved in aerobic coenzyme Q (ubiquinone) biosynthesis
+MRSS_00701	Frameshift/Internal Stop	26.21	Mean Cov	Transition	16.0	ubiB	S	-	ko:K03688	-	Is probably a protein kinase regulator of UbiI activity which is involved in aerobic coenzyme Q (ubiquinone) biosynthesis
+MRSS_00701	Frameshift/Internal Stop	26.21	Mean Cov	INDEL	2.0	ubiB	S	-	ko:K03688	-	Is probably a protein kinase regulator of UbiI activity which is involved in aerobic coenzyme Q (ubiquinone) biosynthesis
+MRSS_00702	Align length out range	23.33	Mean Cov	-	-	ubiE	H	2.1.1.163,2.1.1.201	ko:K03183	M00116,M00117	Methyltransferase required for the conversion of demethylmenaquinol (DMKH2) to menaquinol (MKH2) and the conversion of 2-polyprenyl-6-methoxy-1,4-benzoquinol (DDMQH2) to 2- polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol (DMQH2)
+MRSS_00704	Align length out range	13.77	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00707	Align length out range	9.01	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00709	Align length out range	11.18	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00710	Align length out range	14.55	Low Cov	-	-	yigA	S	-	ko:K09921	-	protein conserved in bacteria
+MRSS_00712	Align length out range	22.35	Mean Cov	INDEL	2.0	cyaA	F	4.6.1.1	ko:K05851	-	Adenylate cyclase
+MRSS_00713	Frameshift/Internal Stop	25.66	Mean Cov	INDEL	5.0	cyaA	F	4.6.1.1	ko:K05851	-	Adenylate cyclase
+MRSS_00713	Frameshift/Internal Stop	25.66	Mean Cov	INDEL	4.0	cyaA	F	4.6.1.1	ko:K05851	-	Adenylate cyclase
+MRSS_00714	Truncated; Frameshift/Internal Stop	3.33	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00715	Align length out range	4.9	Low Cov	-	-	hemC	H	2.5.1.61	ko:K01749	M00121	Tetrapolymerization of the monopyrrole PBG into the hydroxymethylbilane pre-uroporphyrinogen in several discrete steps
+MRSS_00718	Align length out range	8.46	Low Cov	-	-	-	L	-	ko:K14060	-	Site-specific recombinases, DNA invertase Pin homologs
+MRSS_00719	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00720	Align length out range	12.57	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00724	Align length out range	14.68	Low Cov	-	-	priC	L	-	ko:K04067	-	Primosomal replication protein n
+MRSS_00726	Align length out range	2.7	Low Cov	-	-	pabB	EH	2.6.1.85	ko:K01665	-	Part of a heterotetrameric complex that catalyzes the two-step biosynthesis of anthranilate, an intermediate in the biosynthesis of L-tryptophan. In the first step, the glutamine- binding beta subunit (TrpG) of anthranilate synthase (AS) provides the glutamine amidotransferase activity which generates ammonia as a substrate that, along with chorismate, is used in the second step, catalyzed by the large alpha subunit of AS (TrpE) to produce anthranilate. In the absence of TrpG, TrpE can synthesize anthranilate directly from chorismate and high concentrations of ammonia
+MRSS_00728	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00729	Frameshift/Internal Stop; Frameshift	23.94	Mean Cov	INDEL	3.0	aroC	E	4.2.3.5	ko:K01736	M00022	Catalyzes the anti-1,4-elimination of the C-3 phosphate and the C-6 proR hydrogen from 5-enolpyruvylshikimate-3-phosphate (EPSP) to yield chorismate, which is the branch point compound that serves as the starting substrate for the three terminal pathways of aromatic amino acid biosynthesis. This reaction introduces a second double bond into the aromatic ring system
+MRSS_00730	Truncated; Frameshift/Internal Stop; Frameshift	19.77	Low Cov	INDEL	4.0	-	-	-	-	-	-
+MRSS_00731	Align length out range	14.1	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00747	Align length out range		Mean Cov	-	-	-	L	-	-	-	Transposase DDE domain
+MRSS_00751	Align length out range	1.88	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00752	Align length out range	8.69	Low Cov	-	-	yraP	S	-	-	-	Periplasmic or secreted lipoprotein
+MRSS_00771	Align length out range	14.66	Low Cov	-	-	-	L	-	-	-	Transposase DDE domain
+MRSS_00772	Align length out range	7.9	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00773	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00775	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00776	Align length out range	19.35	Low Cov	INDEL	4.0	-	-	-	-	-	-
+MRSS_00776	Align length out range	19.35	Low Cov	INDEL	5.0	-	-	-	-	-	-
+MRSS_00783	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00786	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00788	Premature Stop		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00789	Premature Stop	10.17	Low Cov	Transition	5.0	-	-	-	-	-	-
+MRSS_00799	Align length out range	7.73	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00812	Frameshift/Internal Stop	11.81	Low Cov	-	-	ftsN	D	-	ko:K03591	-	Essential cell division protein that activates septal peptidoglycan synthesis and constriction of the cell. Acts on both sides of the membrane, via interaction with FtsA in the cytoplasm and interaction with the FtsQBL complex in the periplasm. These interactions may induce a conformational switch in both FtsA and FtsQBL, leading to septal peptidoglycan synthesis by FtsI and associated synthases
+MRSS_00817	Frameshift/Internal Stop; Frameshift	27.6	Mean Cov	Transition	22.0	relA	KT	2.7.6.5	ko:K00951	-	In eubacteria ppGpp (guanosine 3'-diphosphate 5-' diphosphate) is a mediator of the stringent response that coordinates a variety of cellular activities in response to changes in nutritional abundance
+MRSS_00817	Frameshift/Internal Stop; Frameshift	27.6	Mean Cov	Transition	32.0	relA	KT	2.7.6.5	ko:K00951	-	In eubacteria ppGpp (guanosine 3'-diphosphate 5-' diphosphate) is a mediator of the stringent response that coordinates a variety of cellular activities in response to changes in nutritional abundance
+MRSS_00818	Align length out range	11.43	Low Cov	-	-	-	L	-	-	-	ISSoEn1, terminal inverted repeat
+MRSS_00820	Align length out range	21.3	Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00823	Align length out range	5.58	Low Cov	-	-	-	-	-	-	-	-
+MRSS_00838	Align length out range	20.32	Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00849	Align length out range	21.72	Mean Cov	-	-	rodZ	S	-	ko:K15539	-	Cytoskeletal protein that is involved in cell-shape control through regulation of the length of the long axis
+MRSS_00850	Frameshift/Internal Stop; Frameshift; Low Identity	19.87	Low Cov	-	-	-	L	-	-	-	ISSoEn1, terminal inverted repeat
+MRSS_00853	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00854	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00859	Frameshift/Internal Stop; Frameshift	18.42	Low Cov	-	-	phoP	K	-	ko:K07660	M00444,M00709,M00721,M00723,M00724,M00744	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
+MRSS_00860	Align length out range		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00871	Align length out range	12.65	Low Cov	-	-	ompA	M	-	ko:K03286	-	Belongs to the ompA family
+MRSS_00882	Premature Stop		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00883	Premature Stop		Mean Cov	-	-	-	-	-	-	-	-
+MRSS_00890	Align length out range	9.18	Low Cov	-	-	-	-	-	-	-	-

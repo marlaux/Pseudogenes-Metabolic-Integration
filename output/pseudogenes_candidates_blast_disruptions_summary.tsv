@@ -1,0 +1,25 @@
+query	Subject_ID	Percent_Identity	Alignment_Length	Mismatches	Gap_Opens	Disruption
+MRSS_00006	NC_007712.1_cds_WP_011412201.1_4750	84.541	207	29	1	Truncated; Frameshift/Internal Stop
+MRSS_00023	NC_007712.1_cds_WP_011410331.1_1070	85.176	425	62	1	Frameshift/Internal Stop
+MRSS_00024	NC_007712.1_cds_WP_011410331.1_1070	87.821	312	38	0	Frameshift/Internal Stop
+MRSS_00175	NC_007712.1_cds_WP_011411222.1_2686	74.884	215	47	5	Frameshift/Internal Stop; Frameshift; Low Identity
+MRSS_00199	NC_007712.1_cds_WP_041866741.1_1535	82.911	474	81	0	Frameshift/Internal Stop
+MRSS_00226	NC_007712.1_cds_WP_011412116.1_4603	84.731	465	71	0	Frameshift/Internal Stop
+MRSS_00236	NC_007712.1_cds_SGP1_RS20695_4525	81.903	431	74	4	Frameshift/Internal Stop; Frameshift
+MRSS_00423	NC_007712.1_cds_WP_011411081.1_2431	82.92	363	61	1	Frameshift/Internal Stop
+MRSS_00439	NC_007712.1_cds_WP_011410675.1_1551	85.553	886	120	6	Frameshift/Internal Stop; Frameshift
+MRSS_00440	NC_007712.1_cds_WP_011410675.1_1551	87.302	189	24	0	Truncated; Frameshift/Internal Stop
+MRSS_00442	NC_007712.1_cds_WP_011411145.1_2529	83.791	364	59	0	Frameshift/Internal Stop
+MRSS_00568	NC_007712.1_cds_WP_011410890.1_1910	80.227	617	112	7	Frameshift/Internal Stop; Frameshift
+MRSS_00582	NC_007712.1_cds_WP_011410406.1_1219	88.667	300	34	0	Frameshift/Internal Stop
+MRSS_00640	NC_007712.1_cds_WP_011411733.1_4030	83.333	348	56	2	Frameshift/Internal Stop; Frameshift
+MRSS_00700	NC_007712.1_cds_WP_011409976.1_219	87.037	594	77	0	Frameshift/Internal Stop
+MRSS_00701	NC_007712.1_cds_WP_011409976.1_219	89.243	911	97	1	Frameshift/Internal Stop
+MRSS_00713	NC_007712.1_cds_WP_011412154.1_4661	84.831	534	80	1	Frameshift/Internal Stop
+MRSS_00714	NC_007712.1_cds_WP_011412154.1_4661	87.805	164	20	0	Truncated; Frameshift/Internal Stop
+MRSS_00729	NC_007712.1_cds_WP_011411455.1_3228	87.471	431	50	2	Frameshift/Internal Stop; Frameshift
+MRSS_00730	NC_007712.1_cds_WP_011411455.1_3228	87.0	400	50	2	Truncated; Frameshift/Internal Stop; Frameshift
+MRSS_00812	NC_007712.1_cds_WP_011411979.1_4380	80.745	161	31	0	Frameshift/Internal Stop
+MRSS_00817	NC_007712.1_cds_WP_011410483.1_985	85.199	1635	234	4	Frameshift/Internal Stop; Frameshift
+MRSS_00850	NC_007712.1_cds_SGP1_RS17500_3839	75.203	246	52	8	Frameshift/Internal Stop; Frameshift; Low Identity
+MRSS_00859	NC_007712.1_cds_WP_011410942.1_2011	84.825	257	35	3	Frameshift/Internal Stop; Frameshift
