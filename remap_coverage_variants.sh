@@ -93,8 +93,8 @@ if [[ -f "$VCF_OUTPUT" ]]; then
     echo "$VCF_OUTPUT already exists. Skipping mpileup and proceeding to filtering."
 else
     # Generate VCF file directly
-    /home/marlaux/bcftools/bcftools mpileup -f "$PROKKA_FFN" -Ou "$SORTED_BAM" | \
-        /home/marlaux/bcftools/bcftools call -mv -Oz -o "$VCF_OUTPUT"
+    bcftools mpileup -f "$PROKKA_FFN" -Ou "$SORTED_BAM" | \
+        bcftools call -mv -Oz -o "$VCF_OUTPUT"
 
     # Check if the VCF output file was created and is not empty
     if [[ -f "$VCF_OUTPUT" && -s "$VCF_OUTPUT" ]]; then
@@ -106,7 +106,7 @@ else
 fi
 
 # Generate filtered variants file with QUAL >= 15
-/home/marlaux/bcftools/bcftools view -i 'QUAL>=15' "$VCF_OUTPUT" | grep -v '^#' | awk '
+bcftools view -i 'QUAL>=15' "$VCF_OUTPUT" | grep -v '^#' | awk '
 BEGIN { OFS="\t" }
 {
     ref = $4; alt = $5;
@@ -121,10 +121,7 @@ BEGIN { OFS="\t" }
 }' > "$OUTPUT_DIR/${PREFIX}-filtered-variants.txt"
 
 # Generate read coverage file
-source /home/marlaux/miniconda3/etc/profile.d/conda.sh
-conda activate anvio-dev
 samtools depth -a "$SORTED_BAM" > "$OUTPUT_DIR/${PREFIX}-read-coverage.txt"
-conda deactivate
 
 # Check if the read coverage file was created and is not empty
 if [[ -f "$OUTPUT_DIR/${PREFIX}-read-coverage.txt" && -s "$OUTPUT_DIR/${PREFIX}-read-coverage.txt" ]]; then
