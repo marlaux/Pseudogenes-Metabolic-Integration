@@ -183,9 +183,3 @@ options:
 - Jupyter notebook in `metabolism/` contains downstream analysis and integration examples.
 
 ---
-
-If you'd like, I can:
-- Commit this formatted README.md to a new branch and open a pull request, or
-- Just push the change directly to a specified branch.
-
-Tell me which you'd prefer (branch name and whether to open a PR), and I'll proceed.
