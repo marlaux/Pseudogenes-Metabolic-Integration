@@ -1,0 +1,194 @@
+##########################################################################################################################################################################################################################
+PART 1 - Annotations
+##########################################################################################################################################################################################################################
+### Prokka
+prokka --outdir prokka_out  \
+      --prefix My_MAG --addgenes --addmrna --locustag MRSS --compliant --centre mRs --genus Sodalis --metagenome --evalue 1e-05 My_MAG.fa
+
+# Prokka outputs that are used: my_MAG.ffn, My_MAG.faa, My_MAG.gff
+
+### Emapper
+emapper.py --cpu 32 \
+          -m diamond  \
+          -i My_MAG.faa  \
+          -o My_MAG  \
+          --output_dir ./emapper  \
+          --report_orthologs --decorate_gff yes
+
+# Emapper output that is used:: My_MAG.emapper.annotations
+
+##########################################################################################################################################################################################################################
+PART 2 - Manual Pseudogenes Detection
+##########################################################################################################################################################################################################################
+### Manual Detection of pseudogenes
+
+### Search for internal stop codons and compare amino acid alignment length with reference
+python3 tools/detect_stops_compare_length.py -h
+python3 tools/detect_stops_compare_length.py    \
+        --cds_fasta input/prokka_out/My_MAG.ffn    \
+        --mag_faa input/prokka_out/My_MAG.faa      \
+        --ref_faa input/My_reference_protein.faa     \
+        --prefix My_MAG    
+
+Output: output/My_MAG-summary-stops-length.tsv
+query   has_internal_stop       first_internal_pos_nt   cds_length      ref_id  aa_mag_len      aa_ref_len      length_ratio    is_pseudogene
+MRSS_00001      0       NaN     1641    WP_011410703.1  546.0   547.0   0.99      False
+MRSS_00002      1       234     1458    WP_011411573.1  485.0   487.0   0.99       True
+MRSS_00003      0       NaN     1578    WP_011411572.1  525.0   525.0   1.0     False
+MRSS_00006      0       NaN     213     WP_011412201.1  70.0    309.0   0.22      True
+
+### Validate pseudogene candidates using read mapping and variant calls with remap_to_coverage_variants.sh, which will:
+1. Run remap of the MAG (Prokka output .ffn) agains the source metagenome using Bowtie2 and samtools
+2. Run variant calling with bcftools
+3. get read coverage to confirm disruptions in pseudogene candidates by analyzing read depth and alignment consistency.
+4. analyze variants to identify mutations (e.g., frameshifts, premature stops) that support pseudogenization.
+
+./tools/remap_coverage_variants.sh      \
+        --ffn_file input/prokka_out/My_MAG.ffn     \
+        --metagenome_file path/to/metagenome        \
+        --prefix My_MAG
+
+### Compare the pseudogene candidates with the original reference genome using blastn (genomic sequences)
+### Analyze Alignment Results (only candidate pseudogenes with a problematic blast hit will be kept)
+Compare the alignment results to identify:
+  -Truncated proteins (alignment length < 70–80% of reference).
+  -Frameshifts or internal stop codons (Look for high mismatch or gapopen values).
+  -Percent identity (High identity suggests conserved regions).
+  -summarize_parse_blast_output.py: Parse the BLAST output to identify pseudogenes with significant disruptions (e.g., truncated alignments, frameshifts).
+
+./tools/compare_pseudogenes_with_reference.sh -h
+./tools/compare_pseudogenes_with_reference.sh   \
+        --ffn_file input/prokka_out/My_MAG.ffn     \
+        --reference_file input/Sglossinidius_morsitans_cds.fna  \
+        --stops_length_file output/My_MAG-summary-stops-length.tsv \
+        --prefix My_MAG
+
+Output: output/pseudogenes_candidates_blast_disruptions_summary.tsv
+query   Subject_ID      Percent_Identity        Alignment_Length        Mismatches      Gap_Opens       Disruption
+MRSS_00006      NC_007712.1_cds_WP_011412201.1_4750     84.541  207     29      1       Truncated; Frameshift/Internal Stop
+MRSS_00023      NC_007712.1_cds_WP_011410331.1_1070     85.176  425     62      1       Frameshift/Internal Stop
+MRSS_00175      NC_007712.1_cds_WP_011411222.1_2686     74.884  215     47      5       Frameshift/Internal Stop; Frameshift; Low Identity
+
+### Combine alignment results, read mapping data and Incorporate Functional Annotations to the pseudogene_disruptions_summary.tsv file (emapper output)
+python3 tools/incorporate_annotations.py \
+    --annotations_file input/prokka_out/emapper/My_MAG.emapper.annotations \
+    --stops_length_file output/My_MAG-summary-stops-length.tsv     \
+    --disruptions_file output/pseudogenes_candidates_blast_disruptions_summary.tsv \
+    --coverage_file output/My_MAG-read-coverage.txt        \
+    --variant_file output/My_MAG-filtered-variants.txt
+
+Output: output/final_pseudogene_candidates_disruptions_with_annotations.tsv
+query   Disruption      Coverage        Cov_comp        Variant_Type    DP      Preferred_name  COG_category    EC      KEGG_ko KEGG_Module     Description
+MRSS_00108	Align length out range	9.45	Low Cov	-	-	yffB	P	1.20.4.1	ko:K00537	-	Belongs to the ArsC family
+MRSS_00069	Align length out range	23.55	Mean Cov	INDEL	4.0	ftsK	D	-	ko:K03466	-	COG1674 DNA segregation ATPase FtsK SpoIIIE and related proteins
+MRSS_00576	Align length out range	20.96	Mean Cov	Transition	7.0	ubiA	H	2.5.1.39	ko:K03179	M00117	Catalyzes the prenylation of para-hydroxybenzoate (PHB) with an all-trans polyprenyl group.
+
+### The final summary file will contain:
+  -Query ID
+  -A column indicating the type of disruption (e.g., truncated, frameshift);
+  -Coverage based on remap, Cov_comp to check if the candidate pseudogenes has the mean intact genes coverage;
+  -Variant_Type and DP: Parse of the VCF file;
+  -Annotations from Emmapper (Preferred_name, COG_category, EC, KEGG_ko, KEGG_Module, Description)
+
+##########################################################################################################################################################################################################################
+PART 3 - Run Pseudofinder tool
+##########################################################################################################################################################################################################################
+makeblastdb -in Sodalis_NCBI_protein.faa -dbtype prot -parse_seqids
+
+conda activate pseudofinder
+# Run the full pipeline on 16 processors (for BlastX/BlastP searches).
+# Unless you have a $BLASTDB environmental variable set on your system, you have to provide a full path to the NR database.
+# python3 pseudofinder.py annotate --genome GENOME.GBF --outprefix PREFIX --database /PATH/TO/NR/nr --threads 16
+python3 /home/marlaux/pseudofinder/pseudofinder.py annotate --genome prokka_out/My_MAG.gbk --outprefix pseudo --database /home/marlaux/Tati/pseudogenes_search/Sodalis_NCBI_protein.faa --threads 16
+
+### Compare results of manual method with pseudofinder
+python3 tools/compare_manual_with_pseudofinder.py  \
+        --final_summary_file output/final_pseudogene_candidates_disruptions_with_annotations.tsv \
+        --pseudofinder_gff ../pseudogenes_search/pseudofinder/pseudo_pseudos.gff        \
+        --annotations_file input/prokka_out/emapper/My_MAG.emapper.annotations \
+        --coverage_file output/My_MAG-read-coverage.txt        \
+        --variant_file output/My_MAG-filtered-variants.txt
+
+
+##########################################################################################################################################################################################################################
+PART 4 - Anvi'o metabolism, MAG workflow
+##########################################################################################################################################################################################################################
+# rename fasta headers
+anvi-script-reformat-fasta My_MAG.fa -o contigs_clean.fa --simplify-names --report name_conversions_contigs.txt
+
+# create anvio database
+anvi-gen-contigs-database -f contigs_clean.fa -o My_MAG.db -T 32
+
+# extract CDS protein sequences to run emapper
+anvi-get-sequences-for-gene-calls -c My_MAG.db --get-aa-sequences -o My_MAG_anvio.faa
+
+### run_emapper.job
+emapper.py --cpu 32     \
+        -m diamond      \
+        -i My_MAG_anvio.faa        \
+        -o My_MAG_anvio    \
+        --output_dir ./emapper2anvio    \
+        --report_orthologs      \
+        --decorate_gff yes
+
+### remap2anvio_profile.job
+bowtie2-build contigs_clean.fa contigs_clean.fa
+
+bowtie2 -p 32 -x contigs_clean.fa \
+        -1 /path/to/metagenome/My_metagenome_R1.fastq      \
+        -2 /path/to/metagenome/My_metagenome_R2.fastq      \
+        -S remap2anvio_profile.sam
+samtools view -@ 32 -b remap2anvio_profile.sam > remap2anvio_profile.bam
+samtools sort -@ 32 remap2anvio_profile.bam > remap2anvio_profile_sorted.bam
+samtools index -@ 32 remap2anvio_profile_sorted.bam
+rm remap2anvio_profile.sam remap2anvio_profile.bam
+
+# run anvi profile to upload remap data
+anvi-profile -i remap2anvio_profile_sorted.bam   \
+        -c My_MAG.db -o My_MAG_profile -T 32
+
+# add a default collection to been able to get coverage in estimate metabolism step
+anvi-script-add-default-collection -c My_MAG.db -p My_MAG_profile/PROFILE.db -b My_MAG
+
+# upload emapper annotations
+anvi-script-run-eggnog-mapper -c My_MAG.db --annotation ./emapper2anvio/My_MAG_anvio.emapper.annotations2anvio --use-version 2.1.9
+
+# run taxonomic and functional annotations
+anvi-run-hmms -c My_MAG.db --also-scan-trnas -T 32
+anvi-run-scg-taxonomy -c My_MAG.db -T 32
+anvi-estimate-scg-taxonomy -c My_MAG.db -T 32      \
+        -o My_MAG_taxonomy.txt     \
+        --report-scg-frequencies ./My_MAG_scg_freqs.tsv
+anvi-run-ncbi-cogs -c My_MAG.db -T 32
+anvi-run-kegg-kofams -c My_MAG.db -T 32 --log-bitscores
+anvi-estimate-metabolism -c My_MAG.db -p My_MAG_profile/PROFILE.db -C DEFAULT --add-copy-number --add-coverage
+anvi-estimate-metabolism -c My_MAG.db -O My_MAG --output-modes hits
+anvi-export-functions -c My_MAG.db -o My_MAG_all_functional_annotations.tsv
+anvi-export-gene-coverage-and-detection -c My_MAG.db -p My_MAG_profile/PROFILE.db -O My_MAG
+anvi-estimate-genome-completeness -c My_MAG.db -p My_MAG_profile/PROFILE.db -C DEFAULT -o My_MAG_completeness.txt
+
+##########################################################################################################################################################################################################################
+### Explore the host
+##########################################################################################################################################################################################################################
+
+# get the binned contigs list
+grep "^>" Sodalis_R_solanicola.fa | sed 's/>//' > Sodalis_MAG_contigs.txt
+
+# extract the MEGAHIT contigs that are not present in the binned contigs list
+seqkit grep -v -f Sodalis_MAG_contigs.txt final.contigs.fa -o unbinned.contigs.fa
+
+# run emapper in the unbinned contigs, using 'eukaryota' taxa scope and excluding 'bacteria'
+emapper.py --cpu 48     \
+        -m diamond      \
+        --tax_scope eukaryota   \
+        --excluded_taxa bacteria        \
+        --itype metagenome      \
+        -i unbinned.contigs.fa     \
+        -o Eukaryota    \
+        --output_dir emapper_eukaryota  \
+        --report_orthologs      \
+        --decorate_gff yes
+
+##########################################################################################################################################################################################################################
+Prepare tables and example data analysis: Jupyter Notebook pseudogenes_metabolism_integration.ipynb
+##########################################################################################################################################################################################################################
