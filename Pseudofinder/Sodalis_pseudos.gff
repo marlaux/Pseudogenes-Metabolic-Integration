@@ -1,0 +1,519 @@
+##gff-version 3
+#!annotation-date	2025-10-27 14:51:21
+##sequence-region MRSS_1 1 14873
+##sequence-region MRSS_2 1 27210
+##sequence-region MRSS_3 1 186638
+##sequence-region MRSS_4 1 48868
+##sequence-region MRSS_5 1 169793
+##sequence-region MRSS_6 1 51141
+##sequence-region MRSS_7 1 26298
+##sequence-region MRSS_8 1 109867
+##sequence-region MRSS_9 1 48887
+##sequence-region MRSS_10 1 5165
+##sequence-region MRSS_11 1 191802
+##sequence-region MRSS_12 1 6971
+##sequence-region MRSS_13 1 138926
+##sequence-region MRSS_14 1 23251
+##sequence-region MRSS_15 1 16372
+##sequence-region MRSS_16 1 89581
+##sequence-region MRSS_17 1 85620
+##sequence-region MRSS_18 1 26175
+##sequence-region MRSS_19 1 22059
+##sequence-region MRSS_20 1 60653
+##sequence-region MRSS_21 1 11188
+##sequence-region MRSS_22 1 53812
+MRSS_11	pseudofinder	gene	782	1171	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 52.6%25 of the average length of hits to this gene.;locus_tag=MRSS_11_pseudo_00001;old_locus_tag=MRSS_00422
+MRSS_9	pseudofinder	gene	920	1259	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_9_pseudo_00002;old_locus_tag=MRSS_9_ign_00001
+MRSS_11	pseudofinder	gene	1172	1299	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00003;old_locus_tag=MRSS_11_ign_00001
+MRSS_5	pseudofinder	gene	1176	1906	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00004;old_locus_tag=MRSS_5_ign_00001
+MRSS_9	pseudofinder	gene	1261	1623	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 40.1%25 of the average length of hits to this gene.;locus_tag=MRSS_9_pseudo_00005;old_locus_tag=MRSS_00393
+MRSS_11	pseudofinder	gene	1303	2272	.	+	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=MRSS_11_pseudo_00006;old_locus_tag=MRSS_00423,MRSS_00425
+MRSS_10	pseudofinder	gene	1345	1452	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 27.8%25 of the average length of hits to this gene.;locus_tag=MRSS_10_pseudo_00007;old_locus_tag=MRSS_00420
+MRSS_2	pseudofinder	gene	1539	1832	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 30.2%25 of the average length of hits to this gene.;locus_tag=MRSS_2_pseudo_00008;old_locus_tag=MRSS_00009
+MRSS_9	pseudofinder	gene	1577	1738	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 31.7%25 of the average length of hits to this gene.;locus_tag=MRSS_9_pseudo_00009;old_locus_tag=MRSS_00394
+MRSS_11	pseudofinder	gene	1668	2086	.	+	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=MRSS_11_pseudo_00010;old_locus_tag=MRSS_00424,MRSS_11_ign_00002,MRSS_11_ign_00003
+MRSS_12	pseudofinder	gene	1726	2039	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_12_pseudo_00011;old_locus_tag=MRSS_12_ign_00001
+MRSS_22	pseudofinder	gene	1726	1919	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_22_pseudo_00012;old_locus_tag=MRSS_22_ign_00001
+MRSS_3	pseudofinder	gene	1793	1899	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00013;old_locus_tag=MRSS_3_ign_00001
+MRSS_4	pseudofinder	gene	1841	2178	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_4_pseudo_00014;old_locus_tag=MRSS_4_ign_00001
+MRSS_12	pseudofinder	gene	2041	2208	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 19.1%25 of the average length of hits to this gene.;locus_tag=MRSS_12_pseudo_00015;old_locus_tag=MRSS_00573
+MRSS_18	pseudofinder	gene	2187	2539	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_18_pseudo_00016;old_locus_tag=MRSS_18_ign_00001
+MRSS_14	pseudofinder	gene	2303	2460	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_14_pseudo_00017;old_locus_tag=MRSS_14_ign_00001
+MRSS_11	pseudofinder	gene	2340	3283	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00018;old_locus_tag=MRSS_11_ign_00004
+MRSS_12	pseudofinder	gene	2352	2524	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_12_pseudo_00019;old_locus_tag=MRSS_12_ign_00002
+MRSS_10	pseudofinder	gene	2377	2660	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_10_pseudo_00020;old_locus_tag=MRSS_10_ign_00002
+MRSS_19	pseudofinder	gene	2701	3074	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_19_pseudo_00021;old_locus_tag=MRSS_19_ign_00002
+MRSS_14	pseudofinder	gene	2921	3181	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 32.2%25 of the average length of hits to this gene.;locus_tag=MRSS_14_pseudo_00022;old_locus_tag=MRSS_00669
+MRSS_1	pseudofinder	gene	2981	3590	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_1_pseudo_00023;old_locus_tag=MRSS_1_ign_00001
+MRSS_17	pseudofinder	gene	2993	3474	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00024;old_locus_tag=MRSS_17_ign_00001
+MRSS_20	pseudofinder	gene	3141	3406	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_20_pseudo_00025;old_locus_tag=MRSS_20_ign_00001
+MRSS_14	pseudofinder	gene	3579	3745	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_14_pseudo_00026;old_locus_tag=MRSS_14_ign_00002
+MRSS_8	pseudofinder	gene	3688	4147	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00027;old_locus_tag=MRSS_8_ign_00001
+MRSS_15	pseudofinder	gene	3814	4100	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_15_pseudo_00028;old_locus_tag=MRSS_15_ign_00001
+MRSS_5	pseudofinder	gene	3825	4372	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00029;old_locus_tag=MRSS_5_ign_00002
+MRSS_6	pseudofinder	gene	3991	4302	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_6_pseudo_00030;old_locus_tag=MRSS_6_ign_00001
+MRSS_13	pseudofinder	gene	4053	4612	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00031;old_locus_tag=MRSS_13_ign_00003
+MRSS_15	pseudofinder	gene	4134	4457	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 35.2%25 of the average length of hits to this gene.;locus_tag=MRSS_15_pseudo_00032;old_locus_tag=MRSS_00679
+MRSS_3	pseudofinder	gene	4273	4622	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00033;old_locus_tag=MRSS_3_ign_00002
+MRSS_5	pseudofinder	gene	4383	4652	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 36.6%25 of the average length of hits to this gene.;locus_tag=MRSS_5_pseudo_00034;old_locus_tag=MRSS_00166
+MRSS_19	pseudofinder	gene	4445	5323	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_19_pseudo_00035;old_locus_tag=MRSS_19_ign_00003
+MRSS_21	pseudofinder	gene	4508	4767	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_21_pseudo_00036;old_locus_tag=MRSS_21_ign_00001
+MRSS_15	pseudofinder	gene	4671	4798	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_15_pseudo_00037;old_locus_tag=MRSS_15_ign_00002
+MRSS_16	pseudofinder	gene	4676	6751	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00038;old_locus_tag=MRSS_16_ign_00002
+MRSS_3	pseudofinder	gene	4693	5121	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 39.4%25 of the average length of hits to this gene.;locus_tag=MRSS_3_pseudo_00039;old_locus_tag=MRSS_00023
+MRSS_21	pseudofinder	gene	4769	5023	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 38.2%25 of the average length of hits to this gene.;locus_tag=MRSS_21_pseudo_00040;old_locus_tag=MRSS_00859
+MRSS_15	pseudofinder	gene	4801	5151	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 33.1%25 of the average length of hits to this gene.;locus_tag=MRSS_15_pseudo_00041;old_locus_tag=MRSS_00680
+MRSS_11	pseudofinder	gene	4971	5544	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00042;old_locus_tag=MRSS_11_ign_00005
+MRSS_21	pseudofinder	gene	5023	5121	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 15.0%25 of the average length of hits to this gene.;locus_tag=MRSS_21_pseudo_00043;old_locus_tag=MRSS_00860
+MRSS_9	pseudofinder	gene	5029	5228	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_9_pseudo_00044;old_locus_tag=MRSS_9_ign_00003
+MRSS_3	pseudofinder	gene	5122	5436	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 29.3%25 of the average length of hits to this gene.;locus_tag=MRSS_3_pseudo_00045;old_locus_tag=MRSS_00024
+MRSS_14	pseudofinder	gene	5225	5616	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_14_pseudo_00046;old_locus_tag=MRSS_14_ign_00003
+MRSS_21	pseudofinder	gene	5230	5768	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_21_pseudo_00047;old_locus_tag=MRSS_21_ign_00002
+MRSS_3	pseudofinder	gene	5437	7846	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00048;old_locus_tag=MRSS_3_ign_00003
+MRSS_4	pseudofinder	gene	5606	6024	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_4_pseudo_00049;old_locus_tag=MRSS_4_ign_00002
+MRSS_12	pseudofinder	gene	5617	5925	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 34.8%25 of the average length of hits to this gene.;locus_tag=MRSS_12_pseudo_00050;old_locus_tag=MRSS_00575
+MRSS_2	pseudofinder	gene	5704	6236	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_2_pseudo_00051;old_locus_tag=MRSS_2_ign_00002
+MRSS_9	pseudofinder	gene	5932	6219	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 31.3%25 of the average length of hits to this gene.;locus_tag=MRSS_9_pseudo_00052;old_locus_tag=MRSS_00398
+MRSS_12	pseudofinder	gene	5932	6441	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 58.8%25 of the average length of hits to this gene.;locus_tag=MRSS_12_pseudo_00053;old_locus_tag=MRSS_00576
+MRSS_9	pseudofinder	gene	6416	6618	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_9_pseudo_00054;old_locus_tag=MRSS_9_ign_00004
+MRSS_6	pseudofinder	gene	6657	6925	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_6_pseudo_00055;old_locus_tag=MRSS_6_ign_00004
+MRSS_7	pseudofinder	gene	6745	7322	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 11 blast hits.;locus_tag=MRSS_7_pseudo_00056;old_locus_tag=MRSS_7_ign_00005
+MRSS_13	pseudofinder	gene	6788	6918	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00057;old_locus_tag=MRSS_13_ign_00005
+MRSS_20	pseudofinder	gene	6803	6981	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_20_pseudo_00058;old_locus_tag=MRSS_20_ign_00003
+MRSS_4	pseudofinder	gene	7099	7292	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_4_pseudo_00059;old_locus_tag=MRSS_4_ign_00003
+MRSS_5	pseudofinder	gene	7220	7785	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00060;old_locus_tag=MRSS_5_ign_00004
+MRSS_18	pseudofinder	gene	7351	7544	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_18_pseudo_00061;old_locus_tag=MRSS_18_ign_00003
+MRSS_14	pseudofinder	gene	7401	7667	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 17.8%25 of the average length of hits to this gene.;locus_tag=MRSS_14_pseudo_00062;old_locus_tag=MRSS_00671
+MRSS_8	pseudofinder	gene	7590	8038	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00063;old_locus_tag=MRSS_8_ign_00003
+MRSS_17	pseudofinder	gene	7671	7921	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00064;old_locus_tag=MRSS_17_ign_00002
+MRSS_19	pseudofinder	gene	7845	8203	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_19_pseudo_00065;old_locus_tag=MRSS_19_ign_00004
+MRSS_22	pseudofinder	gene	7897	8045	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_22_pseudo_00066;old_locus_tag=MRSS_22_ign_00005
+MRSS_15	pseudofinder	gene	8009	8340	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_15_pseudo_00067;old_locus_tag=MRSS_15_ign_00004
+MRSS_22	pseudofinder	gene	8115	8333	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 44.3%25 of the average length of hits to this gene.;locus_tag=MRSS_22_pseudo_00068;old_locus_tag=MRSS_00871
+MRSS_17	pseudofinder	gene	8310	8435	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 14.9%25 of the average length of hits to this gene.;locus_tag=MRSS_17_pseudo_00069;old_locus_tag=MRSS_00747
+MRSS_5	pseudofinder	gene	8423	8563	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 24.9%25 of the average length of hits to this gene.;locus_tag=MRSS_5_pseudo_00070;old_locus_tag=MRSS_00168
+MRSS_22	pseudofinder	gene	8427	8827	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_22_pseudo_00071;old_locus_tag=MRSS_22_ign_00006
+MRSS_16	pseudofinder	gene	8561	8841	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00072;old_locus_tag=MRSS_16_ign_00003
+MRSS_5	pseudofinder	gene	8564	8992	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00073;old_locus_tag=MRSS_5_ign_00005
+MRSS_9	pseudofinder	gene	8711	8898	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_9_pseudo_00074;old_locus_tag=MRSS_9_ign_00006
+MRSS_20	pseudofinder	gene	8718	8965	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_20_pseudo_00075;old_locus_tag=MRSS_20_ign_00005
+MRSS_11	pseudofinder	gene	8841	9493	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00076;old_locus_tag=MRSS_11_ign_00006
+MRSS_14	pseudofinder	gene	8852	9147	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_14_pseudo_00077;old_locus_tag=MRSS_14_ign_00004
+MRSS_19	pseudofinder	gene	8953	9183	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 27.0%25 of the average length of hits to this gene.;locus_tag=MRSS_19_pseudo_00078;old_locus_tag=MRSS_00812
+MRSS_3	pseudofinder	gene	9021	9960	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00079;old_locus_tag=MRSS_3_ign_00004
+MRSS_4	pseudofinder	gene	9091	10134	.	+	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=MRSS_4_pseudo_00080;old_locus_tag=MRSS_00137,MRSS_4_ign_00004
+MRSS_13	pseudofinder	gene	9281	10269	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00081;old_locus_tag=MRSS_13_ign_00007
+MRSS_8	pseudofinder	gene	9466	10310	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00082;old_locus_tag=MRSS_8_ign_00004
+MRSS_21	pseudofinder	gene	9578	9810	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_21_pseudo_00083;old_locus_tag=MRSS_21_ign_00003
+MRSS_2	pseudofinder	gene	9580	10200	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_2_pseudo_00084;old_locus_tag=MRSS_2_ign_00003
+MRSS_6	pseudofinder	gene	9598	9746	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_6_pseudo_00085;old_locus_tag=MRSS_6_ign_00005
+MRSS_7	pseudofinder	gene	9647	10357	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_7_pseudo_00086;old_locus_tag=MRSS_7_ign_00006
+MRSS_19	pseudofinder	gene	9841	10337	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_19_pseudo_00087;old_locus_tag=MRSS_19_ign_00005
+MRSS_17	pseudofinder	gene	9857	10798	.	+	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=MRSS_17_pseudo_00088;old_locus_tag=MRSS_17_ign_00004,MRSS_00749
+MRSS_14	pseudofinder	gene	10045	10718	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_14_pseudo_00089;old_locus_tag=MRSS_14_ign_00005
+MRSS_21	pseudofinder	gene	10377	10513	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_21_pseudo_00090;old_locus_tag=MRSS_21_ign_00004
+MRSS_3	pseudofinder	gene	10511	12451	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=MRSS_3_pseudo_00091;old_locus_tag=MRSS_3_ign_00005,MRSS_00026,MRSS_00027
+MRSS_9	pseudofinder	gene	10587	10876	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_9_pseudo_00092;old_locus_tag=MRSS_9_ign_00007
+MRSS_15	pseudofinder	gene	10897	11607	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_15_pseudo_00093;old_locus_tag=MRSS_15_ign_00005
+MRSS_17	pseudofinder	gene	10909	12107	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00094;old_locus_tag=MRSS_17_ign_00005
+MRSS_16	pseudofinder	gene	10986	11224	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00095;old_locus_tag=MRSS_16_ign_00004
+MRSS_22	pseudofinder	gene	11360	11961	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_22_pseudo_00096;old_locus_tag=MRSS_22_ign_00007
+MRSS_16	pseudofinder	gene	11373	11999	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 181.7%25 of the average length of hits to this gene.;locus_tag=MRSS_16_pseudo_00097;old_locus_tag=MRSS_00690
+MRSS_16	pseudofinder	gene	12032	12306	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00098;old_locus_tag=MRSS_16_ign_00005
+MRSS_7	pseudofinder	gene	12085	12452	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_7_pseudo_00099;old_locus_tag=MRSS_7_ign_00007
+MRSS_1	pseudofinder	gene	12349	12836	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_1_pseudo_00100;old_locus_tag=MRSS_1_ign_00004
+MRSS_3	pseudofinder	gene	12788	13368	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00101;old_locus_tag=MRSS_3_ign_00007
+MRSS_11	pseudofinder	gene	12940	13262	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00102;old_locus_tag=MRSS_11_ign_00009
+MRSS_4	pseudofinder	gene	12999	13291	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_4_pseudo_00103;old_locus_tag=MRSS_4_ign_00006
+MRSS_1	pseudofinder	gene	13569	13781	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 23.4%25 of the average length of hits to this gene.;locus_tag=MRSS_1_pseudo_00104;old_locus_tag=MRSS_00006
+MRSS_9	pseudofinder	gene	13665	14521	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_9_pseudo_00105;old_locus_tag=MRSS_9_ign_00008
+MRSS_1	pseudofinder	gene	13807	14208	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 43.3%25 of the average length of hits to this gene.;locus_tag=MRSS_1_pseudo_00106;old_locus_tag=MRSS_00007
+MRSS_20	pseudofinder	gene	13847	14379	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_20_pseudo_00107;old_locus_tag=MRSS_20_ign_00007
+MRSS_4	pseudofinder	gene	13904	14221	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_4_pseudo_00108;old_locus_tag=MRSS_4_ign_00007
+MRSS_8	pseudofinder	gene	13911	14644	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00109;old_locus_tag=MRSS_8_ign_00007
+MRSS_19	pseudofinder	gene	14093	14907	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_19_pseudo_00110;old_locus_tag=MRSS_19_ign_00007
+MRSS_16	pseudofinder	gene	14181	14785	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00111;old_locus_tag=MRSS_16_ign_00006
+MRSS_14	pseudofinder	gene	14311	14765	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_14_pseudo_00112;old_locus_tag=MRSS_14_ign_00006
+MRSS_15	pseudofinder	gene	14372	14820	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_15_pseudo_00113;old_locus_tag=MRSS_15_ign_00006
+MRSS_4	pseudofinder	gene	14423	15230	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_4_pseudo_00114;old_locus_tag=MRSS_4_ign_00008
+MRSS_6	pseudofinder	gene	14503	15005	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_6_pseudo_00115;old_locus_tag=MRSS_6_ign_00009
+MRSS_5	pseudofinder	gene	14578	14663	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 9 blast hits.;locus_tag=MRSS_5_pseudo_00116;old_locus_tag=MRSS_5_ign_00008
+MRSS_5	pseudofinder	gene	14666	15831	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=MRSS_5_pseudo_00117;old_locus_tag=MRSS_00174,MRSS_00175
+MRSS_17	pseudofinder	gene	14952	15388	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00118;old_locus_tag=MRSS_17_ign_00006
+MRSS_16	pseudofinder	gene	15560	16140	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00119;old_locus_tag=MRSS_16_ign_00007
+MRSS_3	pseudofinder	gene	15930	16261	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00120;old_locus_tag=MRSS_3_ign_00010
+MRSS_20	pseudofinder	gene	15954	16294	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_20_pseudo_00121;old_locus_tag=MRSS_20_ign_00008
+MRSS_9	pseudofinder	gene	16063	16304	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_9_pseudo_00122;old_locus_tag=MRSS_9_ign_00009
+MRSS_6	pseudofinder	gene	16204	17135	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_6_pseudo_00123;old_locus_tag=MRSS_6_ign_00010
+MRSS_5	pseudofinder	gene	16240	16658	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00124;old_locus_tag=MRSS_5_ign_00009
+MRSS_17	pseudofinder	gene	16318	16856	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00125;old_locus_tag=MRSS_17_ign_00007
+MRSS_22	pseudofinder	gene	16567	16925	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_22_pseudo_00126;old_locus_tag=MRSS_22_ign_00009
+MRSS_13	pseudofinder	gene	16711	17459	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00127;old_locus_tag=MRSS_13_ign_00009
+MRSS_18	pseudofinder	gene	16934	17307	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_18_pseudo_00128;old_locus_tag=MRSS_18_ign_00007
+MRSS_2	pseudofinder	gene	17157	17495	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 38.7%25 of the average length of hits to this gene.;locus_tag=MRSS_2_pseudo_00129;old_locus_tag=MRSS_00015
+MRSS_9	pseudofinder	gene	17410	18027	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 57.6%25 of the average length of hits to this gene.;locus_tag=MRSS_9_pseudo_00130;old_locus_tag=MRSS_00405
+MRSS_11	pseudofinder	gene	17661	17872	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00131;old_locus_tag=MRSS_11_ign_00011
+MRSS_2	pseudofinder	gene	17762	18968	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_2_pseudo_00132;old_locus_tag=MRSS_2_ign_00007
+MRSS_19	pseudofinder	gene	17847	19427	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_19_pseudo_00133;old_locus_tag=MRSS_19_ign_00008
+MRSS_11	pseudofinder	gene	17877	18224	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 38.0%25 of the average length of hits to this gene.;locus_tag=MRSS_11_pseudo_00134;old_locus_tag=MRSS_00435
+MRSS_8	pseudofinder	gene	18151	18428	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00135;old_locus_tag=MRSS_8_ign_00008
+MRSS_7	pseudofinder	gene	18230	18456	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_7_pseudo_00136;old_locus_tag=MRSS_7_ign_00008
+MRSS_3	pseudofinder	gene	18246	19064	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00137;old_locus_tag=MRSS_3_ign_00011
+MRSS_17	pseudofinder	gene	18340	18543	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 36.5%25 of the average length of hits to this gene.;locus_tag=MRSS_17_pseudo_00138;old_locus_tag=MRSS_00752
+MRSS_8	pseudofinder	gene	18431	18667	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 25.7%25 of the average length of hits to this gene.;locus_tag=MRSS_8_pseudo_00139;old_locus_tag=MRSS_00331
+MRSS_5	pseudofinder	gene	18584	19802	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00140;old_locus_tag=MRSS_5_ign_00012
+MRSS_8	pseudofinder	gene	18668	18795	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00141;old_locus_tag=MRSS_8_ign_00009
+MRSS_9	pseudofinder	gene	19132	19568	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_9_pseudo_00142;old_locus_tag=MRSS_9_ign_00010
+MRSS_4	pseudofinder	gene	19283	19926	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_4_pseudo_00143;old_locus_tag=MRSS_4_ign_00009
+MRSS_17	pseudofinder	gene	19354	19850	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00144;old_locus_tag=MRSS_17_ign_00008
+MRSS_14	pseudofinder	gene	19377	19858	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_14_pseudo_00145;old_locus_tag=MRSS_14_ign_00008
+MRSS_7	pseudofinder	gene	19564	19858	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_7_pseudo_00146;old_locus_tag=MRSS_7_ign_00009
+MRSS_8	pseudofinder	gene	19739	20049	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00147;old_locus_tag=MRSS_8_ign_00010
+MRSS_17	pseudofinder	gene	20064	21192	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=MRSS_17_pseudo_00148;old_locus_tag=MRSS_17_ign_00009,MRSS_00753
+MRSS_4	pseudofinder	gene	20356	20465	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 10 blast hits.;locus_tag=MRSS_4_pseudo_00149;old_locus_tag=MRSS_4_ign_00010
+MRSS_18	pseudofinder	gene	20527	21269	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_18_pseudo_00150;old_locus_tag=MRSS_18_ign_00008
+MRSS_19	pseudofinder	gene	21308	21486	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_19_pseudo_00151;old_locus_tag=MRSS_19_ign_00009
+MRSS_19	pseudofinder	gene	21664	21822	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 26.9%25 of the average length of hits to this gene.;locus_tag=MRSS_19_pseudo_00152;old_locus_tag=MRSS_00818
+MRSS_16	pseudofinder	gene	21697	22103	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00153;old_locus_tag=MRSS_16_ign_00010
+MRSS_20	pseudofinder	gene	21736	22280	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_20_pseudo_00154;old_locus_tag=MRSS_20_ign_00012
+MRSS_3	pseudofinder	gene	22278	22528	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00155;old_locus_tag=MRSS_3_ign_00014
+MRSS_13	pseudofinder	gene	22490	22710	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00156;old_locus_tag=MRSS_13_ign_00012
+MRSS_11	pseudofinder	gene	23189	23556	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00157;old_locus_tag=MRSS_11_ign_00014
+MRSS_13	pseudofinder	gene	23251	23844	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00158;old_locus_tag=MRSS_13_ign_00013
+MRSS_18	pseudofinder	gene	23570	23772	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_18_pseudo_00159;old_locus_tag=MRSS_18_ign_00009
+MRSS_8	pseudofinder	gene	23621	23868	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00160;old_locus_tag=MRSS_8_ign_00013
+MRSS_11	pseudofinder	gene	23702	24836	.	+	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=MRSS_11_pseudo_00161;old_locus_tag=MRSS_00439,MRSS_11_ign_00015,MRSS_00440
+MRSS_3	pseudofinder	gene	23841	24283	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00162;old_locus_tag=MRSS_3_ign_00015
+MRSS_5	pseudofinder	gene	23873	24657	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00163;old_locus_tag=MRSS_5_ign_00016
+MRSS_20	pseudofinder	gene	24330	24418	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_20_pseudo_00164;old_locus_tag=MRSS_20_ign_00015
+MRSS_2	pseudofinder	gene	24694	24971	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_2_pseudo_00165;old_locus_tag=MRSS_2_ign_00010
+MRSS_13	pseudofinder	gene	24803	25608	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00166;old_locus_tag=MRSS_13_ign_00014
+MRSS_16	pseudofinder	gene	24860	25302	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00167;old_locus_tag=MRSS_16_ign_00012
+MRSS_8	pseudofinder	gene	25252	25790	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00168;old_locus_tag=MRSS_8_ign_00014
+MRSS_11	pseudofinder	gene	25319	25734	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00169;old_locus_tag=MRSS_11_ign_00016
+MRSS_16	pseudofinder	gene	25712	26011	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 47.6%25 of the average length of hits to this gene.;locus_tag=MRSS_16_pseudo_00170;old_locus_tag=MRSS_00699
+MRSS_17	pseudofinder	gene	25781	26724	.	+	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=MRSS_17_pseudo_00171;old_locus_tag=MRSS_00759,MRSS_17_ign_00014
+MRSS_16	pseudofinder	gene	26016	26296	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00172;old_locus_tag=MRSS_16_ign_00013
+MRSS_20	pseudofinder	gene	26332	26510	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_20_pseudo_00173;old_locus_tag=MRSS_20_ign_00017
+MRSS_20	pseudofinder	gene	26565	26801	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 30.5%25 of the average length of hits to this gene.;locus_tag=MRSS_20_pseudo_00174;old_locus_tag=MRSS_00838
+MRSS_8	pseudofinder	gene	26616	26758	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00175;old_locus_tag=MRSS_8_ign_00015
+MRSS_16	pseudofinder	gene	26620	28254	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=MRSS_16_pseudo_00176;old_locus_tag=MRSS_16_ign_00014,MRSS_00700,MRSS_00701
+MRSS_11	pseudofinder	gene	26650	26831	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00177;old_locus_tag=MRSS_11_ign_00017
+MRSS_4	pseudofinder	gene	26652	27106	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_4_pseudo_00178;old_locus_tag=MRSS_4_ign_00013
+MRSS_13	pseudofinder	gene	26789	27285	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00179;old_locus_tag=MRSS_13_ign_00015
+MRSS_11	pseudofinder	gene	26934	28113	.	+	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=MRSS_11_pseudo_00180;old_locus_tag=MRSS_00443,MRSS_11_ign_00018,MRSS_00442
+MRSS_22	pseudofinder	gene	27375	28312	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_22_pseudo_00181;old_locus_tag=MRSS_22_ign_00016
+MRSS_8	pseudofinder	gene	27710	28065	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00182;old_locus_tag=MRSS_8_ign_00016
+MRSS_11	pseudofinder	gene	28136	28306	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 8.7%25 of the average length of hits to this gene.;locus_tag=MRSS_11_pseudo_00183;old_locus_tag=MRSS_00444
+MRSS_16	pseudofinder	gene	28265	28854	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00184;old_locus_tag=MRSS_16_ign_00015
+MRSS_11	pseudofinder	gene	28307	28587	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00185;old_locus_tag=MRSS_11_ign_00019
+MRSS_9	pseudofinder	gene	28554	28804	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_9_pseudo_00186;old_locus_tag=MRSS_9_ign_00014
+MRSS_3	pseudofinder	gene	28917	30052	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00187;old_locus_tag=MRSS_3_ign_00017
+MRSS_16	pseudofinder	gene	29164	29628	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 61.5%25 of the average length of hits to this gene.;locus_tag=MRSS_16_pseudo_00188;old_locus_tag=MRSS_00702
+MRSS_8	pseudofinder	gene	29180	29356	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 28.2%25 of the average length of hits to this gene.;locus_tag=MRSS_8_pseudo_00189;old_locus_tag=MRSS_00341
+MRSS_8	pseudofinder	gene	29400	29593	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00190;old_locus_tag=MRSS_8_ign_00018
+MRSS_4	pseudofinder	gene	29489	29907	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_4_pseudo_00191;old_locus_tag=MRSS_4_ign_00014
+MRSS_20	pseudofinder	gene	29812	30596	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_20_pseudo_00192;old_locus_tag=MRSS_20_ign_00019
+MRSS_5	pseudofinder	gene	30731	31080	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00193;old_locus_tag=MRSS_5_ign_00017
+MRSS_9	pseudofinder	gene	31114	31538	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_9_pseudo_00194;old_locus_tag=MRSS_9_ign_00015
+MRSS_16	pseudofinder	gene	31888	32306	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00195;old_locus_tag=MRSS_16_ign_00017
+MRSS_16	pseudofinder	gene	32623	33152	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00196;old_locus_tag=MRSS_16_ign_00018
+MRSS_11	pseudofinder	gene	32902	33770	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00197;old_locus_tag=MRSS_11_ign_00022
+MRSS_9	pseudofinder	gene	33579	33784	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_9_pseudo_00198;old_locus_tag=MRSS_9_ign_00016
+MRSS_3	pseudofinder	gene	33662	34266	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00199;old_locus_tag=MRSS_3_ign_00018
+MRSS_9	pseudofinder	gene	33881	34015	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 29.8%25 of the average length of hits to this gene.;locus_tag=MRSS_9_pseudo_00200;old_locus_tag=MRSS_00412
+MRSS_13	pseudofinder	gene	34104	34879	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00201;old_locus_tag=MRSS_13_ign_00018
+MRSS_9	pseudofinder	gene	34700	35169	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_9_pseudo_00202;old_locus_tag=MRSS_9_ign_00017
+MRSS_11	pseudofinder	gene	35092	35183	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 9 blast hits.;locus_tag=MRSS_11_pseudo_00203;old_locus_tag=MRSS_11_ign_00023
+MRSS_11	pseudofinder	gene	35185	35448	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 29.0%25 of the average length of hits to this gene.;locus_tag=MRSS_11_pseudo_00204;old_locus_tag=MRSS_00449
+MRSS_8	pseudofinder	gene	35381	35673	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00205;old_locus_tag=MRSS_8_ign_00022
+MRSS_22	pseudofinder	gene	35457	35959	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_22_pseudo_00206;old_locus_tag=MRSS_22_ign_00020
+MRSS_5	pseudofinder	gene	35731	36029	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00207;old_locus_tag=MRSS_5_ign_00018
+MRSS_16	pseudofinder	gene	35745	36256	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00208;old_locus_tag=MRSS_16_ign_00020
+MRSS_11	pseudofinder	gene	35827	36332	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00209;old_locus_tag=MRSS_11_ign_00024
+MRSS_17	pseudofinder	gene	35944	36197	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00210;old_locus_tag=MRSS_17_ign_00018
+MRSS_4	pseudofinder	gene	35989	36245	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_4_pseudo_00211;old_locus_tag=MRSS_4_ign_00019
+MRSS_13	pseudofinder	gene	36017	36195	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00212;old_locus_tag=MRSS_13_ign_00019
+MRSS_3	pseudofinder	gene	36072	36235	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00213;old_locus_tag=MRSS_3_ign_00019
+MRSS_20	pseudofinder	gene	36420	36631	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_20_pseudo_00214;old_locus_tag=MRSS_20_ign_00021
+MRSS_8	pseudofinder	gene	37394	37677	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00215;old_locus_tag=MRSS_8_ign_00023
+MRSS_20	pseudofinder	gene	37526	37767	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_20_pseudo_00216;old_locus_tag=MRSS_20_ign_00022
+MRSS_13	pseudofinder	gene	37600	37703	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 8 blast hits.;locus_tag=MRSS_13_pseudo_00217;old_locus_tag=MRSS_13_ign_00020
+MRSS_8	pseudofinder	gene	37886	38206	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00218;old_locus_tag=MRSS_8_ign_00024
+MRSS_9	pseudofinder	gene	38091	38506	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_9_pseudo_00219;old_locus_tag=MRSS_9_ign_00018
+MRSS_16	pseudofinder	gene	38119	38369	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00220;old_locus_tag=MRSS_16_ign_00022
+MRSS_4	pseudofinder	gene	38229	38515	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_4_pseudo_00221;old_locus_tag=MRSS_4_ign_00020
+MRSS_13	pseudofinder	gene	38333	38683	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 152.1%25 of the average length of hits to this gene.;locus_tag=MRSS_13_pseudo_00222;old_locus_tag=MRSS_00606
+MRSS_3	pseudofinder	gene	38534	38835	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00223;old_locus_tag=MRSS_3_ign_00020
+MRSS_11	pseudofinder	gene	38668	39278	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00224;old_locus_tag=MRSS_11_ign_00025
+MRSS_22	pseudofinder	gene	38739	38932	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_22_pseudo_00225;old_locus_tag=MRSS_22_ign_00021
+MRSS_8	pseudofinder	gene	39016	39236	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00226;old_locus_tag=MRSS_8_ign_00025
+MRSS_16	pseudofinder	gene	39597	39899	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 43.5%25 of the average length of hits to this gene.;locus_tag=MRSS_16_pseudo_00227;old_locus_tag=MRSS_00710
+MRSS_16	pseudofinder	gene	39900	40294	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00228;old_locus_tag=MRSS_16_ign_00023
+MRSS_6	pseudofinder	gene	39903	40195	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_6_pseudo_00229;old_locus_tag=MRSS_6_ign_00023
+MRSS_8	pseudofinder	gene	40370	41331	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00230;old_locus_tag=MRSS_8_ign_00026
+MRSS_17	pseudofinder	gene	40788	41707	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00231;old_locus_tag=MRSS_17_ign_00019
+MRSS_5	pseudofinder	gene	40942	41834	.	+	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=MRSS_5_pseudo_00232;old_locus_tag=MRSS_00191,MRSS_00190
+MRSS_11	pseudofinder	gene	40993	41417	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00233;old_locus_tag=MRSS_11_ign_00026
+MRSS_16	pseudofinder	gene	41194	41411	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00234;old_locus_tag=MRSS_16_ign_00024
+MRSS_13	pseudofinder	gene	41417	42288	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00235;old_locus_tag=MRSS_13_ign_00022
+MRSS_16	pseudofinder	gene	41544	43119	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=MRSS_16_pseudo_00236;old_locus_tag=MRSS_16_ign_00025,MRSS_00713,MRSS_00712
+MRSS_6	pseudofinder	gene	41854	42084	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 50.0%25 of the average length of hits to this gene.;locus_tag=MRSS_6_pseudo_00237;old_locus_tag=MRSS_00302
+MRSS_6	pseudofinder	gene	42086	42285	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_6_pseudo_00238;old_locus_tag=MRSS_6_ign_00024
+MRSS_4	pseudofinder	gene	42795	43201	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_4_pseudo_00239;old_locus_tag=MRSS_4_ign_00022
+MRSS_8	pseudofinder	gene	42847	43115	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00240;old_locus_tag=MRSS_8_ign_00027
+MRSS_16	pseudofinder	gene	43122	43555	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00241;old_locus_tag=MRSS_16_ign_00026
+MRSS_8	pseudofinder	gene	43128	43400	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 30.7%25 of the average length of hits to this gene.;locus_tag=MRSS_8_pseudo_00242;old_locus_tag=MRSS_00351
+MRSS_3	pseudofinder	gene	43509	43657	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00243;old_locus_tag=MRSS_3_ign_00022
+MRSS_3	pseudofinder	gene	43659	43943	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 49.7%25 of the average length of hits to this gene.;locus_tag=MRSS_3_pseudo_00244;old_locus_tag=MRSS_00050
+MRSS_13	pseudofinder	gene	43707	44436	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00245;old_locus_tag=MRSS_13_ign_00023
+MRSS_16	pseudofinder	gene	43722	44014	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00246;old_locus_tag=MRSS_16_ign_00027
+MRSS_9	pseudofinder	gene	43900	45338	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_9_pseudo_00247;old_locus_tag=MRSS_9_ign_00020
+MRSS_17	pseudofinder	gene	44245	44932	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00248;old_locus_tag=MRSS_17_ign_00020
+MRSS_3	pseudofinder	gene	44275	44513	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00249;old_locus_tag=MRSS_3_ign_00023
+MRSS_5	pseudofinder	gene	44527	45058	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00250;old_locus_tag=MRSS_5_ign_00019
+MRSS_16	pseudofinder	gene	44562	44693	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 14.4%25 of the average length of hits to this gene.;locus_tag=MRSS_16_pseudo_00251;old_locus_tag=MRSS_00715
+MRSS_16	pseudofinder	gene	44696	44955	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00252;old_locus_tag=MRSS_16_ign_00028
+MRSS_8	pseudofinder	gene	44780	45677	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00253;old_locus_tag=MRSS_8_ign_00028
+MRSS_17	pseudofinder	gene	44953	45216	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 29.9%25 of the average length of hits to this gene.;locus_tag=MRSS_17_pseudo_00254;old_locus_tag=MRSS_00771
+MRSS_4	pseudofinder	gene	45216	45853	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_4_pseudo_00255;old_locus_tag=MRSS_4_ign_00023
+MRSS_11	pseudofinder	gene	45264	45454	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00256;old_locus_tag=MRSS_11_ign_00028
+MRSS_17	pseudofinder	gene	46101	46294	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00257;old_locus_tag=MRSS_17_ign_00022
+MRSS_5	pseudofinder	gene	46405	47009	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00258;old_locus_tag=MRSS_5_ign_00020
+MRSS_20	pseudofinder	gene	46480	46589	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 10 blast hits.;locus_tag=MRSS_20_pseudo_00259;old_locus_tag=MRSS_20_ign_00025
+MRSS_6	pseudofinder	gene	46553	46869	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_6_pseudo_00260;old_locus_tag=MRSS_6_ign_00025
+MRSS_20	pseudofinder	gene	46602	47174	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 61.0%25 of the average length of hits to this gene.;locus_tag=MRSS_20_pseudo_00261;old_locus_tag=MRSS_00849
+MRSS_17	pseudofinder	gene	46665	46978	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00262;old_locus_tag=MRSS_17_ign_00023
+MRSS_8	pseudofinder	gene	46841	47316	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00263;old_locus_tag=MRSS_8_ign_00029
+MRSS_9	pseudofinder	gene	46959	47104	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_9_pseudo_00264;old_locus_tag=MRSS_9_ign_00021
+MRSS_20	pseudofinder	gene	47176	47514	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_20_pseudo_00265;old_locus_tag=MRSS_20_ign_00026
+MRSS_9	pseudofinder	gene	47263	47439	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 19.2%25 of the average length of hits to this gene.;locus_tag=MRSS_9_pseudo_00266;old_locus_tag=MRSS_00417
+MRSS_9	pseudofinder	gene	47523	47826	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_9_pseudo_00267;old_locus_tag=MRSS_9_ign_00022
+MRSS_11	pseudofinder	gene	47644	47754	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 11.9%25 of the average length of hits to this gene.;locus_tag=MRSS_11_pseudo_00268;old_locus_tag=MRSS_00455
+MRSS_11	pseudofinder	gene	47755	48434	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00269;old_locus_tag=MRSS_11_ign_00029
+MRSS_20	pseudofinder	gene	48056	48322	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 31.8%25 of the average length of hits to this gene.;locus_tag=MRSS_20_pseudo_00270;old_locus_tag=MRSS_00850
+MRSS_13	pseudofinder	gene	48058	48559	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 11 blast hits.;locus_tag=MRSS_13_pseudo_00271;old_locus_tag=MRSS_13_ign_00024
+MRSS_20	pseudofinder	gene	48338	48697	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_20_pseudo_00272;old_locus_tag=MRSS_20_ign_00027
+MRSS_16	pseudofinder	gene	48459	48949	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00273;old_locus_tag=MRSS_16_ign_00029
+MRSS_13	pseudofinder	gene	48718	49371	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=MRSS_13_pseudo_00274;old_locus_tag=MRSS_00613,MRSS_13_ign_00025,MRSS_00614
+MRSS_17	pseudofinder	gene	49028	49347	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00275;old_locus_tag=MRSS_17_ign_00024
+MRSS_17	pseudofinder	gene	49349	49459	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 30.8%25 of the average length of hits to this gene.;locus_tag=MRSS_17_pseudo_00276;old_locus_tag=MRSS_00775
+MRSS_5	pseudofinder	gene	49474	49880	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00277;old_locus_tag=MRSS_5_ign_00022
+MRSS_16	pseudofinder	gene	49516	49704	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 32.6%25 of the average length of hits to this gene.;locus_tag=MRSS_16_pseudo_00278;old_locus_tag=MRSS_00718
+MRSS_16	pseudofinder	gene	49773	49963	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 8 blast hits.;locus_tag=MRSS_16_pseudo_00279;old_locus_tag=MRSS_16_ign_00030
+MRSS_16	pseudofinder	gene	50187	57430	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00280;old_locus_tag=MRSS_16_ign_00031
+MRSS_13	pseudofinder	gene	50243	50418	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00281;old_locus_tag=MRSS_13_ign_00027
+MRSS_17	pseudofinder	gene	50495	51084	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00282;old_locus_tag=MRSS_17_ign_00026
+MRSS_8	pseudofinder	gene	50810	50910	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00283;old_locus_tag=MRSS_8_ign_00030
+MRSS_20	pseudofinder	gene	50949	51424	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_20_pseudo_00284;old_locus_tag=MRSS_20_ign_00029
+MRSS_8	pseudofinder	gene	50951	51394	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 51.7%25 of the average length of hits to this gene.;locus_tag=MRSS_8_pseudo_00285;old_locus_tag=MRSS_00354
+MRSS_13	pseudofinder	gene	51053	51253	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 31.0%25 of the average length of hits to this gene.;locus_tag=MRSS_13_pseudo_00286;old_locus_tag=MRSS_00616
+MRSS_13	pseudofinder	gene	51297	51673	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00287;old_locus_tag=MRSS_13_ign_00028
+MRSS_8	pseudofinder	gene	51486	52380	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00288;old_locus_tag=MRSS_8_ign_00031
+MRSS_3	pseudofinder	gene	51509	52062	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00289;old_locus_tag=MRSS_3_ign_00025
+MRSS_20	pseudofinder	gene	51593	52320	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_20_pseudo_00290;old_locus_tag=MRSS_20_ign_00030
+MRSS_20	pseudofinder	gene	52781	53031	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_20_pseudo_00291;old_locus_tag=MRSS_20_ign_00031
+MRSS_17	pseudofinder	gene	53143	53597	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00292;old_locus_tag=MRSS_17_ign_00027
+MRSS_3	pseudofinder	gene	54218	54543	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00293;old_locus_tag=MRSS_3_ign_00026
+MRSS_8	pseudofinder	gene	54271	54395	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00294;old_locus_tag=MRSS_8_ign_00032
+MRSS_13	pseudofinder	gene	54357	55066	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00295;old_locus_tag=MRSS_13_ign_00029
+MRSS_11	pseudofinder	gene	54455	56203	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 186.3%25 of the average length of hits to this gene.;locus_tag=MRSS_11_pseudo_00296;old_locus_tag=MRSS_00463
+MRSS_3	pseudofinder	gene	54957	55102	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00297;old_locus_tag=MRSS_3_ign_00027
+MRSS_20	pseudofinder	gene	54989	55362	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_20_pseudo_00298;old_locus_tag=MRSS_20_ign_00032
+MRSS_5	pseudofinder	gene	55161	55330	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00299;old_locus_tag=MRSS_5_ign_00024
+MRSS_5	pseudofinder	gene	56446	56717	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00300;old_locus_tag=MRSS_5_ign_00025
+MRSS_20	pseudofinder	gene	57202	57674	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_20_pseudo_00301;old_locus_tag=MRSS_20_ign_00033
+MRSS_5	pseudofinder	gene	57750	58261	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00302;old_locus_tag=MRSS_5_ign_00026
+MRSS_11	pseudofinder	gene	57830	58014	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00303;old_locus_tag=MRSS_11_ign_00031
+MRSS_13	pseudofinder	gene	57981	58276	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 11 blast hits.;locus_tag=MRSS_13_pseudo_00304;old_locus_tag=MRSS_13_ign_00031
+MRSS_16	pseudofinder	gene	58011	58144	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00305;old_locus_tag=MRSS_16_ign_00032
+MRSS_17	pseudofinder	gene	58067	58632	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00306;old_locus_tag=MRSS_17_ign_00028
+MRSS_13	pseudofinder	gene	59725	60554	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00307;old_locus_tag=MRSS_13_ign_00032
+MRSS_3	pseudofinder	gene	59804	60353	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00308;old_locus_tag=MRSS_3_ign_00028
+MRSS_11	pseudofinder	gene	60106	60842	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00309;old_locus_tag=MRSS_11_ign_00033
+MRSS_17	pseudofinder	gene	60342	60745	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00310;old_locus_tag=MRSS_17_ign_00029
+MRSS_8	pseudofinder	gene	60836	61029	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00311;old_locus_tag=MRSS_8_ign_00034
+MRSS_16	pseudofinder	gene	61537	61836	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 57.1%25 of the average length of hits to this gene.;locus_tag=MRSS_16_pseudo_00312;old_locus_tag=MRSS_00724
+MRSS_3	pseudofinder	gene	62346	62785	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00313;old_locus_tag=MRSS_3_ign_00029
+MRSS_16	pseudofinder	gene	63032	63573	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00314;old_locus_tag=MRSS_16_ign_00036
+MRSS_5	pseudofinder	gene	63433	63642	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 22.2%25 of the average length of hits to this gene.;locus_tag=MRSS_5_pseudo_00315;old_locus_tag=MRSS_00203
+MRSS_17	pseudofinder	gene	63725	63912	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00316;old_locus_tag=MRSS_17_ign_00032
+MRSS_8	pseudofinder	gene	63836	64794	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00317;old_locus_tag=MRSS_8_ign_00036
+MRSS_11	pseudofinder	gene	64095	64307	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 41.2%25 of the average length of hits to this gene.;locus_tag=MRSS_11_pseudo_00318;old_locus_tag=MRSS_00471
+MRSS_3	pseudofinder	gene	64170	65038	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00319;old_locus_tag=MRSS_3_ign_00030
+MRSS_11	pseudofinder	gene	64480	64892	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00320;old_locus_tag=MRSS_11_ign_00036
+MRSS_13	pseudofinder	gene	64602	65263	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00321;old_locus_tag=MRSS_13_ign_00034
+MRSS_17	pseudofinder	gene	66071	66627	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00322;old_locus_tag=MRSS_17_ign_00033
+MRSS_5	pseudofinder	gene	66543	66838	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00323;old_locus_tag=MRSS_5_ign_00031
+MRSS_8	pseudofinder	gene	67527	67903	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00324;old_locus_tag=MRSS_8_ign_00038
+MRSS_3	pseudofinder	gene	68216	68724	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00325;old_locus_tag=MRSS_3_ign_00033
+MRSS_13	pseudofinder	gene	68343	68797	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00326;old_locus_tag=MRSS_13_ign_00035
+MRSS_16	pseudofinder	gene	68538	68770	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00327;old_locus_tag=MRSS_16_ign_00037
+MRSS_17	pseudofinder	gene	68651	68850	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00328;old_locus_tag=MRSS_17_ign_00034
+MRSS_16	pseudofinder	gene	69010	69174	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 12.1%25 of the average length of hits to this gene.;locus_tag=MRSS_16_pseudo_00329;old_locus_tag=MRSS_00726
+MRSS_13	pseudofinder	gene	69507	69958	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00330;old_locus_tag=MRSS_13_ign_00036
+MRSS_8	pseudofinder	gene	69553	69887	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00331;old_locus_tag=MRSS_8_ign_00039
+MRSS_16	pseudofinder	gene	70029	70225	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00332;old_locus_tag=MRSS_16_ign_00038
+MRSS_11	pseudofinder	gene	70284	70600	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00333;old_locus_tag=MRSS_11_ign_00039
+MRSS_5	pseudofinder	gene	70856	70941	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00334;old_locus_tag=MRSS_5_ign_00032
+MRSS_13	pseudofinder	gene	71390	71757	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00335;old_locus_tag=MRSS_13_ign_00037
+MRSS_8	pseudofinder	gene	71399	71574	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00336;old_locus_tag=MRSS_8_ign_00041
+MRSS_8	pseudofinder	gene	71721	71924	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 27.0%25 of the average length of hits to this gene.;locus_tag=MRSS_8_pseudo_00337;old_locus_tag=MRSS_00367
+MRSS_16	pseudofinder	gene	71842	71951	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00338;old_locus_tag=MRSS_16_ign_00039
+MRSS_17	pseudofinder	gene	71985	72412	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00339;old_locus_tag=MRSS_17_ign_00038
+MRSS_16	pseudofinder	gene	72103	72410	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00340;old_locus_tag=MRSS_16_ign_00040
+MRSS_16	pseudofinder	gene	72981	73412	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 39.9%25 of the average length of hits to this gene.;locus_tag=MRSS_16_pseudo_00341;old_locus_tag=MRSS_00729
+MRSS_8	pseudofinder	gene	73092	73315	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00342;old_locus_tag=MRSS_8_ign_00042
+MRSS_16	pseudofinder	gene	73415	73662	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00343;old_locus_tag=MRSS_16_ign_00041
+MRSS_5	pseudofinder	gene	74036	74214	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00344;old_locus_tag=MRSS_5_ign_00033
+MRSS_5	pseudofinder	gene	74456	74583	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00345;old_locus_tag=MRSS_5_ign_00034
+MRSS_16	pseudofinder	gene	74611	75308	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00346;old_locus_tag=MRSS_16_ign_00042
+MRSS_13	pseudofinder	gene	75176	75763	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00347;old_locus_tag=MRSS_13_ign_00040
+MRSS_3	pseudofinder	gene	75407	75990	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00348;old_locus_tag=MRSS_3_ign_00034
+MRSS_17	pseudofinder	gene	75687	76057	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00349;old_locus_tag=MRSS_17_ign_00039
+MRSS_8	pseudofinder	gene	75986	76545	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00350;old_locus_tag=MRSS_8_ign_00044
+MRSS_13	pseudofinder	gene	76495	76656	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 16.2%25 of the average length of hits to this gene.;locus_tag=MRSS_13_pseudo_00351;old_locus_tag=MRSS_00631
+MRSS_5	pseudofinder	gene	77032	77903	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00352;old_locus_tag=MRSS_5_ign_00036
+MRSS_8	pseudofinder	gene	77581	77648	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00353;old_locus_tag=MRSS_8_ign_00045
+MRSS_3	pseudofinder	gene	77667	77851	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00354;old_locus_tag=MRSS_3_ign_00035
+MRSS_17	pseudofinder	gene	78202	78434	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00355;old_locus_tag=MRSS_17_ign_00040
+MRSS_11	pseudofinder	gene	78383	78690	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00356;old_locus_tag=MRSS_11_ign_00044
+MRSS_13	pseudofinder	gene	78761	79988	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00357;old_locus_tag=MRSS_13_ign_00042
+MRSS_8	pseudofinder	gene	78789	79252	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00358;old_locus_tag=MRSS_8_ign_00046
+MRSS_3	pseudofinder	gene	79136	79290	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00359;old_locus_tag=MRSS_3_ign_00036
+MRSS_5	pseudofinder	gene	79382	80082	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00360;old_locus_tag=MRSS_5_ign_00037
+MRSS_3	pseudofinder	gene	79782	80486	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 21.3%25 of the average length of hits to this gene.;locus_tag=MRSS_3_pseudo_00361;old_locus_tag=MRSS_00069
+MRSS_3	pseudofinder	gene	80596	80966	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00362;old_locus_tag=MRSS_3_ign_00038
+MRSS_11	pseudofinder	gene	80717	80826	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 9 blast hits.;locus_tag=MRSS_11_pseudo_00363;old_locus_tag=MRSS_11_ign_00045
+MRSS_8	pseudofinder	gene	80752	81119	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00364;old_locus_tag=MRSS_8_ign_00047
+MRSS_3	pseudofinder	gene	82409	82950	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00365;old_locus_tag=MRSS_3_ign_00040
+MRSS_5	pseudofinder	gene	82701	83314	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00366;old_locus_tag=MRSS_5_ign_00038
+MRSS_13	pseudofinder	gene	82881	83254	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00367;old_locus_tag=MRSS_13_ign_00043
+MRSS_8	pseudofinder	gene	83015	83238	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00368;old_locus_tag=MRSS_8_ign_00048
+MRSS_17	pseudofinder	gene	83137	84042	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_17_pseudo_00369;old_locus_tag=MRSS_17_ign_00042
+MRSS_13	pseudofinder	gene	83345	84191	.	+	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=MRSS_13_pseudo_00370;old_locus_tag=MRSS_00634,MRSS_00635,MRSS_13_ign_00044
+MRSS_11	pseudofinder	gene	83613	84047	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00371;old_locus_tag=MRSS_11_ign_00046
+MRSS_13	pseudofinder	gene	84612	85534	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00372;old_locus_tag=MRSS_13_ign_00045
+MRSS_3	pseudofinder	gene	85117	85649	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00373;old_locus_tag=MRSS_3_ign_00041
+MRSS_8	pseudofinder	gene	85439	86049	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00374;old_locus_tag=MRSS_8_ign_00049
+MRSS_16	pseudofinder	gene	86202	86998	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_16_pseudo_00375;old_locus_tag=MRSS_16_ign_00050
+MRSS_11	pseudofinder	gene	86529	87431	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00376;old_locus_tag=MRSS_11_ign_00047
+MRSS_3	pseudofinder	gene	86669	87474	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00377;old_locus_tag=MRSS_3_ign_00042
+MRSS_5	pseudofinder	gene	87056	87531	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00378;old_locus_tag=MRSS_5_ign_00040
+MRSS_8	pseudofinder	gene	87724	88122	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00379;old_locus_tag=MRSS_8_ign_00050
+MRSS_5	pseudofinder	gene	87775	88337	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00380;old_locus_tag=MRSS_5_ign_00041
+MRSS_13	pseudofinder	gene	88120	88277	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00381;old_locus_tag=MRSS_13_ign_00046
+MRSS_11	pseudofinder	gene	88144	88329	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 41.1%25 of the average length of hits to this gene.;locus_tag=MRSS_11_pseudo_00382;old_locus_tag=MRSS_00487
+MRSS_3	pseudofinder	gene	88850	89205	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00383;old_locus_tag=MRSS_3_ign_00043
+MRSS_5	pseudofinder	gene	89340	90214	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00384;old_locus_tag=MRSS_5_ign_00044
+MRSS_11	pseudofinder	gene	89437	89804	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00385;old_locus_tag=MRSS_11_ign_00049
+MRSS_3	pseudofinder	gene	90763	91262	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00386;old_locus_tag=MRSS_3_ign_00044
+MRSS_3	pseudofinder	gene	92124	92527	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00387;old_locus_tag=MRSS_3_ign_00045
+MRSS_13	pseudofinder	gene	92241	92587	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00388;old_locus_tag=MRSS_13_ign_00047
+MRSS_3	pseudofinder	gene	92536	92778	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 33.0%25 of the average length of hits to this gene.;locus_tag=MRSS_3_pseudo_00389;old_locus_tag=MRSS_00077
+MRSS_13	pseudofinder	gene	92996	93991	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=MRSS_13_pseudo_00390;old_locus_tag=MRSS_00640,MRSS_00639
+MRSS_3	pseudofinder	gene	93063	93232	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00391;old_locus_tag=MRSS_3_ign_00046
+MRSS_11	pseudofinder	gene	93671	94318	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00392;old_locus_tag=MRSS_11_ign_00053
+MRSS_8	pseudofinder	gene	93970	94362	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00393;old_locus_tag=MRSS_8_ign_00054
+MRSS_3	pseudofinder	gene	94026	94159	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00394;old_locus_tag=MRSS_3_ign_00047
+MRSS_5	pseudofinder	gene	94071	94862	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00395;old_locus_tag=MRSS_5_ign_00046
+MRSS_13	pseudofinder	gene	94390	94631	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00396;old_locus_tag=MRSS_13_ign_00048
+MRSS_3	pseudofinder	gene	95822	96222	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00397;old_locus_tag=MRSS_3_ign_00048
+MRSS_5	pseudofinder	gene	95992	96921	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00398;old_locus_tag=MRSS_5_ign_00047
+MRSS_13	pseudofinder	gene	97331	97479	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 8 blast hits.;locus_tag=MRSS_13_pseudo_00399;old_locus_tag=MRSS_13_ign_00049
+MRSS_5	pseudofinder	gene	98119	98687	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00400;old_locus_tag=MRSS_5_ign_00048
+MRSS_8	pseudofinder	gene	98465	99032	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00401;old_locus_tag=MRSS_8_ign_00058
+MRSS_13	pseudofinder	gene	98672	98904	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00402;old_locus_tag=MRSS_13_ign_00051
+MRSS_5	pseudofinder	gene	100476	101458	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=MRSS_5_pseudo_00403;old_locus_tag=MRSS_00226,MRSS_00227,MRSS_5_ign_00049
+MRSS_3	pseudofinder	gene	101056	101831	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00404;old_locus_tag=MRSS_3_ign_00050
+MRSS_5	pseudofinder	gene	101459	101559	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00405;old_locus_tag=MRSS_5_ign_00050
+MRSS_5	pseudofinder	gene	102672	102928	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00406;old_locus_tag=MRSS_5_ign_00051
+MRSS_3	pseudofinder	gene	102797	103419	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00407;old_locus_tag=MRSS_3_ign_00051
+MRSS_8	pseudofinder	gene	103812	104104	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00408;old_locus_tag=MRSS_8_ign_00059
+MRSS_8	pseudofinder	gene	105790	105998	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_8_pseudo_00409;old_locus_tag=MRSS_8_ign_00060
+MRSS_3	pseudofinder	gene	107148	107724	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00410;old_locus_tag=MRSS_3_ign_00053
+MRSS_11	pseudofinder	gene	109373	109590	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00411;old_locus_tag=MRSS_11_ign_00060
+MRSS_5	pseudofinder	gene	109684	110036	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00412;old_locus_tag=MRSS_5_ign_00054
+MRSS_5	pseudofinder	gene	110157	110489	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 42.1%25 of the average length of hits to this gene.;locus_tag=MRSS_5_pseudo_00413;old_locus_tag=MRSS_00233
+MRSS_5	pseudofinder	gene	110740	110927	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00414;old_locus_tag=MRSS_5_ign_00055
+MRSS_13	pseudofinder	gene	110760	111385	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00415;old_locus_tag=MRSS_13_ign_00059
+MRSS_3	pseudofinder	gene	111183	112045	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00416;old_locus_tag=MRSS_3_ign_00055
+MRSS_11	pseudofinder	gene	112067	112260	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00417;old_locus_tag=MRSS_11_ign_00061
+MRSS_5	pseudofinder	gene	112402	113063	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00418;old_locus_tag=MRSS_5_ign_00056
+MRSS_3	pseudofinder	gene	114301	114647	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00419;old_locus_tag=MRSS_3_ign_00056
+MRSS_11	pseudofinder	gene	114551	114765	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00420;old_locus_tag=MRSS_11_ign_00063
+MRSS_5	pseudofinder	gene	115197	115633	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00421;old_locus_tag=MRSS_5_ign_00057
+MRSS_5	pseudofinder	gene	116494	117707	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00422;old_locus_tag=MRSS_5_ign_00058
+MRSS_13	pseudofinder	gene	117698	118203	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00423;old_locus_tag=MRSS_13_ign_00063
+MRSS_5	pseudofinder	gene	118140	118615	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00424;old_locus_tag=MRSS_5_ign_00059
+MRSS_5	pseudofinder	gene	118665	118850	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 23.5%25 of the average length of hits to this gene.;locus_tag=MRSS_5_pseudo_00425;old_locus_tag=MRSS_00238
+MRSS_13	pseudofinder	gene	120222	120379	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00426;old_locus_tag=MRSS_13_ign_00066
+MRSS_5	pseudofinder	gene	120826	121682	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00427;old_locus_tag=MRSS_5_ign_00060
+MRSS_3	pseudofinder	gene	121132	121405	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00428;old_locus_tag=MRSS_3_ign_00060
+MRSS_3	pseudofinder	gene	121573	121752	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 21.1%25 of the average length of hits to this gene.;locus_tag=MRSS_3_pseudo_00429;old_locus_tag=MRSS_00093
+MRSS_3	pseudofinder	gene	121866	122062	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00430;old_locus_tag=MRSS_3_ign_00061
+MRSS_13	pseudofinder	gene	121874	122451	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00431;old_locus_tag=MRSS_13_ign_00067
+MRSS_3	pseudofinder	gene	122064	122408	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 43.6%25 of the average length of hits to this gene.;locus_tag=MRSS_3_pseudo_00432;old_locus_tag=MRSS_00094
+MRSS_3	pseudofinder	gene	123063	123682	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00433;old_locus_tag=MRSS_3_ign_00062
+MRSS_13	pseudofinder	gene	124078	124292	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00434;old_locus_tag=MRSS_13_ign_00068
+MRSS_5	pseudofinder	gene	125282	125721	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00435;old_locus_tag=MRSS_5_ign_00062
+MRSS_5	pseudofinder	gene	127081	127448	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00436;old_locus_tag=MRSS_5_ign_00063
+MRSS_5	pseudofinder	gene	128977	129858	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00437;old_locus_tag=MRSS_5_ign_00064
+MRSS_3	pseudofinder	gene	129468	129898	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00438;old_locus_tag=MRSS_3_ign_00064
+MRSS_13	pseudofinder	gene	131164	131858	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00439;old_locus_tag=MRSS_13_ign_00070
+MRSS_3	pseudofinder	gene	131644	132386	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00440;old_locus_tag=MRSS_3_ign_00065
+MRSS_5	pseudofinder	gene	132248	132750	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00441;old_locus_tag=MRSS_5_ign_00065
+MRSS_11	pseudofinder	gene	133949	134237	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00442;old_locus_tag=MRSS_11_ign_00071
+MRSS_13	pseudofinder	gene	134213	134931	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00443;old_locus_tag=MRSS_13_ign_00071
+MRSS_3	pseudofinder	gene	134436	134797	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00444;old_locus_tag=MRSS_3_ign_00066
+MRSS_13	pseudofinder	gene	136586	137178	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_13_pseudo_00445;old_locus_tag=MRSS_13_ign_00072
+MRSS_5	pseudofinder	gene	136633	136824	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 24.2%25 of the average length of hits to this gene.;locus_tag=MRSS_5_pseudo_00446;old_locus_tag=MRSS_00250
+MRSS_11	pseudofinder	gene	137696	138006	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00447;old_locus_tag=MRSS_11_ign_00072
+MRSS_3	pseudofinder	gene	137820	138154	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00448;old_locus_tag=MRSS_3_ign_00067
+MRSS_5	pseudofinder	gene	138348	138679	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00449;old_locus_tag=MRSS_5_ign_00067
+MRSS_3	pseudofinder	gene	139597	139730	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00450;old_locus_tag=MRSS_3_ign_00068
+MRSS_3	pseudofinder	gene	140209	140342	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00451;old_locus_tag=MRSS_3_ign_00069
+MRSS_5	pseudofinder	gene	141556	141677	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00452;old_locus_tag=MRSS_5_ign_00068
+MRSS_5	pseudofinder	gene	142826	143478	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00453;old_locus_tag=MRSS_5_ign_00069
+MRSS_5	pseudofinder	gene	143788	144000	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 20.8%25 of the average length of hits to this gene.;locus_tag=MRSS_5_pseudo_00454;old_locus_tag=MRSS_00253
+MRSS_11	pseudofinder	gene	144052	144494	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00455;old_locus_tag=MRSS_11_ign_00075
+MRSS_3	pseudofinder	gene	146259	146722	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00456;old_locus_tag=MRSS_3_ign_00071
+MRSS_11	pseudofinder	gene	147223	147845	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00457;old_locus_tag=MRSS_11_ign_00076
+MRSS_3	pseudofinder	gene	147404	147580	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 42.4%25 of the average length of hits to this gene.;locus_tag=MRSS_3_pseudo_00458;old_locus_tag=MRSS_00108
+MRSS_3	pseudofinder	gene	147581	147774	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00459;old_locus_tag=MRSS_3_ign_00072
+MRSS_5	pseudofinder	gene	147594	147760	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00460;old_locus_tag=MRSS_5_ign_00072
+MRSS_5	pseudofinder	gene	149120	149286	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00461;old_locus_tag=MRSS_5_ign_00073
+MRSS_11	pseudofinder	gene	149584	150395	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00462;old_locus_tag=MRSS_11_ign_00077
+MRSS_3	pseudofinder	gene	151457	151875	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00463;old_locus_tag=MRSS_3_ign_00073
+MRSS_5	pseudofinder	gene	151961	152847	.	+	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=MRSS_5_pseudo_00464;old_locus_tag=MRSS_5_ign_00077,MRSS_00262,MRSS_5_ign_00076
+MRSS_3	pseudofinder	gene	152922	153689	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00465;old_locus_tag=MRSS_3_ign_00074
+MRSS_11	pseudofinder	gene	153751	154244	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00466;old_locus_tag=MRSS_11_ign_00078
+MRSS_5	pseudofinder	gene	154599	154960	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00467;old_locus_tag=MRSS_5_ign_00078
+MRSS_3	pseudofinder	gene	155159	155367	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00468;old_locus_tag=MRSS_3_ign_00075
+MRSS_11	pseudofinder	gene	155735	156438	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00469;old_locus_tag=MRSS_11_ign_00079
+MRSS_3	pseudofinder	gene	156019	157405	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=MRSS_3_pseudo_00470;old_locus_tag=MRSS_3_ign_00076,MRSS_00112
+MRSS_11	pseudofinder	gene	157778	158304	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00471;old_locus_tag=MRSS_11_ign_00080
+MRSS_3	pseudofinder	gene	158948	159063	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 5 blast hits.;locus_tag=MRSS_3_pseudo_00472;old_locus_tag=MRSS_3_ign_00077
+MRSS_5	pseudofinder	gene	159322	159383	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 9 blast hits.;locus_tag=MRSS_5_pseudo_00473;old_locus_tag=MRSS_5_ign_00080
+MRSS_3	pseudofinder	gene	160332	160597	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00474;old_locus_tag=MRSS_3_ign_00078
+MRSS_11	pseudofinder	gene	160339	160604	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00475;old_locus_tag=MRSS_11_ign_00081
+MRSS_11	pseudofinder	gene	162137	162312	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00476;old_locus_tag=MRSS_11_ign_00082
+MRSS_5	pseudofinder	gene	163106	163726	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00477;old_locus_tag=MRSS_5_ign_00081
+MRSS_5	pseudofinder	gene	163995	164084	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 45.5%25 of the average length of hits to this gene.;locus_tag=MRSS_5_pseudo_00478;old_locus_tag=MRSS_00269
+MRSS_5	pseudofinder	gene	164087	164190	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_5_pseudo_00479;old_locus_tag=MRSS_5_ign_00082
+MRSS_3	pseudofinder	gene	166359	167773	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00480;old_locus_tag=MRSS_3_ign_00080
+MRSS_11	pseudofinder	gene	168213	168547	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00481;old_locus_tag=MRSS_11_ign_00086
+MRSS_3	pseudofinder	gene	169065	169816	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00482;old_locus_tag=MRSS_3_ign_00081
+MRSS_11	pseudofinder	gene	172531	173156	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00483;old_locus_tag=MRSS_11_ign_00088
+MRSS_11	pseudofinder	gene	173241	173507	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 27.4%25 of the average length of hits to this gene.;locus_tag=MRSS_11_pseudo_00484;old_locus_tag=MRSS_00561
+MRSS_3	pseudofinder	gene	173342	174534	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00485;old_locus_tag=MRSS_3_ign_00082
+MRSS_3	pseudofinder	gene	174536	174712	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 12.0%25 of the average length of hits to this gene.;locus_tag=MRSS_3_pseudo_00486;old_locus_tag=MRSS_00121
+MRSS_3	pseudofinder	gene	176515	176903	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00487;old_locus_tag=MRSS_3_ign_00084
+MRSS_3	pseudofinder	gene	178089	178222	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00488;old_locus_tag=MRSS_3_ign_00085
+MRSS_3	pseudofinder	gene	179809	180161	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_3_pseudo_00489;old_locus_tag=MRSS_3_ign_00086
+MRSS_11	pseudofinder	gene	179962	180533	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00490;old_locus_tag=MRSS_11_ign_00091
+MRSS_11	pseudofinder	gene	180766	181161	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 22.5%25 of the average length of hits to this gene.;locus_tag=MRSS_11_pseudo_00491;old_locus_tag=MRSS_00566
+MRSS_11	pseudofinder	gene	181570	182033	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00492;old_locus_tag=MRSS_11_ign_00092
+MRSS_11	pseudofinder	gene	184549	185459	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00493;old_locus_tag=MRSS_11_ign_00093
+MRSS_11	pseudofinder	gene	186259	186870	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 57.2%25 of the average length of hits to this gene.;locus_tag=MRSS_11_pseudo_00494;old_locus_tag=MRSS_00568
+MRSS_11	pseudofinder	gene	187803	188053	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=MRSS_11_pseudo_00495;old_locus_tag=MRSS_11_ign_00094
